@@ -1,0 +1,126 @@
+row_id,parent_category_true,parent_category_pred_missforest
+8,Home & Garden,Computers & Electronics
+17,Home & Garden,Computers & Electronics
+24,Home & Garden,Home & Garden
+29,Beauty & Wellness,Beauty & Wellness
+56,Home & Garden,Home & Garden
+69,Kids & Babies,Kids & Babies
+70,Computers & Electronics,Computers & Electronics
+78,Apparel,Apparel
+96,Beauty & Wellness,Beauty & Wellness
+112,Home & Garden,Home & Garden
+117,Home & Garden,Home & Garden
+123,Home & Garden,Home & Garden
+134,Beauty & Wellness,Beauty & Wellness
+152,Computers & Electronics,Computers & Electronics
+180,Beauty & Wellness,Home & Garden
+195,Computers & Electronics,Computers & Electronics
+198,Home & Garden,Computers & Electronics
+201,Beauty & Wellness,Beauty & Wellness
+204,Computers & Electronics,Computers & Electronics
+214,Computers & Electronics,Computers & Electronics
+243,Sports & Fitness,Sports & Fitness
+248,Beauty & Wellness,Computers & Electronics
+291,Home & Garden,Home & Garden
+295,Computers & Electronics,Computers & Electronics
+307,Computers & Electronics,Computers & Electronics
+319,Entertainment,Entertainment
+327,Computers & Electronics,Computers & Electronics
+331,Restaurants,Restaurants
+342,Computers & Electronics,Computers & Electronics
+366,Home & Garden,Home & Garden
+376,Financial Services,Financial Services
+447,Computers & Electronics,Computers & Electronics
+451,Home & Garden,Home & Garden
+454,Small Business,Small Business
+456,Kids & Babies,Kids & Babies
+469,Automotive,Computers & Electronics
+470,Computers & Electronics,Computers & Electronics
+473,Home & Garden,Home & Garden
+484,Computers & Electronics,Computers & Electronics
+490,Computers & Electronics,Computers & Electronics
+491,Computers & Electronics,Computers & Electronics
+494,Kids & Babies,Kids & Babies
+509,Home & Garden,Home & Garden
+510,Home & Garden,Computers & Electronics
+513,Home & Garden,Home & Garden
+531,Computers & Electronics,Computers & Electronics
+537,Home & Garden,Home & Garden
+538,Home & Garden,Home & Garden
+577,Home & Garden,Computers & Electronics
+589,Computers & Electronics,Computers & Electronics
+599,Computers & Electronics,Computers & Electronics
+605,Computers & Electronics,Computers & Electronics
+609,Computers & Electronics,Computers & Electronics
+625,Computers & Electronics,Computers & Electronics
+659,Financial Services,Financial Services
+670,Home & Garden,Home & Garden
+701,Computers & Electronics,Computers & Electronics
+710,Computers & Electronics,Computers & Electronics
+718,Home & Garden,Home & Garden
+730,Computers & Electronics,Computers & Electronics
+767,Home & Garden,Home & Garden
+779,Home & Garden,Home & Garden
+780,Apparel,Apparel
+792,Kids & Babies,Kids & Babies
+793,Home & Garden,Home & Garden
+809,Home & Garden,Home & Garden
+811,Automotive,Home & Garden
+812,Computers & Electronics,Computers & Electronics
+813,Computers & Electronics,Computers & Electronics
+819,Home & Garden,Home & Garden
+839,Computers & Electronics,Computers & Electronics
+852,Entertainment,Entertainment
+853,Automotive,Computers & Electronics
+857,Home & Garden,Home & Garden
+859,Home & Garden,Computers & Electronics
+865,Beauty & Wellness,Beauty & Wellness
+869,Computers & Electronics,Computers & Electronics
+882,Home & Garden,Home & Garden
+888,Home & Garden,Home & Garden
+890,Financial Services,Financial Services
+896,Computers & Electronics,Computers & Electronics
+898,Kids & Babies,Computers & Electronics
+942,Home & Garden,Home & Garden
+950,Computers & Electronics,Computers & Electronics
+961,Home & Garden,Home & Garden
+971,Home & Garden,Home & Garden
+975,Home & Garden,Home & Garden
+978,Computers & Electronics,Computers & Electronics
+987,Computers & Electronics,Computers & Electronics
+990,Automotive,Computers & Electronics
+997,Computers & Electronics,Computers & Electronics
+1003,Computers & Electronics,Computers & Electronics
+1011,Home & Garden,Home & Garden
+1012,Computers & Electronics,Computers & Electronics
+1019,Computers & Electronics,Computers & Electronics
+1028,Computers & Electronics,Computers & Electronics
+1035,Restaurants,Restaurants
+1040,Sports & Fitness,Home & Garden
+1057,Computers & Electronics,Sports & Fitness
+1063,Entertainment,Entertainment
+1067,Home & Garden,Home & Garden
+1090,Home & Garden,Home & Garden
+1095,Computers & Electronics,Entertainment
+1099,Sports & Fitness,Sports & Fitness
+1120,Entertainment,Entertainment
+1123,Computers & Electronics,Computers & Electronics
+1134,Computers & Electronics,Computers & Electronics
+1140,Computers & Electronics,Computers & Electronics
+1144,Travel,Travel
+1153,Home & Garden,Home & Garden
+1170,Restaurants,Restaurants
+1173,Home & Garden,Home & Garden
+1194,Home & Garden,Home & Garden
+1195,Apparel,Computers & Electronics
+1196,Computers & Electronics,Computers & Electronics
+1214,Kids & Babies,Kids & Babies
+1218,Entertainment,Computers & Electronics
+1227,Computers & Electronics,Computers & Electronics
+1251,Beauty & Wellness,Beauty & Wellness
+1262,Apparel,Apparel
+1264,Sports & Fitness,Sports & Fitness
+1272,Computers & Electronics,Computers & Electronics
+1281,Beauty & Wellness,Beauty & Wellness
+1290,Computers & Electronics,Computers & Electronics
+1303,Home & Garden,Home & Garden

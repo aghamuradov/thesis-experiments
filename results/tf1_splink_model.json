@@ -1,0 +1,201 @@
+{
+    "link_type": "dedupe_only",
+    "probability_two_random_records_match": 0.0001,
+    "retain_matching_columns": true,
+    "retain_intermediate_calculation_columns": true,
+    "additional_columns_to_retain": [],
+    "sql_dialect": "duckdb",
+    "linker_uid": "tj0rblp0",
+    "em_convergence": 0.0001,
+    "max_iterations": 25,
+    "bayes_factor_column_prefix": "bf_",
+    "term_frequency_adjustment_column_prefix": "tf_",
+    "comparison_vector_value_column_prefix": "gamma_",
+    "unique_id_column_name": "row_id",
+    "source_dataset_column_name": "source_dataset",
+    "blocking_rules_to_generate_predictions": [
+        {
+            "blocking_rule": "1=1",
+            "sql_dialect": "duckdb"
+        }
+    ],
+    "comparisons": [
+        {
+            "output_column_name": "url_norm",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"url_norm_l\" IS NULL OR \"url_norm_r\" IS NULL",
+                    "label_for_charts": "url_norm is NULL",
+                    "fix_m_probability": false,
+                    "fix_u_probability": false,
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"url_norm_l\" = \"url_norm_r\"",
+                    "label_for_charts": "Exact match on url_norm",
+                    "m_probability": 0.965468534823346,
+                    "u_probability": 0.006406609288243832,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.03453146517665396,
+                    "u_probability": 0.9935933907117561,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                }
+            ],
+            "comparison_description": "ExactMatch"
+        },
+        {
+            "output_column_name": "title_lower",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"title_lower_l\" IS NULL OR \"title_lower_r\" IS NULL",
+                    "label_for_charts": "title_lower is NULL",
+                    "fix_m_probability": false,
+                    "fix_u_probability": false,
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"title_lower_l\" = \"title_lower_r\"",
+                    "label_for_charts": "Exact match on title_lower",
+                    "m_probability": 0.26562022730617413,
+                    "u_probability": 5.831462817505854e-05,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"title_lower_l\", \"title_lower_r\") >= 0.9",
+                    "label_for_charts": "Jaro-Winkler distance of title_lower >= 0.9",
+                    "m_probability": 0.542599154015983,
+                    "u_probability": 0.00011959440693528954,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"title_lower_l\", \"title_lower_r\") >= 0.7",
+                    "label_for_charts": "Jaro-Winkler distance of title_lower >= 0.7",
+                    "m_probability": 0.13706711633823407,
+                    "u_probability": 0.0006068674864319651,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.054713502339608755,
+                    "u_probability": 0.9992152234784577,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                }
+            ],
+            "comparison_description": "JaroWinklerAtThresholds"
+        },
+        {
+            "output_column_name": "author",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"author_l\" IS NULL OR \"author_r\" IS NULL",
+                    "label_for_charts": "author is NULL",
+                    "fix_m_probability": false,
+                    "fix_u_probability": false,
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"author_l\" = \"author_r\"",
+                    "label_for_charts": "Exact match on author",
+                    "m_probability": 0.5465850476610776,
+                    "u_probability": 0.0016585075606398005,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.4534149523389224,
+                    "u_probability": 0.9983414924393602,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                }
+            ],
+            "comparison_description": "ExactMatch"
+        },
+        {
+            "output_column_name": "price_num",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"price_num_l\" IS NULL OR \"price_num_r\" IS NULL",
+                    "label_for_charts": "price_num is NULL",
+                    "fix_m_probability": false,
+                    "fix_u_probability": false,
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"price_num_l\" = \"price_num_r\"",
+                    "label_for_charts": "Exact match on price_num",
+                    "m_probability": 0.9657649096605272,
+                    "u_probability": 0.0039010788140538748,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ABS(\"price_num_l\" - \"price_num_r\") <= 0.01",
+                    "label_for_charts": "Absolute difference of 'price_num' <= 0.01",
+                    "m_probability": 4.419875573142521e-30,
+                    "u_probability": 0.001385132757027278,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.03423509033947285,
+                    "u_probability": 0.9947137884289189,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                }
+            ],
+            "comparison_description": "CustomComparison"
+        },
+        {
+            "output_column_name": "creation_date_iso",
+            "comparison_levels": [
+                {
+                    "sql_condition": "try_strptime(\"creation_date_iso_l\", '%Y-%m-%d %H:%M:%S') IS NULL OR try_strptime(\"creation_date_iso_r\", '%Y-%m-%d %H:%M:%S') IS NULL",
+                    "label_for_charts": "transformed creation_date_iso is NULL",
+                    "fix_m_probability": false,
+                    "fix_u_probability": false,
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"creation_date_iso_l\" = \"creation_date_iso_r\"",
+                    "label_for_charts": "Exact match on creation_date_iso",
+                    "m_probability": 0.07914411566484886,
+                    "u_probability": 4.645402583436867e-05,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ABS(EPOCH(try_strptime(\"creation_date_iso_l\", '%Y-%m-%d %H:%M:%S')) - EPOCH(try_strptime(\"creation_date_iso_r\", '%Y-%m-%d %H:%M:%S'))) <= 259200",
+                    "label_for_charts": "Abs difference of 'transformed creation_date_iso <= 72 hour'",
+                    "m_probability": 0.8582038266221644,
+                    "u_probability": 0.16156314831782065,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.06265205771298675,
+                    "u_probability": 0.8383903976563449,
+                    "fix_m_probability": false,
+                    "fix_u_probability": false
+                }
+            ],
+            "comparison_description": "AbsoluteTimeDifferenceAtThresholds"
+        }
+    ]
+}

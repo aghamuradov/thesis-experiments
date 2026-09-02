@@ -1,0 +1,496 @@
+row_id_raw,row_id_clean,raw_value,true_clean_value,format_class,split
+6,6,50% +4%CB,0.5,prozent,train
+7,7,$119.60,0.3005025125628141,dollarbetrag,train
+12,12,600 off,0.23094688221709,wortkombination,test
+14,14,$43.74,0.0683448178877795,dollarbetrag,test
+15,15,20%,0.2,prozent,test
+17,17,Reg: $65+,0.7223024780531171,sonstiges,train
+33,33,72,0.782693771062072,reine_zahl,train
+37,37,48% off,0.48,prozent,train
+39,39,48%,0.48,prozent,train
+43,43,55% Off,0.55,prozent,test
+47,47,50%,0.5,prozent,train
+48,48,400,0.4000040000400004,reine_zahl,train
+51,51,25% off,0.25,prozent,train
+56,56,65%,0.65,prozent,train
+62,62,$69.99,0.0777683948532189,dollarbetrag,test
+63,63,32% off,0.32,prozent,train
+68,68,50%,0.5,prozent,train
+69,69,33%,0.33,prozent,train
+70,70,39%,0.39,prozent,train
+74,74,$90,0.4737091425864519,dollarbetrag,train
+75,75,30% off,0.3,prozent,test
+79,79,70%,0.7,prozent,train
+91,91,50% off,0.5,prozent,test
+92,92,$30 off,0.3750468808601074,dollarbetrag,train
+94,94,52%,0.52,prozent,train
+105,105,$72 off,0.72,dollarbetrag,train
+111,111,$12.89,0.1265213977228111,dollarbetrag,train
+123,123,~42% off,0.42,prozent,train
+126,126,$400,0.2222234567969822,dollarbetrag,train
+129,129,20%,0.2,prozent,train
+132,132,100%,1.0,prozent,train
+136,136,14% off,0.14,prozent,train
+138,138,24%,0.24,prozent,train
+142,142,40% + $10,0.4,prozent,train
+143,143,$50,0.1785714285714285,dollarbetrag,train
+144,144,20% off,0.2,prozent,train
+145,145,%70 off,0.7,prozent,train
+151,151,$30 (15%),0.15,prozent,train
+152,152,$50,0.0667556742323097,dollarbetrag,train
+153,153,50% off,0.5,prozent,train
+155,155,$120,0.4013377926421405,dollarbetrag,train
+158,158,Up to 90%,0.9,prozent,train
+159,159,27%,0.27,prozent,test
+160,160,50% off,0.5,prozent,test
+165,165,25%,0.25,prozent,train
+167,167,50%,0.5,prozent,train
+173,173,$57,0.5278266506157977,dollarbetrag,train
+176,176,14% off,0.14,prozent,train
+180,180,44%,0.44,prozent,train
+184,184,@.00,0.0,sonstiges,train
+185,185,100%,1.0,prozent,train
+186,186,65%,0.65,prozent,test
+189,189,65%,0.65,prozent,test
+190,190,80%,0.8,prozent,train
+191,191,$23 off,0.5350081414282392,dollarbetrag,train
+192,192,$20 off,0.25,dollarbetrag,train
+195,195,23%,0.23,prozent,test
+202,202,$40 off,0.2247191011235955,dollarbetrag,test
+204,204,$600,1.0,dollarbetrag,train
+205,205,20%,0.2,prozent,train
+206,206,56%,0.56,prozent,train
+207,207,100 off,0.2000040000800016,wortkombination,train
+211,211,$200 off,0.2020222426489156,dollarbetrag,train
+215,215,nearly35%,0.35,prozent,train
+216,216,$70,0.1627944835926416,dollarbetrag,train
+218,218,$10,0.4001600640256102,dollarbetrag,train
+219,219,50% off,0.5,prozent,test
+221,221,$700 off,0.3334937279358168,dollarbetrag,train
+228,228,57% off,0.57,prozent,train
+240,240,25%,0.25,prozent,test
+241,241,300$,0.5,sonstiges,train
+242,242,11%,0.11,prozent,test
+244,244,$27.00,0.7716490425835952,dollarbetrag,test
+245,245,$20 off,0.0333338888981483,dollarbetrag,test
+249,249,$41.00,0.1790471199615703,dollarbetrag,train
+267,267,55%+15%,0.55,prozent,train
+275,275,47% off,0.47,prozent,train
+281,281,50%,0.5,prozent,train
+285,285,$50.00,0.25,dollarbetrag,test
+288,288,50%off,0.5,prozent,train
+289,289,$15,0.3750937734433608,dollarbetrag,train
+290,290,$90 off,0.4737091425864519,dollarbetrag,train
+291,291,25% + 2pc,0.25,prozent,train
+295,295,41%,0.41,prozent,train
+296,296,$10 off,0.5,dollarbetrag,train
+297,297,100%,1.0,prozent,test
+300,300,$15.00,0.2308047391906446,dollarbetrag,train
+306,306,$225 off.,0.2368445983641933,dollarbetrag,train
+308,308,$1.50,0.4322766570605187,dollarbetrag,test
+311,311,$20 Off,0.2500312539067383,dollarbetrag,train
+316,316,80%,0.8,prozent,test
+319,319,42%,0.42,prozent,test
+320,320,100,1.0,reine_zahl,test
+321,321,90% off,0.9,prozent,train
+323,323,40% off,0.4,prozent,train
+326,326,23% Off,0.23,prozent,train
+330,329,50%,0.5,prozent,train
+334,333,48%,0.48,prozent,train
+337,336,10-25% off,0.25,prozent,train
+338,337,33% off,0.33,prozent,train
+340,339,$200 off,0.2861230329041488,dollarbetrag,train
+341,340,50%,0.5,prozent,test
+342,341,68% off,0.68,prozent,test
+345,344,43% Off,0.43,prozent,train
+346,345,80-90% off,0.9,prozent,train
+353,352,100%,1.0,prozent,test
+355,354,33%,0.33,prozent,train
+356,355,80-85%,0.85,prozent,test
+358,357,55% off,0.55,prozent,train
+366,365,50% OFF,0.5,prozent,train
+367,366,100%,1.0,prozent,train
+370,369,40%,0.4,prozent,train
+372,371,30%,0.3,prozent,train
+377,376,100%,1.0,prozent,train
+378,377,up to 42%,0.42,prozent,train
+379,378,$10 off,0.5,dollarbetrag,test
+382,381,10% w BYOD,0.1,prozent,train
+383,382,$202 off,0.6733333333333333,dollarbetrag,train
+386,385,100%,1.0,prozent,train
+387,386,20% off,0.2,prozent,train
+388,387,35% off,0.35,prozent,train
+392,391,56% off,0.56,prozent,train
+393,392,10,0.2500625156289072,reine_zahl,train
+395,394,30%,0.3,prozent,test
+398,397,70%,0.7,prozent,train
+399,398,39% off,0.39,prozent,train
+407,406,30$,0.1775147928994082,sonstiges,test
+408,407,50%,0.5,prozent,train
+409,408,26%,0.26,prozent,train
+410,409,40%,0.4,prozent,test
+413,412,$60 off,0.1714334695277007,dollarbetrag,train
+417,416,35%,0.35,prozent,test
+420,419,$200 off,0.1333333333333333,dollarbetrag,train
+422,421,$100 off,0.1814947910994954,dollarbetrag,train
+429,428,33.4,0.6258197489226157,reine_zahl,test
+430,429,$60,0.6000600060006,dollarbetrag,test
+433,432,70% off,0.7,prozent,train
+434,433,$34.25,0.0538522012578616,dollarbetrag,train
+440,439,$12,0.3000750187546887,dollarbetrag,train
+444,443,75% OFF,0.75,prozent,train
+446,445,38,0.0405121589782407,reine_zahl,train
+450,449,$73 off,0.5105252115532555,dollarbetrag,train
+451,450,55% off,0.55,prozent,train
+453,452,7.5%,0.075,prozent,train
+454,453,64% off,0.64,prozent,train
+455,454,50%,0.5,prozent,train
+456,455,10$,0.2000400080016003,sonstiges,test
+458,457,$101.99,0.3399779992666422,dollarbetrag,test
+460,459,31% off,0.31,prozent,train
+461,460,45%,0.45,prozent,train
+465,464,40%,0.4,prozent,test
+466,465,$11.00,0.2000363702491362,dollarbetrag,train
+471,470,39% off,0.39,prozent,train
+479,478,18 - 20% o,0.2,prozent,train
+484,483,$430,0.2019727571629873,dollarbetrag,train
+486,485,50$,0.1428571428571428,sonstiges,test
+493,492,90 % off,0.9,prozent,test
+496,495,$8.3,0.1660332066413282,dollarbetrag,train
+500,499,$100 off,0.2000040000800016,dollarbetrag,train
+502,501,31%,0.31,prozent,train
+503,502,50% off,0.5,prozent,test
+508,507,50%,0.5,prozent,train
+510,509,$20 off,0.1379500620775279,dollarbetrag,train
+514,513,50%,0.5,prozent,train
+515,514,30%,0.3,prozent,train
+516,515,50%,0.5,prozent,train
+519,518,25% OFF,0.25,prozent,train
+520,519,15% off,0.15,prozent,train
+526,525,90% off,0.9,prozent,test
+527,526,$1500,0.2985674732632827,dollarbetrag,train
+531,530,$200 off,0.1250007812548828,dollarbetrag,test
+534,533,47%,0.47,prozent,train
+535,534,40%,0.4,prozent,train
+537,536,45%,0.45,prozent,train
+540,539,20%,0.2,prozent,train
+546,545,$20,0.1000050002500125,dollarbetrag,train
+549,548,61%,0.61,prozent,test
+551,550,$40 off,0.2127659574468085,dollarbetrag,train
+552,551,70$ off,0.3517941501658458,wortkombination,train
+565,564,15%,0.15,prozent,train
+567,566,85%,0.85,prozent,train
+571,570,10 $ off,0.3333333333333333,wortkombination,train
+573,572,43% off,0.43,prozent,test
+575,574,50% off,0.5,prozent,train
+576,575,40% off,0.4,prozent,train
+577,576,60%,0.6,prozent,train
+578,577,40% off,0.4,prozent,train
+579,578,50,0.5617977528089888,reine_zahl,train
+583,582,55% off,0.55,prozent,test
+584,583,38%,0.38,prozent,train
+585,584,$15,0.1875234404300537,dollarbetrag,test
+586,585,55%,0.55,prozent,test
+587,586,~50%,0.5,prozent,train
+591,590,50% off,0.5,prozent,train
+593,592,56,0.3275428437737614,reine_zahl,train
+595,594,55% off,0.55,prozent,test
+596,595,80% off,0.8,prozent,train
+599,598,$30,0.2307869836141241,dollarbetrag,test
+601,600,33%,0.33,prozent,test
+602,601,84%,0.84,prozent,test
+603,602,$50,0.2631717458813621,dollarbetrag,train
+605,604,150$ off,0.375,wortkombination,test
+608,607,$30,0.4286326618088297,dollarbetrag,train
+609,608,26% Off,0.26,prozent,test
+613,612,55%,0.55,prozent,test
+615,614,15% off,0.15,prozent,train
+617,616,67%,0.67,prozent,train
+619,618,30-40%,0.4,prozent,test
+625,624,80% off,0.8,prozent,train
+632,631,50%,0.5,prozent,train
+633,632,$100,0.2000040000800016,dollarbetrag,train
+637,636,100%,1.0,prozent,test
+640,639,$30 off,0.0909118458135095,dollarbetrag,train
+642,641,$17,0.1082871520479011,dollarbetrag,test
+647,646,$60 off,0.3351955307262569,dollarbetrag,test
+648,647,50%,0.5,prozent,train
+651,650,40% off,0.4,prozent,train
+653,652,22% off,0.22,prozent,train
+654,653,42% off,0.42,prozent,train
+658,657,11,0.1208924057588746,reine_zahl,train
+660,659,30% off,0.3,prozent,train
+663,662,95%,0.95,prozent,test
+667,666,15$ off,0.3333333333333333,wortkombination,train
+668,667,25% off,0.25,prozent,train
+670,669,50% off,0.5,prozent,test
+675,674,60,0.9837678307919332,reine_zahl,train
+676,675,78% off,0.78,prozent,train
+678,677,25% off,0.25,prozent,test
+681,680,50% off,0.5,prozent,train
+684,683,50%,0.5,prozent,train
+685,684,75% off,0.75,prozent,train
+686,685,99%,0.99,prozent,train
+692,691,50%,0.5,prozent,test
+694,693,81%,0.81,prozent,train
+696,695,20% to 30%,0.2,prozent,train
+704,703,50% off,0.5,prozent,train
+708,707,50-70%,0.7,prozent,train
+711,710,93%,0.93,prozent,train
+713,712,40%,0.4,prozent,train
+714,713,30%,0.3,prozent,train
+718,717,44%,0.44,prozent,test
+719,718,45%,0.45,prozent,train
+723,722,70$,0.6365372374283895,sonstiges,train
+724,723,20% off,0.2,prozent,train
+727,726,$50,0.0646830530401035,dollarbetrag,test
+729,728,31% off,0.31,prozent,train
+732,731,46% off,0.46,prozent,train
+733,732,$17.00,0.1030365476695557,dollarbetrag,test
+734,733,40%,0.4,prozent,test
+739,738,64% off,0.64,prozent,train
+741,740,60% off,0.6,prozent,train
+742,741,40% Off,0.4,prozent,train
+743,742,$440 off,0.1913875598086124,dollarbetrag,train
+744,743,50% off,0.5,prozent,train
+746,745,41%,0.41,prozent,test
+751,750,40$ off,0.1481536353198266,wortkombination,train
+754,753,$70 off,0.2811244979919678,dollarbetrag,train
+755,754,15% off,0.15,prozent,test
+761,760,150$,0.2504173622704507,sonstiges,train
+762,761,50%,0.5,prozent,test
+766,765,"15%,20%",0.15,prozent,train
+767,766,$145,0.6605922551252847,dollarbetrag,test
+771,770,23%,0.23,prozent,train
+772,771,17%,0.17,prozent,train
+775,774,$50 off,0.3875968992248062,dollarbetrag,train
+778,777,38% Off,0.38,prozent,train
+779,778,50%,0.5,prozent,train
+780,779,22,0.5119851058878288,reine_zahl,train
+782,781,20-22% Off,0.22,prozent,train
+787,786,90%,0.9,prozent,test
+789,788,$10 off,0.66711140760507,dollarbetrag,train
+790,789,< 50% o,0.5,prozent,test
+793,792,50%,0.5,prozent,train
+798,797,70%,0.7,prozent,train
+805,804,54% off,0.54,prozent,test
+807,806,36% Off,0.36,prozent,test
+808,807,$15,0.5,dollarbetrag,train
+812,811,43%,0.43,prozent,train
+813,812,$5,0.4995004995004995,dollarbetrag,train
+814,813,50% off,0.5,prozent,train
+816,815,42% Off,0.42,prozent,test
+824,823,26%,0.26,prozent,train
+832,831,60% ++,0.6,prozent,train
+835,834,$8 off,0.190976366674624,dollarbetrag,train
+837,836,$15 off,0.2500416736122687,dollarbetrag,train
+838,837,40% Off,0.4,prozent,test
+839,838,40% off,0.4,prozent,train
+842,841,65%,0.65,prozent,train
+850,849,55,0.2340425531914893,reine_zahl,test
+852,851,10% off,0.1,prozent,train
+853,852,70%,0.7,prozent,train
+856,855,Up to 50%,0.5,prozent,train
+857,856,50$ + 15%,0.15,prozent,train
+864,863,67% off,0.67,prozent,train
+865,864,81% off,0.81,prozent,test
+867,866,- $9.00,0.5628517823639775,sonstiges,train
+869,868,52% off,0.52,prozent,train
+872,871,80% off,0.8,prozent,train
+876,875,61% off,0.61,prozent,train
+879,878,Up to 60%,0.6,prozent,train
+880,879,$20 credit,0.5,dollarbetrag,train
+881,880,24%,0.24,prozent,test
+882,881,75%,0.75,prozent,train
+883,882,31% off,0.31,prozent,train
+885,884,27%,0.27,prozent,train
+896,895,75%,0.75,prozent,test
+897,896,59%,0.59,prozent,train
+899,898,$400,0.2500015625097657,dollarbetrag,test
+903,902,$40 off,0.1538520712335089,dollarbetrag,train
+908,907,40% off,0.4,prozent,train
+909,908,34%,0.34,prozent,train
+910,909,40%,0.4,prozent,train
+914,913,50% off,0.5,prozent,train
+915,914,40%,0.4,prozent,train
+922,921,55%,0.55,prozent,test
+924,923,20%,0.2,prozent,train
+931,930,100%,1.0,prozent,test
+933,932,30% off,0.3,prozent,train
+936,935,$1000.00,0.5000025000125,dollarbetrag,train
+938,937,$80 off,0.7273388489862715,dollarbetrag,test
+942,941,$900 off,0.310345897744475,dollarbetrag,test
+944,943,$20 off,0.1000050002500125,dollarbetrag,train
+947,946,50%,0.5,prozent,test
+950,949,$350 off,0.9971509971509972,dollarbetrag,train
+953,952,25%,0.25,prozent,train
+954,953,$60,0.2000066668888963,dollarbetrag,train
+957,956,$10 off,0.144927536231884,dollarbetrag,train
+958,957,12% off,0.12,prozent,test
+963,962,25% off,0.25,prozent,train
+964,963,35% off,0.35,prozent,test
+965,964,10%,0.1,prozent,train
+966,965,50%,0.5,prozent,test
+969,968,63% off,0.63,prozent,test
+970,969,250,0.2175805047867711,reine_zahl,train
+974,973,4.70,0.5228031145717464,reine_zahl,test
+980,979,40%,0.4,prozent,train
+983,982,25-30%+20%,0.3,prozent,test
+986,985,20%,0.2,prozent,train
+987,986,94-99%,0.99,prozent,test
+990,989,20%,0.2,prozent,train
+995,994,43%,0.43,prozent,test
+996,995,40%,0.4,prozent,train
+997,996,$75=20gb,0.5,dollarbetrag,train
+999,998,27%,0.27,prozent,test
+1000,999,$39.97,0.5712448192082321,dollarbetrag,train
+1003,1002,50%,0.5,prozent,test
+1008,1007,50%,0.5,prozent,train
+1010,1009,47%,0.47,prozent,train
+1011,1010,50% off,0.5,prozent,test
+1012,1011,30%off,0.3,prozent,train
+1013,1012,$965,0.4204811349940523,dollarbetrag,test
+1015,1014,85,0.625782227784731,reine_zahl,train
+1016,1015,99.99,0.5882456759618778,reine_zahl,test
+1017,1016,52%,0.52,prozent,train
+1018,1017,30% OFF,0.3,prozent,train
+1019,1018,45% off,0.45,prozent,test
+1022,1021,$25,0.3247174957786725,dollarbetrag,train
+1027,1026,100%,1.0,prozent,train
+1028,1027,33%,0.33,prozent,test
+1029,1028,40% off,0.4,prozent,train
+1030,1029,40%,0.4,prozent,train
+1032,1031,62% Off,0.62,prozent,train
+1034,1033,$5.00,0.2942907592701589,dollarbetrag,train
+1036,1035,$30 off,0.3000300030003,dollarbetrag,train
+1037,1036,$100,0.1112347052280311,dollarbetrag,test
+1039,1038,20%,0.2,prozent,train
+1040,1039,30%,0.3,prozent,train
+1041,1040,$190.00,0.4761904761904761,dollarbetrag,test
+1042,1041,30,0.2013422818791946,reine_zahl,train
+1045,1044,30%,0.3,prozent,train
+1046,1045,36%,0.36,prozent,train
+1049,1048,20% off,0.2,prozent,test
+1050,1049,$24 off,0.1263224380230538,dollarbetrag,test
+1051,1050,20%,0.2,prozent,train
+1052,1051,40% off,0.4,prozent,train
+1054,1053,24% off,0.24,prozent,train
+1055,1054,30%+,0.3,prozent,test
+1058,1057,$20,0.0401614490250808,dollarbetrag,train
+1062,1061,50%,0.5,prozent,test
+1067,1066,40% off,0.4,prozent,test
+1068,1067,$90,0.1956564273136372,dollarbetrag,test
+1069,1068,30%,0.3,prozent,train
+1076,1075,22.3% - 26,0.223,prozent,test
+1078,1077,5% off,0.05,prozent,train
+1079,1078,$10,0.1428775539362766,dollarbetrag,train
+1080,1079,100%,1.0,prozent,test
+1081,1080,50% off,0.5,prozent,train
+1083,1082,50% off,0.5,prozent,train
+1084,1083,110,0.44,reine_zahl,train
+1086,1085,$6 off,0.2000666888962987,dollarbetrag,test
+1087,1086,30% Off,0.3,prozent,train
+1090,1089,$150,0.1580611169652265,dollarbetrag,train
+1091,1090,$3.50,0.1197399931577146,dollarbetrag,train
+1093,1092,30~60%,0.6,prozent,test
+1095,1094,$80off,0.1670146137787056,dollarbetrag,train
+1100,1099,$50,0.3333333333333333,dollarbetrag,train
+1101,1100,50% off,0.5,prozent,train
+1102,1101,60% off,0.6,prozent,test
+1104,1103,$80 off,0.3077041424670179,dollarbetrag,train
+1105,1104,8%,0.08,prozent,train
+1107,1106,45% off,0.45,prozent,test
+1108,1107,80%,0.8,prozent,train
+1111,1110,50% off,0.5,prozent,train
+1112,1111,$35,0.2058944643802576,dollarbetrag,train
+1114,1113,$40.00,0.7274049827241317,dollarbetrag,test
+1115,1114,50% off,0.5,prozent,test
+1119,1118,50% off,0.5,prozent,test
+1121,1120,25% off,0.25,prozent,test
+1123,1122,22% off,0.22,prozent,train
+1126,1125,50%,0.5,prozent,train
+1128,1127,24% off,0.24,prozent,test
+1129,1128,45,0.4736842105263157,reine_zahl,train
+1130,1129,$10 OFF,0.111123458162018,dollarbetrag,test
+1131,1130,56% off,0.56,prozent,train
+1136,1135,Reg $399,0.7702702702702703,sonstiges,train
+1139,1138,40%,0.4,prozent,train
+1140,1139,21,0.0138248847926267,reine_zahl,test
+1144,1143,up to 20%,0.2,prozent,train
+1146,1145,26% Off,0.26,prozent,train
+1148,1147,50%,0.5,prozent,train
+1149,1148,28%,0.28,prozent,test
+1152,1151,31%,0.31,prozent,test
+1153,1152,15%,0.15,prozent,train
+1154,1153,60%,0.6,prozent,train
+1157,1156,$130,0.5652419670420453,dollarbetrag,train
+1163,1162,30% Off,0.3,prozent,train
+1166,1165,$10 off,0.2857142857142857,dollarbetrag,test
+1167,1166,$5 off $25,0.1666666666666666,dollarbetrag,test
+1168,1167,$45 off,0.2432563922374182,dollarbetrag,train
+1172,1171,70$,0.1758793969849246,sonstiges,train
+1173,1172,Extra 10%,0.1,prozent,train
+1177,1176,50%,0.5,prozent,train
+1180,1179,27%,0.27,prozent,train
+1183,1182,20% Off,0.2,prozent,train
+1184,1183,10% off,0.1,prozent,test
+1185,1184,90%,0.9,prozent,test
+1186,1185,$50,0.3378378378378378,dollarbetrag,train
+1187,1186,$75 off,0.6818801709246295,dollarbetrag,test
+1188,1187,50%,0.5,prozent,train
+1189,1188,$130,0.1780846312963191,dollarbetrag,train
+1190,1189,40% OFF,0.4,prozent,train
+1192,1191,32%,0.32,prozent,train
+1195,1194,50% off,0.5,prozent,train
+1198,1197,6 off,0.2501042100875364,wortkombination,test
+1203,1202,20$ off,0.2857551078725532,wortkombination,train
+1204,1203,$11 off,0.5502751375687843,dollarbetrag,test
+1205,1204,50% off,0.5,prozent,train
+1208,1207,$5 off,0.3333333333333333,dollarbetrag,train
+1209,1208,$50 off,0.1176498270547542,dollarbetrag,train
+1210,1209,$20,0.1923261852101163,dollarbetrag,train
+1215,1214,55%,0.55,prozent,test
+1218,1217,29% off,0.29,prozent,test
+1224,1223,100.00,0.2500062501562539,reine_zahl,train
+1226,1225,36% off,0.36,prozent,train
+1227,1226,100%,1.0,prozent,test
+1230,1229,30% off,0.3,prozent,test
+1231,1230,$15,0.1071428571428571,dollarbetrag,train
+1232,1231,30%,0.3,prozent,train
+1233,1232,50%,0.5,prozent,test
+1236,1235,33% off,0.33,prozent,train
+1237,1236,50%,0.5,prozent,train
+1241,1240,60%,0.6,prozent,train
+1244,1243,$80 off,0.2105318561014763,dollarbetrag,test
+1245,1244,48%,0.48,prozent,train
+1246,1245,75%,0.75,prozent,train
+1249,1248,$200,0.1250781738586616,dollarbetrag,train
+1251,1250,$20,0.5001250312578145,dollarbetrag,test
+1252,1251,$200 off,0.4000080001600032,dollarbetrag,train
+1253,1252,60% off,0.6,prozent,train
+1255,1254,20,0.3333888981496916,reine_zahl,test
+1264,1263,66%,0.66,prozent,train
+1266,1265,47% Off,0.47,prozent,test
+1268,1267,16%,0.16,prozent,train
+1272,1271,13% Off,0.13,prozent,test
+1275,1274,40% off,0.4,prozent,train
+1278,1277,$70.00,0.2800112004480179,dollarbetrag,train
+1281,1280,86%,0.86,prozent,test
+1282,1281,67%,0.67,prozent,train
+1286,1285,$70,0.233341111370379,dollarbetrag,train
+1289,1288,$91 Off,0.3791666666666666,dollarbetrag,test
+1293,1292,$5.00,0.0299419126893825,dollarbetrag,train
+1294,1293,20%,0.2,prozent,train
+1296,1295,50% off,0.5,prozent,train
+1297,1296,38% off,0.38,prozent,test
+1298,1297,15 off,0.2142857142857142,wortkombination,train
+1301,1300,$200,0.3091190108191654,dollarbetrag,train
+1304,1303,$5,0.2174858634188778,dollarbetrag,test
+1305,1304,34%,0.34,prozent,train
+1306,1305,50% off,0.5,prozent,test
+1308,1307,46% off,0.46,prozent,train
+1310,1309,$58,0.58,dollarbetrag,train
+1313,1312,$500 off,0.99601593625498,dollarbetrag,train
+1314,1313,$60.00,0.3750234389649353,dollarbetrag,train
+1323,1322,50% off,0.5,prozent,test
+1324,1323,$5 off,0.2000800320128051,dollarbetrag,test

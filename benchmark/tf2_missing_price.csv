@@ -1,0 +1,1085 @@
+row_id,price_input,views,votes,replies,parent_category,thread_category,source,split
+0,6.99,15445,132,89,,Home & Garden,Staples,train
+3,469.99,1769,2,13,,Sports & Fitness,Costco,train
+5,39.99,112880,27,261,,Beauty & Wellness,Costco,train
+6,27.5,50708,118,280,Apparel,Men's Shoes,Redirectingat,train
+7,,20936,27,157,,Home & Garden,Home Depot,val
+8,,9571,29,71,Home & Garden,Pets,PetSmart,test
+9,327.99,862,0,5,,Computers & Electronics,Amazon.ca,train
+10,39.0,630,-1,2,Computers & Electronics,Telecom,Ivctel,train
+11,199.0,25080,25,101,Kids & Babies,Toys & Games,Costco,train
+12,1998.0,7974,4,28,Computers & Electronics,Televisions,Samsung,train
+13,15.0,50584,32,209,,Apparel,Old Navy,train
+14,596.25,8168,10,46,,Computers & Electronics,Amazon.ca,train
+15,39.99,17472,15,68,,Computers & Electronics,Amazon.ca,train
+17,,13518,40,31,Home & Garden,Furniture,Costco,val
+18,2.49,2444,0,11,,Groceries,Amazon.ca,train
+19,29.99,2710,25,5,,Computers & Electronics,Amazon.ca,train
+21,10.0,709,12,4,Small Business,Office Supplies,Staples,train
+22,7.92,3549,1,7,Entertainment,Other,Walmart,train
+24,,2776,1,8,Home & Garden,Other,Amazon.ca,val
+25,45.0,12540,29,45,Entertainment,"Books, Music, Movies, Magazines",Awin1,train
+26,10.0,95676,116,725,Financial Services,Credit Cards,American Express,train
+27,4.05,9051,26,33,Sports & Fitness,Equipment,Amazon,train
+28,,16725,5,48,Home & Garden,Appliances,Home Depot,val
+30,30.0,2810,1,8,Home & Garden,Other,Amazon.ca,train
+31,45.0,12549,29,45,Entertainment,"Books, Music, Movies, Magazines",Awin1,train
+32,289.0,16764,5,48,Home & Garden,Appliances,Home Depot,train
+33,19.99,4105,7,11,Computers & Electronics,Other,Shoppers Drug Mart,train
+34,,13708,1,67,Computers & Electronics,Telecom,Oxio,val
+36,5.97,9909,61,33,Beauty & Wellness,Other,Amazon.ca,train
+37,50.6,17182,16,81,Home & Garden,Home Improvement & Tools,Home Depot,train
+38,21.99,1762,0,6,,Home & Garden,Canadian Tire,train
+39,169.99,4897,19,16,Computers & Electronics,Computers & Tablets/eReaders,Walmart,train
+41,,2413,2,9,,Computers & Electronics,Vuugo.com,val
+42,10.56,1426,11,2,,Beauty & Wellness,Amazon.ca,train
+43,,899,8,1,Computers & Electronics,Peripherals & Accessories,Amazon.ca,test
+45,19.97,2577,6,11,Home & Garden,Appliances,Walmart,train
+46,94.0,929,4,3,Computers & Electronics,Video Games,Newegg,train
+47,,453,1,1,Computers & Electronics,Video Games,The Source,val
+48,599.99,7540,6,28,,Sports & Fitness,Costco,train
+49,,20827,19,112,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,test
+50,89.97,1205,4,5,Home & Garden,Home Improvement & Tools,Outilspierreberger,train
+51,,1369,7,4,,Beauty & Wellness,Amazon.ca,test
+52,,1153,1,2,,Computers & Electronics,Amazon.ca,test
+54,499.0,56067,73,259,Computers & Electronics,Cell Phones,Costco,train
+56,24.49,6752,11,38,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+57,139.0,21234,8,133,Home & Garden,Home Improvement & Tools,Home Depot,train
+58,199.97,1508,4,5,Home & Garden,Home Improvement & Tools,Outilspierreberger,train
+59,199.97,1513,4,5,Home & Garden,Home Improvement & Tools,Outilspierreberger,train
+60,7.46,998,1,1,,Groceries,Amazon.ca,train
+61,,689,-5,0,,Groceries,Amazon.ca,test
+62,829.99,2455,-9,12,,Computers & Electronics,Memory Express,train
+63,149.99,6944,2,24,,Computers & Electronics,Amazon.ca,train
+64,,5734,-11,30,,Sports & Fitness,Best Buy,test
+65,28.0,13157,34,47,Home & Garden,Appliances,Bed Bath And Beyond,train
+66,175.99,5779,6,27,,Computers & Electronics,Slickdeals,train
+67,300.0,138745,58,450,Financial Services,Banking & Investing,CIBC,train
+68,1504.5,5688,-1,31,Computers & Electronics,Computers & Tablets/eReaders,Lenovo Canada,train
+69,29.97,10125,0,51,Kids & Babies,Toys & Games,Amazon,train
+70,28.97,6506,11,20,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+71,164.96,17877,19,75,,Home & Garden,The Source,train
+74,99.99,6850,7,31,Automotive,Auto Parts & Accessories,Amazon.ca,train
+76,12.99,50410,33,105,Beauty & Wellness,Other,Costco,train
+77,99.96,34201,21,120,Computers & Electronics,Video Games,Walmart,train
+78,,11780,17,43,Apparel,Men's Apparel,Lululemon,test
+80,184.99,10163,11,87,,Computers & Electronics,Newegg,train
+81,,4922,-1,34,,Computers & Electronics,Buyapi,test
+82,999.0,55472,23,361,,Computers & Electronics,Dell,train
+83,,507393,63,2791,Computers & Electronics,Televisions,Costco,val
+84,684.97,8174,8,41,Computers & Electronics,Computers & Tablets/eReaders,Grand And Toy,train
+85,,14307,6,72,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,test
+86,,1876,6,11,,Computers & Electronics,Redirectingat,val
+87,1.0,74586,32,354,,Computers & Electronics,Costco,train
+88,4.0,31282,38,154,,Computers & Electronics,Dollarama,train
+89,1.0,74604,32,354,,Computers & Electronics,Costco,train
+90,4.0,31291,38,154,,Computers & Electronics,Dollarama,train
+91,19.98,2530,6,8,Home & Garden,Appliances,Walmart,train
+92,,3976,-2,21,Computers & Electronics,Other,Memory Express,val
+94,118.4,1948,3,2,Home & Garden,Home Improvement & Tools,Home Depot,train
+95,,4264,-4,18,Computers & Electronics,Video Games,Nintendo,val
+96,9.98,2482,-2,6,Beauty & Wellness,Beauty Supplies & Personal Care,Walmart,train
+97,49.99,13964,0,33,,Computers & Electronics,,train
+99,,3370,4,3,Apparel,Children's Apparel,LEGO,test
+104,100.0,35253,74,263,Financial Services,Credit Cards,American Express,train
+105,28.0,5814,12,9,Computers & Electronics,Video Games,Visions Electronics,train
+106,98.0,4641,4,13,Computers & Electronics,Peripherals & Accessories,Visions Electronics,train
+108,39.99,1479,2,6,,Computers & Electronics,Memory Express,train
+110,5.27,2472,4,8,,Home & Garden,Home Hardware,train
+111,,1454,4,0,,Computers & Electronics,Amazon.ca,test
+114,60.0,6417,18,29,,Groceries,Shoppers Drug Mart,train
+116,,5253,10,19,Computers & Electronics,Peripherals & Accessories,Lenovo Canada,val
+117,429.95,1147,0,3,Home & Garden,Appliances,Tkqlhce,train
+118,1299.0,13681,16,91,,Computers & Electronics,Best Buy,train
+119,429.95,1151,0,3,Home & Garden,Appliances,Tkqlhce,train
+120,,13691,16,91,,Computers & Electronics,Best Buy,val
+122,,7343,-3,20,Financial Services,Banking & Investing,Scotiabank,val
+123,,20736,34,72,Home & Garden,Appliances,The Bay,val
+124,449.99,2652,5,10,,Computers & Electronics,Costco,train
+125,5.0,2031,3,2,Apparel,Women's Apparel,Thyme Maternity,train
+126,1399.99,6984,7,35,Computers & Electronics,Computers & Tablets/eReaders,Costco,train
+128,97.0,3863,3,7,Computers & Electronics,Home Theatre & Audio,Visions Electronics,train
+129,214.99,43931,23,155,Home & Garden,Home Improvement & Tools,Costco,train
+130,215.99,68343,71,301,,Computers & Electronics,Lenovo Canada,train
+131,,19107,28,92,,Home & Garden,Home Depot,test
+132,0.0,6145,115,19,Computers & Electronics,Video Games,Epic Games,train
+133,60.0,355278,116,1205,Computers & Electronics,Peripherals & Accessories,Costco,train
+134,,3191,0,33,Beauty & Wellness,Beauty Supplies & Personal Care,Performancehealth,test
+135,,2560,3,15,Beauty & Wellness,Beauty Supplies & Personal Care,Poppacorn,test
+136,128.0,4593,5,31,Home & Garden,Home Improvement & Tools,Home Depot,train
+138,404.99,9636,10,42,Home & Garden,Appliances,eBay.ca,train
+139,,1225,3,1,Computers & Electronics,Peripherals & Accessories,Newegg,val
+140,65.0,1384,-5,4,,Groceries,Amazon.ca,train
+142,,3841,5,25,Computers & Electronics,Telecom,Staples,test
+143,,14431,13,31,Computers & Electronics,Peripherals & Accessories,Best Buy,val
+144,249.99,6847,0,37,,Computers & Electronics,Amazon,train
+145,,1056,1,1,Computers & Electronics,Video Games,Anrdoezrs,test
+146,100.0,11473,-10,74,,Automotive,Canadian Tire,train
+147,69.99,36832,28,54,,Home & Garden,Costco,train
+148,,28281,26,120,Computers & Electronics,Cell Phones,Samsung,test
+150,34.99,26850,73,133,,Computers & Electronics,The Source,train
+151,169.99,3915,0,11,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+152,699.0,2435,0,18,Computers & Electronics,Televisions,Leon's,train
+154,69.99,222213,83,961,,Groceries,Costco,train
+155,,742,0,1,Home & Garden,Outdoors & Patio,Lowe's,test
+156,,18679,17,67,,Computers & Electronics,Lenovo Canada,test
+157,4.0,10650,22,61,,Computers & Electronics,Dollarama,train
+159,36.64,6757,-7,29,,Computers & Electronics,Amazon.ca,train
+162,43.0,29469,5,132,Computers & Electronics,Telecom,Ebox,train
+163,39.99,5565,-2,39,Computers & Electronics,Telecom,Altimatel,train
+164,0.99,5718,-1,35,Financial Services,Banking & Investing,National Bank,train
+166,326.35,33447,0,188,Computers & Electronics,Cell Phones,Awin1,train
+167,99.99,7962,12,33,Automotive,Auto Parts & Accessories,Amazon.ca,train
+168,59.45,3902,-4,14,,Sports & Fitness,Amazon.ca,train
+172,64.99,24128,52,124,Computers & Electronics,Video Games,Nintendo,train
+173,50.99,2217,0,4,,Computers & Electronics,Amazon,train
+174,,732,0,0,,Home & Garden,Real Canadian Superstore,val
+175,889.99,20296,-73,85,,Computers & Electronics,Costco,train
+176,21.49,6679,27,32,,Entertainment,Costco,train
+178,,17733,15,67,Home & Garden,Appliances,Ninjakitchen,val
+179,199.99,17735,15,67,Home & Garden,Appliances,Ninjakitchen,train
+180,7.47,2293,3,7,Beauty & Wellness,Other,Home Hardware,train
+181,9.96,2455,2,11,Computers & Electronics,Video Games,Walmart,train
+182,,17436,0,95,Computers & Electronics,Cell Phones,Amazon.ca,test
+183,100.0,140192,164,874,Financial Services,Credit Cards,President's Choice,train
+184,4.99,917,0,2,Small Business,Office Supplies,Staples,train
+187,150.0,5586,8,32,,Home & Garden,Sharkclean,train
+189,199.0,6982,1,18,Computers & Electronics,Home Theatre & Audio,Best Buy,train
+191,19.99,28905,0,132,Computers & Electronics,Home Theatre & Audio,Amazon,train
+192,60.0,3070,8,19,,Computers & Electronics,Amazon.ca,train
+194,,4578,2,27,,Computers & Electronics,Dell,val
+195,,6155,10,23,Computers & Electronics,Peripherals & Accessories,Amazon.ca,val
+196,11.22,4509,0,44,,Groceries,Amazon,train
+197,99.0,286662,156,1070,Computers & Electronics,Cell Phones,Freedom Mobile,train
+198,999.99,211563,33,594,Home & Garden,Outdoors & Patio,Costco,train
+199,459.96,5782,7,37,,Computers & Electronics,Amazon.ca,train
+200,299.99,3254,-1,19,,Home & Garden,Costco,train
+201,12.99,5001,10,12,Beauty & Wellness,Beauty Supplies & Personal Care,,train
+202,138.0,7935,1,20,Home & Garden,Home Improvement & Tools,Home Depot,train
+203,,13632,2,64,Computers & Electronics,Computers & Tablets/eReaders,Jdoqocy,val
+204,,12003,7,65,Computers & Electronics,Cell Phones,Freedom Mobile,val
+205,262.0,4300,4,28,Home & Garden,Outdoors & Patio,Amazon.ca,train
+206,39.98,57029,175,304,,Home & Garden,Miele,train
+207,,6232,-4,24,Computers & Electronics,Home Theatre & Audio,Costco,val
+208,24.99,1989,11,6,Entertainment,"Books, Music, Movies, Magazines",Best Buy,train
+209,24.99,1992,11,6,Entertainment,"Books, Music, Movies, Magazines",Best Buy,train
+210,174.99,1090,-6,6,,Computers & Electronics,Amazon.ca,train
+211,,18721,-25,117,,Beauty & Wellness,Costco,val
+212,39.99,33468,87,164,Home & Garden,Other,Costco,train
+213,,1252,1,1,,Apparel,Theflashsale,test
+214,39.96,2647,2,13,Computers & Electronics,Video Games,Walmart,train
+215,199.0,872,1,1,Home & Garden,Appliances,Best Buy,train
+216,,4650,4,19,Kids & Babies,Baby Needs,Activebaby,test
+218,14.99,14499,59,51,Computers & Electronics,Peripherals & Accessories,123Ink.ca,train
+220,10.0,2845,5,10,,Financial Services,Ampli,train
+221,1398.99,60246,42,304,,Computers & Electronics,Costco,train
+222,250.0,130126,99,836,,Computers & Electronics,American Express,train
+224,,1764,-5,14,Restaurants,Other,,val
+225,20.0,2521,0,9,,Restaurants,Uber Eats,train
+226,,68628,50,282,Financial Services,Banking & Investing,Tangerine Chequing,test
+227,270.0,38407,10,122,,Home & Garden,Costco,train
+228,3.0,2194,6,8,,Groceries,Amazon.ca,train
+229,1169.99,2680,1,6,,Computers & Electronics,,train
+230,,708,3,1,Entertainment,"Books, Music, Movies, Magazines",Twitter,val
+231,,28231,46,106,,Computers & Electronics,,test
+232,699.0,16310,11,45,,Sports & Fitness,Walmart,train
+236,10.0,3931,8,19,Financial Services,Credit Cards,American Express,train
+237,75.0,1909,0,14,Sports & Fitness,Equipment,Linksynergy,train
+240,,2009,-3,7,,Computers & Electronics,Adobe,val
+241,,10650,14,52,Financial Services,Banking & Investing,TD Bank,test
+242,,16695,17,93,Home & Garden,Home Improvement & Tools,Amazon.ca,test
+243,,4304,-9,13,Sports & Fitness,Equipment,Costco,test
+244,,13941,37,47,Computers & Electronics,Cell Phones,Microsoft Store,test
+245,579.99,2482,-4,4,,Computers & Electronics,Amazon,train
+246,300.0,82977,15,345,Financial Services,Banking & Investing,Scotiabank,train
+247,1.25,2081,4,5,Home & Garden,Other,Dollarama,train
+248,175.47,7919,0,66,Beauty & Wellness,Other,Amazon,train
+249,187.99,2662,0,13,Computers & Electronics,Peripherals & Accessories,Amazon,train
+250,,9511,30,26,Home & Garden,Home Improvement & Tools,Home Depot,val
+251,21.99,1409,12,1,Computers & Electronics,Video Games,Best Buy,train
+253,80.63,1913,4,10,,Home & Garden,Princess Auto,train
+254,20.0,8765,0,24,,Automotive,Maxi,train
+255,4499.0,4646,6,18,Home & Garden,Appliances,Redirectingat,train
+256,29.99,8337,0,36,,Computers & Electronics,Amazon,train
+257,899.99,78875,57,264,,Computers & Electronics,Costco,train
+258,25.0,3107,-16,16,Small Business,Office Supplies,Crescentindustries,train
+259,39.99,8032,24,31,,Sports & Fitness,Svpsports,train
+261,,6944,-3,34,,Computers & Electronics,Best Buy,val
+262,60.0,3757,7,9,Beauty & Wellness,Beauty Supplies & Personal Care,Amazon.ca,train
+264,,3297,0,9,Computers & Electronics,Other,Amazon,val
+266,1.56,2340,0,9,,Groceries,,train
+267,,1159,-1,0,Apparel,Women's Shoes,Linksynergy,val
+268,,5743,7,19,,Automotive,Amazon.ca,val
+269,64.99,1729,0,1,Computers & Electronics,Video Games,Nintendo,train
+270,,44969,54,178,Computers & Electronics,Peripherals & Accessories,Lenovo Canada,test
+271,39.99,1811,-3,5,Computers & Electronics,Other,Canadian Tire,train
+272,,3899,4,17,Home & Garden,Home Improvement & Tools,Canadian Tire,val
+273,154.99,12250,26,42,Computers & Electronics,Video Games,Nintendo,train
+274,,6747,0,44,Financial Services,Banking & Investing,HSBC,val
+275,50.0,4875,-3,18,,Apparel,Tilley.com,train
+276,7.07,6537,29,29,Computers & Electronics,Cameras,Amazon.ca,train
+277,29.99,2560,4,10,Home & Garden,Other,Canadian Tire,train
+278,34.88,8149,-3,24,Home & Garden,Home Improvement & Tools,Home Depot,train
+279,,20838,28,93,,Computers & Electronics,Costco,test
+280,0.67,2005,6,2,,Groceries,Fresh Co,train
+281,,16311,40,24,Home & Garden,Other,Amazon.ca,val
+282,3.5,5420,5,31,,Apparel,Dollarama,train
+283,29.86,6672,9,20,Home & Garden,Home Improvement & Tools,Home Depot,train
+284,29.73,14445,32,38,,Home & Garden,Home Depot,train
+285,,14973,17,63,Computers & Electronics,Cell Phones,Costco,test
+286,,1245,0,0,,Home & Garden,Amazon,val
+287,1199.0,6408,7,25,,Sports & Fitness,Princess Auto,train
+288,50.0,10083,8,31,Restaurants,Restaurants & Bars,Domino's Pizza,train
+289,24.99,2779,5,11,,Computers & Electronics,Amazon.ca,train
+290,99.99,1634,1,4,,Automotive,Amazon.ca,train
+291,,6503,11,16,Home & Garden,Appliances,Mailchi,val
+293,8.99,2293,7,4,Restaurants,Fast Food,A & W,train
+294,39.0,59207,20,176,,Computers & Electronics,Kqzyfj,train
+295,16.99,2593,8,11,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+296,10.0,10451,33,55,Restaurants,Restaurants & Bars,Uber Eats,train
+298,1149.99,2907,6,11,Computers & Electronics,Computers & Tablets/eReaders,Dell,train
+299,80.0,8002,17,41,,Groceries,Rakuten,train
+300,,7726,19,36,,Home & Garden,Costco,val
+301,35.0,2546,6,11,,Computers & Electronics,Amazon.ca,train
+303,350.0,14181,9,74,Computers & Electronics,Cell Phones,Amazon.ca,train
+305,33.99,3619,6,13,,Computers & Electronics,Amazon.ca,train
+306,724.99,21842,6,78,Computers & Electronics,Cell Phones,Best Buy Mobile,train
+307,647.0,869,-1,2,Computers & Electronics,Home Theatre & Audio,2001 Audio Video,train
+308,1.97,643,1,0,,Home & Garden,Giant Tiger,train
+309,,10012,9,41,,Groceries,Costco,val
+310,29.99,1650,-7,11,,Computers & Electronics,Amazon.ca,train
+311,,4977,2,33,,Computers & Electronics,Amazon.ca,val
+312,25.19,2146,-2,7,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+313,,10788,6,38,Computers & Electronics,Peripherals & Accessories,Best Buy,val
+314,3.99,923,-14,2,,Restaurants,Ginospizza,train
+315,50.0,43459,22,262,,Financial Services,,train
+316,5.99,9206,9,52,Computers & Electronics,Video Games,Microsoft Store,train
+317,,2549,8,9,Home & Garden,Home Improvement & Tools,Best Buy,val
+318,60.0,90542,130,338,,Groceries,Costco,train
+319,,657,1,1,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,val
+320,0.0,929,11,1,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,train
+321,3.99,4723,13,14,Computers & Electronics,Video Games,Playstation,train
+323,199.98,12076,15,46,,Sports & Fitness,Sport Chek,train
+324,463.67,28596,13,120,,Computers & Electronics,Dell,train
+325,379.99,15624,14,49,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+326,,1782,7,4,Computers & Electronics,Peripherals & Accessories,Amazon.ca,val
+327,419.99,9635,4,54,Computers & Electronics,Televisions,Canadian Tire,train
+328,,14379,10,56,Home & Garden,Home Improvement & Tools,Home Depot,val
+331,,2167,3,1,,Computers & Electronics,Amazon.ca,test
+332,,20305,2,56,Computers & Electronics,Computers & Tablets/eReaders,Dell,test
+333,25.99,4097,-4,5,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+335,75.0,71727,56,388,Financial Services,Banking & Investing,CIBC,train
+337,,4974,-6,18,,Computers & Electronics,Newegg,val
+338,110.49,1659,-2,2,Automotive,Auto Parts & Accessories,Amazon.ca,train
+339,499.0,2170,0,9,Computers & Electronics,Televisions,Best Buy,train
+340,1491.0,25148,4,73,,Home & Garden,Home Depot,train
+341,559.0,87989,90,328,Computers & Electronics,Computers & Tablets/eReaders,Lenovo Canada,train
+342,,14430,39,51,,Groceries,Amazon.ca,test
+343,2.48,17671,0,52,,Groceries,,train
+344,,10965,0,29,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,test
+345,19.99,9978,34,33,,Apparel,Svpsports,train
+346,,8357,3,34,Computers & Electronics,Cameras,Amazon.ca,test
+347,299.99,7997,0,45,Computers & Electronics,Computers & Tablets/eReaders,eBay.ca,train
+348,597.0,51261,15,235,Computers & Electronics,Televisions,Costco,train
+350,4.0,1583,0,1,Automotive,Other,Dollarama,train
+351,50.0,17536,5,56,Financial Services,Credit Cards,TD First Class Visa Infinite,train
+353,27.86,2752,7,2,Kids & Babies,Toys & Games,Walmart,train
+354,243.13,4685,0,13,Computers & Electronics,Cell Phones,Mobvoi,train
+355,,6577,17,47,Computers & Electronics,Video Games,Redirectingat,test
+357,,3488,3,4,Computers & Electronics,Home Theatre & Audio,Urban Outfitters,test
+358,449.0,57770,91,287,,Computers & Electronics,Amazon.ca,train
+359,69.99,2892,6,12,Home & Garden,Other,Costco,train
+360,,851,-3,0,Computers & Electronics,Televisions,Amazon.ca,test
+361,,15570,13,59,,Computers & Electronics,Awin1,val
+363,,4086,-1,11,Home & Garden,Appliances,Home Depot,val
+364,15.0,11136,24,41,Computers & Electronics,Other,Microsoft,train
+365,,1419,2,3,Home & Garden,Appliances,Quincailleriedante,val
+367,75.0,19379,30,82,Financial Services,Banking & Investing,,train
+368,,861,1,1,Computers & Electronics,Video Games,Gamesplanet,test
+369,142.0,38772,-11,229,Computers & Electronics,Cell Phones,Awin1,train
+371,24.49,7204,-8,46,Sports & Fitness,Clothing & Accessories,Amazon.ca,train
+372,47.99,5417,13,30,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+373,,1426,8,5,Kids & Babies,School Supplies,,test
+374,,26934,39,94,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,test
+376,50.0,1522,1,3,Travel,Other,TD First Class Visa Infinite,train
+377,518.0,10001,12,49,Computers & Electronics,Cameras,Insta360,train
+378,10.0,1431,3,12,Home & Garden,Pets,Rens Pets Depot,train
+379,99.99,5818,5,10,Computers & Electronics,Home Theatre & Audio,Costco,train
+380,15.0,23223,-6,119,,Groceries,Costco,train
+381,40.5,11235,2,43,Computers & Electronics,Cell Phones,Cityfone,train
+382,98.0,2532,3,13,Home & Garden,Outdoors & Patio,Visions Electronics,train
+383,14.99,3037,2,5,Home & Garden,Other,Princess Auto,train
+384,36.0,6156,-18,30,Entertainment,Other,East Side Marios,train
+387,,3187,9,5,,Home & Garden,Amazon.ca,test
+388,14.36,1221,1,0,Computers & Electronics,Cell Phones,Amazon.ca,train
+389,,2712,3,18,,Computers & Electronics,Amazon.ca,test
+390,,4155,-4,21,Computers & Electronics,Other,,test
+391,2.0,925,-2,5,Beauty & Wellness,Beauty Supplies & Personal Care,Walmart,train
+392,,1097,-1,2,Computers & Electronics,Peripherals & Accessories,Amazon.ca,val
+393,,3176,0,14,Computers & Electronics,Computers & Tablets/eReaders,Dell,test
+394,,11419,15,49,,Computers & Electronics,Redirectingat,val
+395,439.99,3674,-3,21,,Computers & Electronics,Newegg,train
+396,698.0,60949,25,319,Computers & Electronics,Televisions,Visions Electronics,train
+398,146.87,3071,5,6,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+399,,1669,1,4,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,val
+401,,2854,4,3,,Home & Garden,Princess Auto,val
+402,0.65,3801,8,9,Small Business,Office Supplies,Amazon.ca,train
+403,24.99,19654,-58,106,Computers & Electronics,Telecom,Carrytel,train
+404,14.0,1178,2,0,Kids & Babies,Toys & Games,Walmart,train
+406,139.0,11149,4,72,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+407,140.0,2146,2,7,Beauty & Wellness,Beauty Supplies & Personal Care,Walmart,train
+408,,33217,16,142,Home & Garden,Appliances,Bed Bath And Beyond,test
+410,15.89,1623,0,0,Kids & Babies,Toys & Games,Walmart,train
+411,79.99,3614,1,19,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+412,,5792,10,16,Computers & Electronics,Other,Costco,test
+413,,4313,5,20,Home & Garden,Home Services & Repairs,Home Depot,test
+414,366.33,36910,20,107,Home & Garden,Home Improvement & Tools,Home Depot,train
+415,,85380,144,547,Financial Services,Credit Cards,American Express,val
+417,23.99,1510,-2,3,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+418,23.99,1512,-2,3,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+419,1300.0,17398,27,85,,Automotive,Costco,train
+420,,2499,2,4,,Automotive,Costco,test
+421,450.98,2644,-2,3,Home & Garden,Appliances,Best Buy,train
+422,,41209,7,183,Computers & Electronics,Televisions,Costco,val
+423,,157899,64,779,,Computers & Electronics,Costco,test
+424,699.99,2930,0,6,,Computers & Electronics,Costco,train
+425,187.49,7674,4,46,Home & Garden,Appliances,Best Buy,train
+426,399.0,2191,-1,5,,Computers & Electronics,Best Buy,train
+427,395.76,3233,9,16,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+428,,5765,11,21,Small Business,Office Supplies,Staples,test
+429,,1378,1,3,,Kids & Babies,Best Buy,val
+430,,3432,3,7,,Computers & Electronics,London Drugs,test
+431,3.99,1599,6,10,Entertainment,Other,Microsoft,train
+432,329.0,1487,-1,3,Computers & Electronics,Home Theatre & Audio,Best Buy,train
+433,601.75,2123,2,1,,Computers & Electronics,Shoprbc,train
+434,30.0,37631,29,186,Home & Garden,Other,Sherwin-Williams,train
+435,299.0,1263,-1,3,,Home & Garden,Canadian Tire,train
+436,1.0,1940,0,4,Computers & Electronics,Computers & Tablets/eReaders,Staples,train
+437,75.0,2543,-2,6,Home & Garden,Appliances,Walmart,train
+439,27.99,3766,6,8,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+440,,3026,6,13,Automotive,Other,Costco,val
+441,,33789,20,114,Home & Garden,Appliances,Home Depot,test
+443,9.99,850,-2,0,Computers & Electronics,Video Games,Microsoft,train
+444,215.99,1401,1,4,,Computers & Electronics,Dell,train
+445,,1890,4,5,Home & Garden,Home Decor,Costco,val
+446,59.99,12641,-9,78,Computers & Electronics,Telecom,Rogers,train
+447,,2826,14,6,Computers & Electronics,Video Games,Best Buy,val
+449,69.99,3223,6,15,Home & Garden,Outdoors & Patio,Canadian Tire,train
+450,199.99,25852,9,86,Home & Garden,Appliances,Today's Shopping Choice,train
+451,1.0,11562,51,66,Computers & Electronics,Other,Amazon.ca,train
+453,0.97,4684,38,9,Small Business,Office Supplies,Amazon.ca,train
+454,,10021,21,32,Sports & Fitness,Other,Alltrails,test
+455,,5761,26,15,Kids & Babies,Toys & Games,Costco,test
+457,198.0,2756,8,12,,Computers & Electronics,Visions Electronics,train
+458,,9248,13,48,Computers & Electronics,Peripherals & Accessories,Dollarama,test
+459,10.99,3599,2,7,,Groceries,Amazon.ca,train
+460,764.99,1313,-3,3,,Home & Garden,Amazon.ca,train
+462,,2120,9,16,Computers & Electronics,Video Games,Microsoft Store,test
+463,,9932,23,29,Home & Garden,Home Improvement & Tools,Dollarama,val
+464,102.0,1227,2,6,,Apparel,Sport Chek,train
+465,43.99,2896,7,12,,Home & Garden,Costco,train
+467,15.0,9358,2,28,Computers & Electronics,Cell Phones,Freedom Mobile,train
+469,45.0,845,1,1,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+470,146.87,2139,1,5,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+471,199.0,21116,21,149,Home & Garden,Home Improvement & Tools,Bcfasteners,train
+472,145.59,9160,7,29,Home & Garden,Appliances,Bed Bath And Beyond,train
+473,,4976,8,21,Home & Garden,Outdoors & Patio,Home Depot,test
+474,,43435,67,197,,Automotive,Costco,test
+475,,1521,1,3,Home & Garden,Home Decor,Walmart,val
+476,59.99,2492,0,4,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,train
+478,89.99,3409,4,5,,Computers & Electronics,Amazon,train
+479,,3675,0,6,,Travel,Costco,val
+480,24.99,8440,3,12,,Home & Garden,Princess Auto,train
+481,,51299,62,135,Home & Garden,Other,No Frills,val
+483,,28334,23,155,Computers & Electronics,Cameras,Bccamera,val
+484,100.0,1521,-2,0,,Apparel,Tkqlhce,train
+485,300.0,1492,0,0,Entertainment,Other,Amazon.ca,train
+486,1.25,9194,19,32,,Beauty & Wellness,Dollarama,train
+487,,8043,5,17,Home & Garden,Home Improvement & Tools,Dollarama,test
+488,,8922,-13,32,Automotive,Auto Parts & Accessories,Costco,val
+489,41.0,135468,25,503,Computers & Electronics,Cell Phones,Rogers,train
+490,94.99,3828,-1,14,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+491,10.0,1594,3,1,,Restaurants,Pi-Co,train
+492,,1423,6,0,Kids & Babies,Baby Needs,Shoppers Drug Mart,val
+493,0.1,8053,11,22,Kids & Babies,School Supplies,Walmart,train
+495,,2097,1,3,Computers & Electronics,Video Games,Cdkeys,test
+496,19.97,1942,8,2,Kids & Babies,School Supplies,Walmart,train
+497,,16860,16,55,,Computers & Electronics,Amazon.ca,val
+498,23.98,12499,11,50,Home & Garden,Home Improvement & Tools,Home Depot,train
+499,,3893,-1,10,Computers & Electronics,Computers & Tablets/eReaders,The Source,val
+500,30.0,13061,-7,81,,Computers & Electronics,Canada Computers,train
+501,19.99,1616,3,2,Apparel,Women's Shoes,Costco,train
+503,,12588,4,38,,Beauty & Wellness,Costco,test
+505,,16024,18,85,,Apparel,Sport Chek,val
+506,,2126,2,4,Small Business,Office Supplies,Amazon.ca,val
+507,2.99,7112,10,25,Computers & Electronics,Computers & Tablets/eReaders,Easynews,train
+508,599.99,1578,5,5,Home & Garden,Appliances,Tsc,train
+509,124.98,5495,0,19,Home & Garden,Outdoors & Patio,Walmart,train
+510,,9358,7,37,Computers & Electronics,Computers & Tablets/eReaders,Staples,test
+511,14.99,4993,2,8,Kids & Babies,School Supplies,Costco,train
+512,,8334,1,17,Home & Garden,Appliances,Amazon.ca,val
+513,199.99,1051,0,0,Computers & Electronics,Cameras,Canon.ca,train
+514,129.97,6267,5,23,Computers & Electronics,Peripherals & Accessories,Staples,train
+517,499.0,1114,2,0,Home & Garden,Appliances,Canadiantire,train
+519,99.95,10182,10,78,,Computers & Electronics,Amazon.ca,train
+520,30.0,1336,-3,0,Home & Garden,Outdoors & Patio,Princess Auto,train
+521,12.0,5999,3,27,Home & Garden,Other,Loblaws,train
+522,175.0,3749,6,15,Computers & Electronics,Computers & Tablets/eReaders,Canada Computers,train
+524,25.0,4926,-3,20,,Groceries,Costco,train
+525,45.0,56221,17,141,Computers & Electronics,Cell Phones,Fido,train
+526,,13899,5,64,Computers & Electronics,Televisions,Tanguay,val
+527,139.99,2681,1,2,,Automotive,Princess Auto,train
+528,349.99,25262,12,65,Home & Garden,Other,Costco,train
+529,3.49,25726,30,73,,Beauty & Wellness,Costco,train
+530,,4400,4,20,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,test
+531,249.0,17241,13,91,Home & Garden,Home Improvement & Tools,Home Depot,train
+533,23.17,4308,10,4,,Kids & Babies,Amazon.ca,train
+535,99.99,3950,1,15,,Sports & Fitness,Best Buy,train
+536,139.99,2100,1,5,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+537,,5362,5,3,Home & Garden,Furniture,Costco,test
+538,179.99,5364,5,3,Home & Garden,Furniture,Costco,train
+540,20.81,12767,0,63,,Computers & Electronics,Awin1,train
+541,,2004,3,2,,Beauty & Wellness,Walmart,test
+542,9.99,8989,15,45,Restaurants,Fast Food,Metro,train
+543,,2308,-3,4,Computers & Electronics,Video Games,Nintendo,test
+544,358.24,9071,0,39,,Sports & Fitness,Amazon.ca,train
+545,179.99,2892,0,8,Computers & Electronics,Computers & Tablets/eReaders,Lenovo Canada,train
+546,28.99,1898,0,4,,Sports & Fitness,Costco,train
+547,249.99,1773,1,3,,Home & Garden,Visions Electronics,train
+548,12.6,1984,-13,7,,Home & Garden,Amazon.ca,train
+550,148.0,2174,0,2,Home & Garden,Home Improvement & Tools,Home Depot,train
+551,,3947,1,9,Computers & Electronics,Other,Sport Chek,val
+552,,4513,2,13,,Computers & Electronics,Amazon.ca,test
+553,,2115,1,13,,Computers & Electronics,Canada Computers,test
+554,,2793,2,3,,Computers & Electronics,Shoppers Drug Mart,test
+555,,1584,4,0,,Home & Garden,Dollarama,test
+556,9.79,11451,35,47,,Home & Garden,Amazon.ca,train
+557,0.94,878,1,0,,Groceries,,train
+558,20.0,12891,25,65,,Apparel,Altitude Sports,train
+561,68.0,36805,-11,144,,Computers & Electronics,,train
+563,,19997,35,55,Computers & Electronics,Home Theatre & Audio,Bose Canada,val
+564,85.0,3784,-4,10,Computers & Electronics,Video Games,Kqzyfj,train
+565,299.99,2934,3,13,Home & Garden,Home Improvement & Tools,Lowe's,train
+566,85.0,1469,3,6,Computers & Electronics,Video Games,,train
+567,9.98,25390,32,52,,Automotive,Walmart,train
+570,20.0,2711,4,8,Computers & Electronics,Home Theatre & Audio,Drop,train
+571,39.99,5794,15,5,Apparel,Men's Shoes,Svpsports,train
+572,399.0,1532,-2,1,Computers & Electronics,Home Theatre & Audio,Epson.ca,train
+573,,7914,5,33,,Beauty & Wellness,Walmart,val
+575,119.99,184,1,0,,Sports & Fitness,Outterlimits,train
+576,15.98,3251,6,4,Home & Garden,Home Decor,Linen Chest,train
+578,39.0,3093,2,14,Computers & Electronics,Video Games,The Source,train
+579,25.0,2951,2,10,Computers & Electronics,Telecom,Rogers,train
+580,300.0,2431,-9,2,,Entertainment,Playolg,train
+581,159.99,24496,52,135,Computers & Electronics,Peripherals & Accessories,Telus,train
+583,,1697,2,3,Computers & Electronics,Video Games,Best Buy,val
+584,64.99,8314,0,16,Computers & Electronics,Home Theatre & Audio,Costco,train
+585,,28828,64,104,Automotive,Other,Princess Auto,test
+586,34.97,4249,5,9,Home & Garden,Other,Staples,train
+587,,3971,8,12,Computers & Electronics,Computers & Tablets/eReaders,Shoppers Drug Mart,val
+588,70.0,1980,3,0,Computers & Electronics,Home Theatre & Audio,Walmart,train
+591,1599.0,9245,-3,28,Computers & Electronics,Computers & Tablets/eReaders,Amazon,train
+592,114.97,3547,-3,8,Computers & Electronics,Home Theatre & Audio,Canex,train
+593,,3832,2,10,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,val
+594,29.99,2014,3,3,Computers & Electronics,Peripherals & Accessories,Best Buy,train
+595,,10579,19,55,Home & Garden,Home Improvement & Tools,Canadian Tire,test
+597,,2833,1,10,,Computers & Electronics,Amazon.ca,test
+598,,25751,25,249,Computers & Electronics,Telecom,Costco,val
+599,21.75,1870,4,9,Computers & Electronics,Computers & Tablets/eReaders,Apple,train
+600,,1961,0,4,Computers & Electronics,Peripherals & Accessories,Amazon.ca,val
+601,22.39,2206,8,9,Computers & Electronics,Video Games,Playstation,train
+602,,16902,10,95,Home & Garden,Home Improvement & Tools,Costco,val
+603,,29195,75,92,Computers & Electronics,Video Games,Walmart,test
+604,,49774,37,262,Computers & Electronics,Peripherals & Accessories,Walmart,test
+605,,3820,1,11,Sports & Fitness,Other,Costco,val
+606,699.0,43575,25,158,Computers & Electronics,Computers & Tablets/eReaders,Staples,train
+607,,32071,14,105,,Computers & Electronics,Costco,val
+608,147.99,13443,12,51,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+609,2.99,3946,20,13,,Groceries,Amazon.ca,train
+610,,2434,-3,9,,Sports & Fitness,Canadian Tire,val
+611,3.0,2435,14,20,Home & Garden,Pets,PetSmart,train
+612,,9952,14,23,,Sports & Fitness,Linksynergy,val
+616,,2607,3,5,,Computers & Electronics,Amazon.ca,val
+617,69.99,1853,6,6,,Computers & Electronics,Amazon.ca,train
+618,400.0,794,1,1,Computers & Electronics,Home Theatre & Audio,Elac,train
+619,14.99,2491,4,11,,Home & Garden,Canadian Tire,train
+620,,2681,6,9,Computers & Electronics,Computers & Tablets/eReaders,Dell,test
+621,44.98,6323,-11,55,Computers & Electronics,Telecom,Facebook,train
+622,,7675,10,37,Computers & Electronics,Cell Phones,,val
+623,,14155,-17,60,Home & Garden,Appliances,Samsung,val
+624,,35651,-6,82,Computers & Electronics,Cell Phones,Fido,test
+625,49.0,980,1,0,,Kids & Babies,,train
+627,,6796,0,46,Beauty & Wellness,Beauty Supplies & Personal Care,Wellwise,val
+628,389.0,6798,0,46,Beauty & Wellness,Beauty Supplies & Personal Care,Wellwise,train
+630,12.99,1456,-2,10,,Computers & Electronics,Canada Computers,train
+631,98.0,15637,30,72,Home & Garden,Home Improvement & Tools,Home Depot,train
+632,399.99,4566,-1,20,Computers & Electronics,Computers & Tablets/eReaders,The Source,train
+633,4.0,30477,49,108,,Apparel,Dollarama,train
+634,99.0,18539,16,65,Home & Garden,Home Improvement & Tools,Lowe's,train
+635,30.0,8488,7,32,,Home & Garden,Princess Auto,train
+638,79.99,10374,26,41,,Computers & Electronics,Best Buy,train
+639,,40720,20,151,,Computers & Electronics,Staples,val
+640,14.99,4513,5,19,,Computers & Electronics,Costco,train
+641,,901,5,2,,Computers & Electronics,Newegg,val
+643,54.85,1986,-1,4,,Sports & Fitness,Amazon,train
+644,,1784,4,5,,Computers & Electronics,Apple,val
+646,,4604,13,26,Home & Garden,Home Improvement & Tools,Home Depot,val
+647,,4864,9,11,Beauty & Wellness,Beauty Supplies & Personal Care,Amazon.ca,test
+648,,16480,7,48,,Home & Garden,Home Depot,test
+649,19.96,1581,1,4,Computers & Electronics,Video Games,Walmart,train
+650,,72777,134,259,Apparel,Men's Apparel,Tkqlhce,test
+651,478.69,10805,20,54,,Computers & Electronics,Amazon.ca,train
+652,62.59,7478,-5,46,Computers & Electronics,Video Games,Cdkeys,train
+653,39.9,10971,0,38,Automotive,Auto Parts & Accessories,Amazon.ca,train
+654,459.99,7236,3,24,Home & Garden,Home Improvement & Tools,Costco,train
+655,,1754,-1,4,Computers & Electronics,Video Games,Nintendo,test
+657,,2297,-3,3,,Computers & Electronics,Amazon.ca,test
+658,,10364,15,30,Financial Services,Banking & Investing,CIBC,test
+659,19.99,2561,3,3,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+660,,1523,-2,5,Computers & Electronics,Cell Phones,Fastchargedocks,val
+662,1.1,1139,10,3,,Computers & Electronics,STEAM,train
+663,149.99,8237,4,25,Sports & Fitness,Equipment,Costco,train
+664,,32531,71,140,,Computers & Electronics,Costco,test
+666,30.0,5077,9,10,Restaurants,Coffee & Desserts,Lindt,train
+667,59.99,9776,36,112,Entertainment,Events & Attractions,Formula1,train
+668,,3646,7,25,Travel,Rail & Bus,Gotransit,test
+669,49.0,2597,3,6,Home & Garden,Home Improvement & Tools,Home Depot,train
+670,506.77,6913,2,24,Sports & Fitness,Equipment,Amazon.ca,train
+671,729.0,9247,5,23,Travel,Other,Apple,train
+672,149.99,4814,9,17,,Home & Garden,Canadian Tire,train
+673,649.0,2559,-4,10,,Home & Garden,The-Home-Depot-Ca,train
+674,,972,1,3,Kids & Babies,Other,Canadian Tire,val
+675,3.44,1001,1,1,Kids & Babies,Baby Needs,,train
+676,14.88,97539,116,380,Home & Garden,Home Improvement & Tools,Home Depot,train
+677,59.99,2099,2,4,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+678,109.68,1926,0,6,,Computers & Electronics,Amazon.ca,train
+679,39.99,1825,8,3,,Computers & Electronics,Amazon.ca,train
+680,,714,0,0,Computers & Electronics,Other,Canadian Tire,test
+681,119.99,6984,3,29,Computers & Electronics,Peripherals & Accessories,Dell,train
+682,899.0,6094,9,26,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+683,24.99,10739,22,73,Computers & Electronics,Video Games,STEAM,train
+685,0.08,7932,-1,42,,Computers & Electronics,Ionos,train
+686,,33194,33,114,Computers & Electronics,Video Games,Walmart,val
+687,1299.0,5515,11,14,Computers & Electronics,Home Theatre & Audio,Best Buy,train
+688,200.0,51319,16,83,Financial Services,Banking & Investing,Simplii,train
+689,39.99,4182,14,23,Computers & Electronics,Peripherals & Accessories,Amazon,train
+690,,1290,0,1,Computers & Electronics,Video Games,Best Buy,val
+691,1.0,1272,2,2,Computers & Electronics,Other,No Frills,train
+692,,2753,5,14,,Home & Garden,Costco,val
+693,0.96,2582,12,3,,Automotive,The Source,train
+696,26.99,7045,29,33,Sports & Fitness,Clothing & Accessories,Wellwise,train
+697,1206.0,3936,-7,15,Financial Services,Credit Cards,Samsung,train
+698,1029.0,2444,1,1,Computers & Electronics,Computers & Tablets/eReaders,Costco,train
+700,,2366,-2,9,Computers & Electronics,Peripherals & Accessories,Lenovo Canada,val
+701,9.97,5870,29,15,Home & Garden,Home Improvement & Tools,,train
+702,139.99,5592,-1,23,,Computers & Electronics,Canada Computers,train
+703,9.99,1658,2,3,Computers & Electronics,Home Theatre & Audio,Staples,train
+704,1.91,5218,15,13,,Groceries,Walmart,train
+705,16.0,3699,2,15,,Beauty & Wellness,Walmart,train
+706,107.65,1850,-2,2,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+708,,15441,15,46,Home & Garden,Home Improvement & Tools,Home Depot,val
+709,42.0,4029,2,20,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+710,1.99,663,1,0,Entertainment,"Books, Music, Movies, Magazines",Amazon,train
+712,89.0,3454,5,19,,Home & Garden,The Bay,train
+713,41.99,2667,2,9,Computers & Electronics,Other,Amazon.ca,train
+714,,6927,16,20,,Home & Garden,Walmart,test
+715,1.49,2932,0,10,,Home & Garden,Amazon.ca,train
+716,1799.99,1448,-2,3,Computers & Electronics,Televisions,Best Buy,train
+717,,33586,39,106,Home & Garden,Home Improvement & Tools,Home Depot,test
+718,,4900,12,20,Apparel,Men's Apparel,The Bay,val
+720,132.54,4811,0,11,Computers & Electronics,Video Games,Amazon.ca,train
+722,39.97,1712,3,3,Kids & Babies,Toys & Games,Canadian Tire,train
+723,,2124,6,1,Home & Garden,Home Improvement & Tools,Home Depot,test
+724,540.0,35732,9,120,Travel,Flights,Air Canada,train
+726,723.0,4231,-6,12,Computers & Electronics,Televisions,Leon's,train
+727,15.63,3290,-6,8,,Computers & Electronics,Amazon.ca,train
+728,1097.99,50655,42,212,Computers & Electronics,Cell Phones,Samsung,train
+729,29.96,4577,3,14,Computers & Electronics,Home Theatre & Audio,The Source,train
+730,158.0,2865,0,8,Home & Garden,Home Improvement & Tools,Home Depot,train
+731,,2713,9,2,Small Business,Office Supplies,Amazon.ca,test
+732,147.99,3714,11,11,,Computers & Electronics,Newegg,train
+733,,2826,11,7,,Computers & Electronics,Visions Electronics,test
+736,,28359,79,94,Home & Garden,Home Improvement & Tools,Lee Valley,val
+737,99.99,19595,22,76,,Computers & Electronics,,train
+738,,7606,7,14,,Computers & Electronics,Costco,test
+740,23.99,16589,31,59,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+742,,3023,-3,16,Computers & Electronics,Computers & Tablets/eReaders,Lenovo Canada,val
+743,10.99,5115,6,13,Computers & Electronics,Video Games,STEAM,train
+744,,3680,0,9,,Computers & Electronics,Canada Computers,val
+745,18.99,4157,5,11,,Computers & Electronics,Amazon.ca,train
+747,14.99,2915,-2,8,Home & Garden,Outdoors & Patio,Factory Direct,train
+748,449.0,3795,4,8,Home & Garden,Outdoors & Patio,Costco,train
+749,18.67,10158,17,52,Home & Garden,Home Services & Repairs,Home Hardware,train
+750,,6790,-10,28,,Computers & Electronics,Staples,test
+751,139.99,3313,5,10,Small Business,Office Supplies,123Ink.ca,train
+752,4.98,3312,1,7,,Groceries,Real Canadian Superstore,train
+753,179.0,1320,0,5,Sports & Fitness,Men's Clothing ,Home Depot,train
+754,,3053,1,10,Restaurants,Coffee & Desserts,Amazon.ca,test
+756,26.99,1439,-1,2,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+757,,54059,27,134,,Computers & Electronics,Bit,test
+758,2.0,1079,5,0,Computers & Electronics,Peripherals & Accessories,Visions Electronics,train
+759,9.99,29983,37,96,Restaurants,Other,Costco,train
+760,449.0,9445,-7,42,,Computers & Electronics,The Source,train
+763,,1864,3,4,Computers & Electronics,Peripherals & Accessories,Amazon.ca,test
+764,,6042,7,23,Computers & Electronics,Televisions,Visions Electronics,test
+766,74.5,24204,22,85,Home & Garden,Home Improvement & Tools,Home Depot,train
+767,67.99,5446,4,26,Home & Garden,Appliances,Costco,train
+768,,723,2,2,,Groceries,Walmart,val
+769,18.0,2522,4,6,Home & Garden,Appliances,Visions Electronics,train
+770,68.0,2911,3,14,Home & Garden,Appliances,Home Depot,train
+771,,3428,5,13,Computers & Electronics,Home Theatre & Audio,Anrdoezrs,test
+772,79.99,1941,1,3,,Home & Garden,Princess Auto,train
+773,66.0,3385,7,11,,Sports & Fitness,Walmart,train
+774,79.0,4005,-10,21,Home & Garden,Home Improvement & Tools,Home Depot,train
+775,5.0,7718,16,17,Automotive,Other,Canadian Tire,train
+777,,2037,-12,7,Home & Garden,Other,Amazon.com,test
+778,109.0,1183,2,2,Home & Garden,Appliances,Walmart,train
+779,20.97,10104,1,33,Apparel,Men's Apparel,Amazon.ca,train
+780,119.99,8462,17,27,Computers & Electronics,Cameras,Staples,train
+782,125.0,22976,45,53,,Apparel,Linksynergy,train
+783,69.99,7457,24,29,,Groceries,Costco,train
+784,0.99,5128,22,16,Entertainment,"Books, Music, Movies, Magazines",Googleadservices,train
+785,,2821,-6,11,Computers & Electronics,Cell Phones,Samsung,test
+786,,2513,13,7,,Computers & Electronics,Kqzyfj,test
+787,,3569,-18,25,Restaurants,Coffee & Desserts,Tim Hortons,test
+788,4.99,4313,5,20,,Automotive,Princess Auto,train
+789,10.0,6519,22,36,Restaurants,Fast Food,American Express,train
+791,34.92,3559,0,8,Kids & Babies,Toys & Games,Walmart,train
+792,21.49,1533,4,0,Home & Garden,Home Improvement & Tools,TSC Stores,train
+794,0.0,3142,4,8,,Computers & Electronics,Frugalusenet,train
+795,,1178,3,0,Entertainment,"Books, Music, Movies, Magazines",Apple,val
+796,,2614,12,6,Kids & Babies,Toys & Games,Amazon,val
+797,39.99,3574,3,19,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+798,58.42,3744,1,28,Automotive,Auto Parts & Accessories,Awin1,train
+799,49.99,4220,3,19,Home & Garden,Home Improvement & Tools,Princess Auto,train
+800,5.99,2372,3,6,Home & Garden,Home Improvement & Tools,Princess Auto,train
+802,,3062,4,6,,Kids & Babies,Costco,test
+803,,3210,5,17,,Sports & Fitness,,val
+804,68.0,3755,-29,20,Sports & Fitness,Gyms & Related Services,Groupon Canada,train
+805,79.0,12517,4,42,Automotive,Auto Parts & Accessories,Amazon.ca,train
+806,,3354,1,10,,Computers & Electronics,Amazon.ca,val
+807,15.0,1285,-1,1,,Groceries,Walmart,train
+808,12.49,2009,6,4,Home & Garden,Home Improvement & Tools,Princess Auto,train
+809,,1770,2,8,Sports & Fitness,Equipment,Sport Chek,val
+811,39.99,14662,32,49,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+812,5.01,2756,-7,16,Computers & Electronics,Other,eBay.ca,train
+813,19.99,12237,27,43,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+814,,100927,39,595,Home & Garden,Outdoors & Patio,Home Depot,val
+815,22.98,2605,-9,9,,Computers & Electronics,,train
+816,,1156,7,3,,Automotive,Princess Auto,test
+817,315.99,2820,-5,12,Computers & Electronics,Peripherals & Accessories,Amazon,train
+818,,5202,19,15,Home & Garden,Other,Amazon.ca,test
+820,125.0,5688,5,16,Computers & Electronics,Cell Phones,Speakout7Eleven,train
+821,3.99,1361,5,1,Home & Garden,Home Improvement & Tools,Princess Auto,train
+822,,9180,20,16,,Home & Garden,Dollarama,test
+823,111.0,4009,1,11,Home & Garden,Home Improvement & Tools,Amazon.ca,train
+824,119.99,3910,-1,9,,Computers & Electronics,Best Buy,train
+825,,3232,-8,10,,Computers & Electronics,Best Buy,test
+826,999.99,709,0,0,Sports & Fitness,Equipment,London Drugs,train
+827,359.1,11138,6,27,,Computers & Electronics,Microsoft Store,train
+828,2.62,1576,6,3,Home & Garden,Outdoors & Patio,Lowe's,train
+829,89.97,1947,7,5,Home & Garden,Home Improvement & Tools,Home Hardware,train
+830,35.0,3815,-6,7,,Restaurants,Uberats,train
+832,,3611,-7,11,Computers & Electronics,Cell Phones,Apple,val
+834,,3285,-4,16,,Groceries,Costco,val
+835,12.99,2908,11,3,Entertainment,"Books, Music, Movies, Magazines",Linksynergy,train
+836,44.99,1797,-3,1,,Automotive,Costco,train
+837,,1526,2,5,Home & Garden,Other,Amazon.ca,val
+838,149.97,126336,104,424,Computers & Electronics,Home Theatre & Audio,Edifier,train
+839,,3914,1,11,Computers & Electronics,Home Theatre & Audio,Bose Canada,test
+840,6.99,4174,3,7,Home & Garden,Home Improvement & Tools,Princess Auto,train
+841,,13221,44,33,Home & Garden,Home Improvement & Tools,Princess Auto,test
+842,5.0,3520,2,12,,Computers & Electronics,,train
+843,55.99,17508,-37,56,,Beauty & Wellness,Manscaped,train
+844,50.0,3482,1,15,,Home & Garden,Real Canadian Superstore,train
+845,383.99,54137,17,170,Computers & Electronics,Cell Phones,Samsung,train
+846,112.5,3640,1,1,,Apparel,Linksynergy,train
+847,159.99,3999,3,5,Home & Garden,Home Improvement & Tools,Princess Auto,train
+849,180.0,2581,0,3,,Apparel,Linksynergy,train
+850,4.44,2616,11,2,,Groceries,Amazon.ca,train
+852,14.99,7978,16,37,Automotive,Other,Canadian Tire,train
+853,,10152,2,15,,Computers & Electronics,Walmart,test
+856,174.49,1436,4,2,Home & Garden,Pets,PetSmart,train
+857,34.99,3250,16,9,,Computers & Electronics,Amazon.ca,train
+859,79.99,7961,6,23,,Computers & Electronics,Amazon.ca,train
+860,19.88,7452,15,23,Home & Garden,Home Improvement & Tools,Home Depot,train
+861,2.5,1218,3,1,Beauty & Wellness,Beauty Supplies & Personal Care,Amazon.ca,train
+862,90.0,2350,0,8,Home & Garden,Home Improvement & Tools,Home Depot,train
+863,,4148,9,16,Entertainment,"Books, Music, Movies, Magazines",Google,test
+864,4.0,12146,24,42,Beauty & Wellness,Beauty Supplies & Personal Care,Dollarama,train
+865,6.99,5963,8,17,,Computers & Electronics,Microsoft Store,train
+866,6.99,1877,4,1,,Groceries,Loblaws,train
+867,36.0,8752,-3,28,,Groceries,Dollarama,train
+868,,4989,4,12,Computers & Electronics,Home Theatre & Audio,eBay.ca,test
+870,3.0,953,1,1,Sports & Fitness,Equipment,Everyonerides,train
+871,,13044,18,28,,Home & Garden,The Bay,val
+873,31.99,5566,9,22,,Groceries,Costco,train
+874,99.99,2021,4,4,,Computers & Electronics,Staples,train
+875,4.45,15893,51,51,Small Business,Office Supplies,Amazon.ca,train
+876,9.99,3634,6,10,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+877,,4509,10,7,Computers & Electronics,Video Games,Oculus,test
+879,20.0,2318,5,9,,Groceries,Americanexpress,train
+880,74.0,7059,10,13,Home & Garden,Home Improvement & Tools,Home Depot,train
+881,,3743,7,9,Home & Garden,Home Improvement & Tools,Rona,test
+882,9.0,3262,14,11,Beauty & Wellness,Beauty Supplies & Personal Care,Amazon.ca,train
+883,349.99,9962,7,31,,Home & Garden,Costco,train
+884,10.98,8034,23,43,Home & Garden,Outdoors & Patio,Home Depot,train
+885,19.99,1786,1,1,Automotive,Other,Canadian Tire,train
+887,19.98,46304,64,174,Home & Garden,Home Improvement & Tools,Home Depot,train
+888,,1070,2,0,,Groceries,Real Canadian Superstore,val
+890,50.0,27210,-1,109,Financial Services,Banking & Investing,Highinterestsavings,train
+891,3.97,1661,-1,5,Beauty & Wellness,Other,Michaels,train
+892,,98819,97,250,Restaurants,Fast Food,McDonalds,test
+893,86.98,10704,4,37,Home & Garden,Home Improvement & Tools,Home Depot,train
+895,,2675,9,9,Computers & Electronics,Peripherals & Accessories,London Drugs,test
+896,69.98,2776,-4,10,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+897,299.99,5596,19,26,Kids & Babies,Baby Needs,,train
+898,,6320,0,35,Home & Garden,Appliances,Best Buy,test
+899,1.0,2760,8,9,,Groceries,Real Canadian Superstore,train
+901,786.59,14729,48,33,Computers & Electronics,Computers & Tablets/eReaders,,train
+902,219.99,1316,2,0,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+903,15.0,6610,-1,15,Computers & Electronics,Cell Phones,Virgin Mobile,train
+904,50.0,3247,1,5,,Kids & Babies,Amazon.ca,train
+905,,2170,1,2,,Home & Garden,Princess Auto,val
+906,15.98,2723,-1,4,,Computers & Electronics,Walmart,train
+908,8.19,13155,8,85,Computers & Electronics,Telecom,Redirectingat,train
+909,89.99,17030,7,53,Home & Garden,Home Services & Repairs,Canadian Tire,train
+910,19.99,2452,1,5,Home & Garden,Home Improvement & Tools,Princess Auto,train
+911,239.99,1987,2,0,,Computers & Electronics,Bose Canada,train
+912,10.0,26135,35,67,,Restaurants,Rallyforrestaurants,train
+914,35.99,5610,7,15,Automotive,Other,Canadian Tire,train
+916,,9342,23,37,Automotive,Auto Parts & Accessories,Napa Auto Parts,test
+918,,5734,-8,45,Computers & Electronics,Peripherals & Accessories,Dell,val
+919,11.99,4204,-2,18,Home & Garden,Outdoors & Patio,Lowe's,train
+920,,2887,9,5,,Home & Garden,Dollarama,test
+921,1899.0,10298,7,47,Travel,Hotels,TravelZoo,train
+922,4.99,1535,2,11,,Groceries,Giant Tiger,train
+923,65.0,9104,32,52,,Automotive,Petro Canada,train
+924,299.98,12984,2,52,Computers & Electronics,Cameras,,train
+925,2.99,15079,-10,60,Restaurants,Fast Food,A & W,train
+927,150.0,30897,7,113,Home & Garden,Outdoors & Patio,Napoleon,train
+928,150.0,30899,7,113,Home & Garden,Outdoors & Patio,Napoleon,train
+929,,241,-1,0,Beauty & Wellness,Beauty Supplies & Personal Care,Costco,val
+932,399.99,3254,4,16,Sports & Fitness,Equipment,Treadmillfactory,train
+934,,47849,50,117,,Sports & Fitness,Costco,val
+935,,2666,-12,26,Computers & Electronics,Televisions,Redirectingat,val
+936,15.0,1009,3,1,,Computers & Electronics,,train
+937,29.99,3287,3,19,,Computers & Electronics,Staples,train
+939,136.97,11186,3,32,Apparel,Men's Shoes,Sport Chek,train
+940,10.0,1019,0,2,,Computers & Electronics,Thecubenet,train
+941,1999.99,10638,8,35,Home & Garden,Appliances,Home Depot,train
+942,,1156,0,1,,Home & Garden,London Drugs,val
+943,179.99,14212,-5,89,,Computers & Electronics,Staples,train
+944,99.99,1946,3,3,,Home & Garden,Canadian Tire,train
+948,60.0,1813,4,7,Beauty & Wellness,Beauty Supplies & Personal Care,Cwbeggs,train
+949,1.0,6001,11,18,Computers & Electronics,Home Theatre & Audio,Linksynergy,train
+951,269.0,10256,15,63,,Home & Garden,Home Depot,train
+952,249.0,12974,7,70,Home & Garden,Appliances,Walmart,train
+953,239.99,1997,0,3,,Kids & Babies,Costco,train
+954,,6429,10,18,,Computers & Electronics,Amazon.ca,val
+955,1453.15,3646,-2,19,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+956,,1732,0,3,,Groceries,Lostcraft,test
+957,179.99,5343,-2,18,,Computers & Electronics,Amazon.ca,train
+960,398.0,5740,13,21,Home & Garden,Appliances,Walmart,train
+963,129.0,246,0,0,,Kids & Babies,Walmart,train
+966,50.0,1819,2,1,Computers & Electronics,Home Theatre & Audio,Walmart,train
+967,299.0,41208,22,157,Home & Garden,Home Improvement & Tools,Home Depot,train
+968,99.97,12742,14,37,,Computers & Electronics,Costco,train
+969,,2410,-8,5,Computers & Electronics,Other,Amazon.ca,test
+970,199.99,2393,1,5,Home & Garden,Appliances,Canadian Tire,train
+971,,17413,21,59,,Computers & Electronics,Redirectingat,val
+972,,1526,2,2,,Home & Garden,Real Canadian Superstore,val
+973,,8596,18,23,Computers & Electronics,Video Games,Google.com,test
+974,,6748,2,27,Home & Garden,Appliances,Loblaws,test
+975,499.0,64222,4,217,Automotive,Other,Shoppers Drug Mart,train
+976,5.69,4240,5,11,Computers & Electronics,Video Games,Playstation,train
+978,36.0,136659,0,1392,Computers & Electronics,Cell Phones,,train
+979,37.99,3391,5,10,Computers & Electronics,Video Games,Blizzard.com,train
+980,1399.0,15527,8,61,Sports & Fitness,Equipment,Radpowerbikes,train
+981,3.0,2345,6,4,,Groceries,Amazon.ca,train
+982,42.0,10359,23,24,,Apparel,Nike,train
+983,,4172,-6,7,Sports & Fitness,Equipment,Fitnessavenue,val
+984,75.0,28612,3,69,Computers & Electronics,Cell Phones,Telus Mobility,train
+985,200.0,2616,1,8,Home & Garden,Furniture,Amazon.ca,train
+986,0.39,1742,15,2,Computers & Electronics,Video Games,,train
+987,329.99,4773,8,14,,Computers & Electronics,Staples,train
+988,64.99,5891,-7,22,Home & Garden,Home Improvement & Tools,Costco,train
+989,93.88,15342,4,80,Automotive,Other,Amazon.ca,train
+990,,906,5,0,,Home & Garden,Enbridgesmartsavings,val
+991,20.73,1372,6,0,,Computers & Electronics,Amazon.ca,train
+992,40.0,1830,1,6,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+994,,4866,9,12,Kids & Babies,Toys & Games,Amazon.ca,test
+995,172.99,39573,6,51,Apparel,Men's Shoes,Nike,train
+996,75.0,12635,-22,40,Computers & Electronics,Cell Phones,Rogers,train
+997,,74338,0,288,,Groceries,Costco,test
+998,11.99,3513,4,6,Kids & Babies,Toys & Games,Michaels,train
+999,30.0,29165,42,101,,Computers & Electronics,Walmart,train
+1000,214.99,9786,2,24,,Computers & Electronics,Costco,train
+1002,12.49,14418,-1,83,Computers & Electronics,Video Games,,train
+1004,14.97,3152,-5,14,,Home & Garden,Amazon.ca,train
+1006,,1976,0,2,Entertainment,"Books, Music, Movies, Magazines",Google,val
+1007,7.49,1454,1,0,,Home & Garden,Princess Auto,train
+1008,,9055,22,56,Computers & Electronics,Peripherals & Accessories,Amazon.ca,test
+1009,,1666,0,3,,Computers & Electronics,Amazon.ca,test
+1010,74.0,9929,22,22,Home & Garden,Outdoors & Patio,Home Depot,train
+1011,,1184,1,1,Computers & Electronics,Home Theatre & Audio,Visions Electronics,val
+1012,1329.99,11739,10,21,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,train
+1013,15.45,5886,7,24,,Groceries,Amazon.ca,train
+1014,50.83,1239,-1,5,Computers & Electronics,Other,Usenetserver,train
+1015,69.99,10175,6,55,Sports & Fitness,Equipment,TSC Stores,train
+1016,,2615,4,10,Computers & Electronics,Home Theatre & Audio,Edifier,test
+1018,59.99,1708,-7,10,Computers & Electronics,Cameras,Amazon.ca,train
+1019,139.0,2596,1,6,,Automotive,Princess Auto,train
+1020,999.99,3297,1,9,Computers & Electronics,Televisions,Costco,train
+1021,51.99,2232,4,6,,Beauty & Wellness,Amazon.ca,train
+1022,69.99,3663,5,14,Automotive,Auto Parts & Accessories,Canadian Tire,train
+1024,49.0,3842,5,13,Entertainment,Other,Poppacorn,train
+1025,399.0,3996,-2,19,,Home & Garden,Lowe's,train
+1026,0.0,127,-1,0,Entertainment,"Books, Music, Movies, Magazines",Amazon,train
+1027,99.99,1138,1,0,Computers & Electronics,Peripherals & Accessories,Amazon,train
+1029,26.99,999,4,1,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,train
+1031,30.48,34758,16,62,,Apparel,Amazon.ca,train
+1032,,4303,10,19,Automotive,Auto Parts & Accessories,Uhaul,val
+1033,11.99,705,0,1,,Groceries,Ecscoffee,train
+1034,15.0,890,0,1,Restaurants,Fast Food,Harvey's,train
+1035,69.99,21373,13,68,Computers & Electronics,Cell Phones,Amazon.ca,train
+1036,,15963,7,64,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,val
+1037,70.39,9904,10,51,Home & Garden,Pets,PetSmart,train
+1038,79.2,2228,0,10,,Home & Garden,Thermoworks,train
+1039,48.97,1731,3,5,Sports & Fitness,Other,MEC,train
+1040,209.0,1253,6,0,Computers & Electronics,Other,Bose Canada,train
+1041,,932,0,0,Home & Garden,Home Improvement & Tools,Lowe's,val
+1042,2.79,2592,12,7,Computers & Electronics,Video Games,,train
+1043,,2144,12,5,,Computers & Electronics,,test
+1044,19.99,2277,-1,2,Apparel,Men's Shoes,Costco,train
+1045,214.99,8649,8,36,,Computers & Electronics,Amazon.ca,train
+1046,1.97,4241,3,13,,Beauty & Wellness,Walmart,train
+1047,24.99,5534,17,17,,Computers & Electronics,Canadian Tire,train
+1048,79.99,2624,3,10,,Computers & Electronics,Amazon.ca,train
+1049,165.99,1219,0,1,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+1050,,2056,1,1,,Computers & Electronics,Amazon.ca,val
+1051,419.99,10748,4,33,,Apparel,Outterlimits,train
+1052,593.98,13825,27,72,,Computers & Electronics,Amazon.ca,train
+1053,,9018,15,18,,Computers & Electronics,Staples,test
+1054,,1089,3,1,Home & Garden,Home Improvement & Tools,Completeequipment,val
+1055,69.99,16448,6,42,,Groceries,Costco,train
+1057,477.99,3995,-7,18,Computers & Electronics,Computers & Tablets/eReaders,Costco,train
+1058,70.0,6559,2,20,Computers & Electronics,Peripherals & Accessories,Walmart,train
+1059,269.0,7495,8,36,,Computers & Electronics,Costco,train
+1060,13.98,2100,1,9,,Home & Garden,Walmart,train
+1063,6.44,4197,13,28,,Home & Garden,Home Hardware,train
+1064,44.99,2167,6,12,Beauty & Wellness,Beauty Supplies & Personal Care,Costco,train
+1065,10.0,1371,-3,10,Restaurants,Fast Food,Panago Pizza,train
+1066,,1364,4,0,Home & Garden,Home Improvement & Tools,Canadian Tire,val
+1067,,7258,-2,42,Computers & Electronics,Peripherals & Accessories,,val
+1068,,5796,9,28,,Sports & Fitness,MooseJaw.com,test
+1070,636.0,9990,15,64,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1072,14.51,4513,9,14,,Sports & Fitness,Amazon.ca,train
+1075,,1839,0,9,,Computers & Electronics,Dell,test
+1076,44.99,2225,3,7,Computers & Electronics,Video Games,Amazon.ca,train
+1078,,12426,1,52,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,test
+1080,8.17,2011,1,7,Computers & Electronics,Telecom,Redirectingat,train
+1081,79.99,1084,2,2,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+1082,24.99,1441,5,7,,Automotive,Canadian Tire,train
+1083,140.0,1920,-2,4,Apparel,Men's Shoes,Foot Locker,train
+1084,199.98,6064,4,32,Home & Garden,Appliances,Walmart,train
+1085,23.99,14343,13,46,,Home & Garden,Costco,train
+1086,47.99,3294,3,14,Computers & Electronics,Home Theatre & Audio,Amazon.ca,train
+1087,102.74,1677,1,7,Computers & Electronics,Peripherals & Accessories,Best Buy,train
+1088,1.67,550,4,0,,Home & Garden,,train
+1089,,1986,3,7,Home & Garden,Outdoors & Patio,Costco,test
+1090,25.73,2701,-9,21,,Computers & Electronics,Amazon.ca,train
+1091,25.99,7025,-9,35,Automotive,Auto Parts & Accessories,Amazon.ca,train
+1093,19.97,3243,5,4,,Beauty & Wellness,Costco,train
+1094,,1180,0,2,Computers & Electronics,Other,Amazon.ca,val
+1096,,6188,11,27,Home & Garden,Appliances,Walmart,test
+1098,75.0,3015,7,7,Sports & Fitness,Equipment,Amazon.ca,train
+1099,100.0,16280,10,72,,Computers & Electronics,Staples,train
+1100,7.5,1924,-1,4,Computers & Electronics,Telecom,Luckymobile,train
+1101,1.99,6984,20,22,,Groceries,Shoppers Drug Mart,train
+1103,179.99,3531,2,3,Apparel,Men's Apparel,Costco,train
+1104,89.99,4709,3,18,,Computers & Electronics,Amazon.ca,train
+1106,11.99,1253,1,0,,Home & Garden,PeaveyMart,train
+1107,3.1,3841,5,12,,Groceries,,train
+1108,0.99,9703,33,38,Restaurants,Fast Food,Wendy's,train
+1109,51.99,2950,0,11,Financial Services,Other,Amazon.ca,train
+1110,2.0,1781,5,4,,Groceries,Whole Foods Market,train
+1111,134.99,3764,3,17,Beauty & Wellness,Beauty Supplies & Personal Care,Costco,train
+1112,3.19,3630,12,9,Kids & Babies,School Supplies,Amazon.ca,train
+1113,,1668,2,0,,Computers & Electronics,Memory Express,val
+1114,,3895,3,10,Computers & Electronics,Video Games,Nintendo,test
+1115,398.0,25922,12,103,Home & Garden,Home Improvement & Tools,Home Depot,train
+1116,,3860,12,10,,Groceries,Waterloobrewing,test
+1118,15.0,2041,-2,5,Kids & Babies,Other,Uber Eats,train
+1119,21.89,6698,23,61,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,train
+1121,1.47,946,-1,1,,Groceries,Amazon.ca,train
+1122,348.0,4279,-7,7,Computers & Electronics,Peripherals & Accessories,Gibbyselectronicsupermarket,train
+1123,50.0,10530,4,51,Computers & Electronics,Telecom,Freedom Mobile,train
+1124,29.99,5496,-1,14,Home & Garden,Appliances,Costco,train
+1125,,1380,1,6,,Computers & Electronics,Amazon.ca,val
+1126,656.99,1502,-1,0,Computers & Electronics,Cameras,Amazon.ca,train
+1127,,1145,0,1,Home & Garden,Home Improvement & Tools,Home Depot,test
+1128,50.0,7555,20,25,Home & Garden,Furniture,IKEA,train
+1129,79.99,756,-2,0,Computers & Electronics,Cameras,Amazon.ca,train
+1130,1.97,6583,30,16,Small Business,Office Supplies,Amazon.ca,train
+1131,29.0,13041,6,35,Home & Garden,Appliances,,train
+1132,199.0,4495,0,15,Home & Garden,Home Improvement & Tools,Rona,train
+1133,45.0,22066,14,67,Computers & Electronics,Telecom,Virgin Mobile,train
+1135,,41128,15,100,,Home & Garden,Home Depot,val
+1136,,1834,-9,4,,Computers & Electronics,Awin1,val
+1137,10.99,4136,3,19,,Home & Garden,Lowe's,train
+1138,17.99,1419,6,1,Kids & Babies,Toys & Games,Canadian Tire,train
+1139,1498.0,5611,12,28,Computers & Electronics,Televisions,Visions Electronics,train
+1141,14.99,844,1,1,Entertainment,"Books, Music, Movies, Magazines",Deezer,train
+1142,129.95,21837,34,68,Computers & Electronics,Home Theatre & Audio,Linksynergy,train
+1143,75.0,2220,4,5,Travel,Hotels,sandmanhotels.com,train
+1145,1399.0,2888,-6,16,,Computers & Electronics,Canada Computers,train
+1146,,33620,-52,214,Computers & Electronics,Peripherals & Accessories,Pcworld,test
+1148,252.64,7480,0,17,Home & Garden,Appliances,Amazon.ca,train
+1149,797.99,5923,16,7,Computers & Electronics,Televisions,Costco,train
+1151,400.0,3676,1,5,,Home & Garden,Home Depot,train
+1152,114.0,4579,4,20,Home & Garden,Appliances,Dicksonbbq,train
+1153,10.0,1521,1,0,Computers & Electronics,Peripherals & Accessories,Walmart,train
+1154,4.0,2871,3,4,,Home & Garden,,train
+1155,3.37,4124,19,18,,Groceries,Amazon.ca,train
+1156,99.99,3840,2,10,,Automotive,Canadian Tire,train
+1157,3.99,2002,4,5,,Beauty & Wellness,Amazon.ca,train
+1158,,3708,3,23,,Computers & Electronics,Grand And Toy,test
+1159,50.0,2332,8,4,Beauty & Wellness,Beauty Supplies & Personal Care,Yves Rocher,train
+1160,,2166,-3,5,,Sports & Fitness,Walmart,val
+1161,299.99,2834,6,5,Sports & Fitness,Equipment,Fitnessavenue,train
+1162,3.48,2538,8,0,Kids & Babies,Toys & Games,Toys R Us,train
+1163,714.0,4943,3,15,Computers & Electronics,Computers & Tablets/eReaders,Lenovo Canada,train
+1164,,1681,5,0,,Home & Garden,Dollarama,test
+1165,25.0,7748,11,34,Computers & Electronics,Other,Best Buy,train
+1166,,3882,2,13,,Small Business,eBay.ca,val
+1167,139.99,13499,14,34,,Computers & Electronics,Best Buy,train
+1168,12.23,7541,51,29,,Home & Garden,Amazon.ca,train
+1169,,46897,26,168,Restaurants,Fast Food,Subway,val
+1170,19.99,3344,16,13,Entertainment,"Books, Music, Movies, Magazines",Redirectingat,train
+1171,328.0,4232,-5,10,,Home & Garden,Home Depot,train
+1172,269.0,1431,3,0,Home & Garden,Home Improvement & Tools,Home Depot,train
+1174,,4034,12,5,Home & Garden,Home Improvement & Tools,Dollarama,test
+1175,,2939,9,13,,Computers & Electronics,Vistek,test
+1176,,16069,32,30,Computers & Electronics,Other,Canadian Tire,val
+1177,249.99,3065,3,7,Sports & Fitness,Equipment,Princess Auto,train
+1178,408.99,9270,12,48,Computers & Electronics,Computers & Tablets/eReaders,Amazon.ca,train
+1179,4.4,18646,42,115,,Groceries,LCBO,train
+1180,67.99,1397,1,0,,Automotive,Amazon.ca,train
+1182,79.99,3801,4,6,Home & Garden,Home Improvement & Tools,Home Depot,train
+1183,,223,0,0,,Computers & Electronics,Today's Shopping Choice,test
+1184,1.14,2988,7,3,Computers & Electronics,Video Games,STEAM,train
+1185,98.0,3856,6,6,Home & Garden,Home Improvement & Tools,Home Depot,train
+1186,34.99,5996,-5,43,Computers & Electronics,Other,Best Buy,train
+1187,,27547,38,91,Computers & Electronics,Home Theatre & Audio,Edifier,val
+1188,,13203,15,57,,Computers & Electronics,Staples,test
+1189,,2010,1,1,Automotive,Auto Parts & Accessories,Amazon,test
+1190,,2269,4,3,,Groceries,Foody Mart,test
+1191,61.74,1828,-7,3,Computers & Electronics,Peripherals & Accessories,Amazon.com,train
+1193,39.88,2934,-4,3,Home & Garden,Home Improvement & Tools,Home Depot,train
+1194,,1420,2,0,Apparel,Women's Apparel,Marks Works Wearhouse,val
+1195,,2766,1,6,Computers & Electronics,Other,Stacksocial,test
+1196,57.99,1677,-6,4,Computers & Electronics,Video Games,STEAM,train
+1197,17.99,1469,1,0,Computers & Electronics,Televisions,Costco,train
+1198,15.0,1554,0,1,Computers & Electronics,Video Games,Walmart,train
+1199,,3646,5,12,Computers & Electronics,Peripherals & Accessories,Amazon.ca,test
+1200,75.0,108654,51,287,,Sports & Fitness,Walmart,train
+1201,350.0,2370,2,5,,Home & Garden,Superstore,train
+1202,49.99,6408,16,31,,Computers & Electronics,Amazon.ca,train
+1203,8.99,6615,5,20,Automotive,Other,Princess Auto,train
+1204,69.0,1584,3,1,,Home & Garden,Walmart,train
+1205,,2051,-2,5,Computers & Electronics,Home Theatre & Audio,Walmart,val
+1207,10.0,30693,119,141,,Restaurants,American Express,train
+1208,,33207,27,126,Computers & Electronics,Computers & Tablets/eReaders,Costco,test
+1209,83.99,2588,5,7,Computers & Electronics,Peripherals & Accessories,Staples,train
+1210,35.99,1417,-3,7,Entertainment,"Books, Music, Movies, Magazines",Awin1,train
+1211,699.99,1579,-2,1,Home & Garden,Furniture,Costco,train
+1212,,2731,4,13,Automotive,Auto Parts & Accessories,Princess Auto,test
+1213,19.99,5378,5,16,Kids & Babies,School Supplies,Costco,train
+1214,,1785,-1,5,,Computers & Electronics,Best Buy,val
+1215,,15279,20,33,Computers & Electronics,Other,Amazon.ca,test
+1216,,1907,9,4,Computers & Electronics,Video Games,Amazon.ca,val
+1217,35.0,3565,7,14,Entertainment,Other,Chapters Indigo,train
+1218,118.0,1616,2,1,Computers & Electronics,Home Theatre & Audio,Visions Electronics,train
+1219,399.97,10697,5,24,,Home & Garden,Costco,train
+1220,69.98,2827,-10,7,Apparel,Men's Shoes,Browns shoes,train
+1221,29.99,2996,-2,26,,Entertainment,Apple,train
+1222,329.99,8720,1,39,,Home & Garden,Amazon.ca,train
+1223,299.99,3164,1,5,Computers & Electronics,Peripherals & Accessories,Best Buy,train
+1224,34.99,4661,6,8,,Groceries,Urban Fare,train
+1225,,2730,5,3,Home & Garden,Home Improvement & Tools,Home Depot,test
+1227,5.99,2041,4,7,Sports & Fitness,Other,Metro,train
+1228,,3712,1,8,Computers & Electronics,Televisions,The Source,val
+1230,125.0,4776,10,18,Computers & Electronics,Peripherals & Accessories,Razer,train
+1231,399.99,5257,-6,26,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1232,,1771,3,2,Sports & Fitness,Other,Canadian Tire,test
+1233,31.47,5105,10,15,Home & Garden,Other,Amazon.ca,train
+1235,39.99,582,3,0,Home & Garden,Pets,PetSmart,train
+1236,3.0,1917,10,9,,Groceries,Loblaws,train
+1237,35.0,13767,14,43,Beauty & Wellness,Beauty Supplies & Personal Care,Walmart,train
+1238,180.0,43412,9,74,,Home & Garden,Costco,train
+1240,5.93,1262,2,0,Sports & Fitness,Other,Canadian Tire,train
+1241,198.0,2186,-1,6,Home & Garden,Home Improvement & Tools,Home Depot,train
+1243,299.99,1089,2,0,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1244,10.88,1549,-4,1,,Computers & Electronics,Amazon.ca,train
+1245,6.74,7079,33,17,Computers & Electronics,Video Games,Playstation,train
+1246,5.99,4827,8,45,,Groceries,Loblaws,train
+1248,,5204,9,30,Computers & Electronics,Computers & Tablets/eReaders,Visions Electronics,test
+1249,499.99,1510,-12,13,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+1250,19.99,1138,3,0,Beauty & Wellness,Beauty Supplies & Personal Care,Amazon.ca,train
+1251,299.99,884,3,1,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1254,39.99,2571,11,9,Beauty & Wellness,Other,Costco,train
+1255,1.35,1363,8,4,Computers & Electronics,Video Games,Tkqlhce,train
+1256,,2211,1,6,,Sports & Fitness,Costco,val
+1257,,1054,2,0,Home & Garden,Appliances,Linen Chest,test
+1258,,1177,2,3,Home & Garden,Home Improvement & Tools,Home Depot,val
+1259,16.66,1552,0,9,Computers & Electronics,Peripherals & Accessories,Lenovo Canada,train
+1261,,2013,0,4,Apparel,Men's Shoes,Amazon.ca,val
+1262,188.0,1643,2,4,Home & Garden,Home Improvement & Tools,Home Depot,train
+1263,9.99,1111,4,2,Sports & Fitness,Other,Canadian Tire,train
+1264,,7565,21,20,,Home & Garden,Dollarama,val
+1265,,742,-1,0,Entertainment,"Books, Music, Movies, Magazines",Google,test
+1267,,2316,0,10,Automotive,Auto Parts & Accessories,Amazon.ca,val
+1268,2.93,5076,2,15,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+1269,13.88,3036,8,8,,Apparel,Amazon.ca,train
+1271,199.97,1175,1,0,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1273,1899.0,2616,0,8,,Computers & Electronics,Amazon.ca,train
+1275,1399.99,51604,30,174,Home & Garden,Appliances,Costco,train
+1276,0.32,22702,51,81,Beauty & Wellness,Beauty Supplies & Personal Care,Real Canadian Superstore,train
+1277,179.99,1878,4,13,,Computers & Electronics,Memory Express,train
+1278,,3934,4,15,,Beauty & Wellness,Costco,val
+1279,2.0,12080,23,34,,Groceries,Amazon.ca,train
+1280,,493,1,0,Beauty & Wellness,Beauty Supplies & Personal Care,Atlantic Superstore,val
+1281,26.39,5789,22,27,Computers & Electronics,Video Games,Playstation,train
+1282,14.99,3904,17,21,Home & Garden,Home Improvement & Tools,Canadian Tire,train
+1284,,11841,24,60,Home & Garden,Home Improvement & Tools,Canadian Tire,val
+1285,229.99,2922,-1,11,,Computers & Electronics,Amazon,train
+1286,,7220,20,12,,Apparel,Amazon.ca,test
+1288,,2242,3,4,,Home & Garden,Lecreuset,val
+1289,,5301,6,10,Computers & Electronics,Computers & Tablets/eReaders,Best Buy,test
+1290,,13487,36,93,Entertainment,"Books, Music, Movies, Magazines",Amazon.ca,val
+1291,369.99,2726,0,9,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1292,161.99,3761,-1,12,,Computers & Electronics,Newegg,train
+1293,23.99,10378,16,24,Home & Garden,Appliances,Bed Bath And Beyond,train
+1294,,23130,17,88,Computers & Electronics,Cameras,Costco,test
+1296,14.97,1306,1,0,Home & Garden,Other,Amazon.ca,train
+1297,55.0,4644,5,14,,Home & Garden,Costco,train
+1300,447.0,2216,-2,9,Computers & Electronics,Peripherals & Accessories,Amazon.ca,train
+1301,13.99,5472,3,28,,Computers & Electronics,Amazon.ca,train
+1302,119.99,685,-1,0,Home & Garden,Appliances,Amazon.ca,train
+1303,17.99,1333,1,2,,Computers & Electronics,Primecables.ca,train
+1304,52.79,1951,3,11,Computers & Electronics,Video Games,Steampowered,train
+1307,3.25,778,-2,0,Restaurants,Restaurants & Bars,Groupon Canada,train
+1308,,2568,-1,8,,Computers & Electronics,Costco,test
+1309,42.0,10185,9,27,Home & Garden,Appliances,Costco,train
+1310,29.99,4068,11,25,Home & Garden,Other,Amazon.ca,train
+1311,4.99,5819,12,36,,Groceries,Metro,train
+1312,2.0,2710,1,3,Computers & Electronics,Televisions,Costco,train
+1313,99.99,2287,9,3,,Computers & Electronics,Memory Express,train
+1314,39.99,20348,12,67,,Home & Garden,Lowe's,train
+1315,60.0,11397,11,61,Home & Garden,Appliances,Walmart,train
+1316,187.0,5872,-1,25,Travel,Flights,Google,train
+1317,1036.0,1176,3,0,Computers & Electronics,Cell Phones,Samsung,train
+1320,112.0,3729,8,20,Automotive,Auto Parts & Accessories,Amazon.ca,train
+1321,599.99,14865,22,54,Sports & Fitness,Equipment,Costco,train
+1323,19.99,4296,0,27,,Groceries,,train

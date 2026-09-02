@@ -1,0 +1,12 @@
+{
+  "experiment": "TF3_Formatierung",
+  "method": "Claude_LLM",
+  "model": "claude-sonnet-5",
+  "price_exact_match": 0.9766536964980544,
+  "price_valid_rate": 0.9922178988326849,
+  "saving_exact_match": 0.9463087248322147,
+  "saving_valid_rate": 0.959731543624161,
+  "date_exact_match": 1.0,
+  "date_valid_rate": 1.0,
+  "estimated_cost_usd": 0.987726
+}

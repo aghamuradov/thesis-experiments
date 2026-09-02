@@ -1,0 +1,15 @@
+Spalte,Vergleichsniveau,m_probability,u_probability,log2_bayes_faktor
+title_lower,Jaro-Winkler distance of title_lower >= 0.9,0.5426,0.00012,12.15
+title_lower,Exact match on title_lower,0.2656,5.8e-05,12.15
+creation_date_iso,Exact match on creation_date_iso,0.0791,4.6e-05,10.73
+author,Exact match on author,0.5466,0.001659,8.36
+price_num,Exact match on price_num,0.9658,0.003901,7.95
+title_lower,Jaro-Winkler distance of title_lower >= 0.7,0.1371,0.000607,7.82
+url_norm,Exact match on url_norm,0.9655,0.006407,7.24
+creation_date_iso,Abs difference of 'transformed creation_date_iso <= 72 hour',0.8582,0.161563,2.41
+author,All other comparisons,0.4534,0.998341,-1.14
+creation_date_iso,All other comparisons,0.0627,0.83839,-3.74
+title_lower,All other comparisons,0.0547,0.999215,-4.19
+url_norm,All other comparisons,0.0345,0.993593,-4.85
+price_num,All other comparisons,0.0342,0.994714,-4.86
+price_num,Absolute difference of 'price_num' <= 0.01,0.0,0.001385,-88.02

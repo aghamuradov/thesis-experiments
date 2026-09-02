@@ -1,0 +1,14 @@
+{
+  "experiment": "TF1_Duplikate",
+  "method": "Claude_LLM",
+  "model": "claude-sonnet-5",
+  "n_test": 148,
+  "n_fehler": 1,
+  "precision": 1.0,
+  "recall": 0.972972972972973,
+  "f1": 0.9863013698630136,
+  "wall_time_sec": 383.69177985191345,
+  "input_tokens": 119432,
+  "output_tokens": 14811,
+  "estimated_cost_usd": 0.386974
+}

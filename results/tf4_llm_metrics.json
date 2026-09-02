@@ -1,0 +1,11 @@
+{
+  "experiment": "TF4_Semantik",
+  "method": "Claude_LLM",
+  "model": "claude-sonnet-5",
+  "accuracy": 0.8870967741935484,
+  "macro_f1": 0.8076599326599326,
+  "n_valid": 124,
+  "wall_time_sec": 304.34133529663086,
+  "estimated_cost_usd": 0.9393980000000001,
+  "n_application_rows": 500
+}

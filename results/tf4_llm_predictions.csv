@@ -1,0 +1,125 @@
+row_id,parent_category_pred_llm,reasoning,input_tokens,output_tokens,true_parent_category
+11,Kids & Babies,"Eine Klettergerüst-Spielstruktur fällt unter Spielzeug für Kinder, was der Kategorie Kids & Babies entspricht.",312.0,80.0,Kids & Babies
+20,Financial Services,"Das Thema betrifft Hypothekenzinsen und Darlehen von HSBC, was eindeutig zu Finanzdienstleistungen gehört.",349.0,78.0,Financial Services
+22,Entertainment,"Sammelkarten (Panini-Kartenset zur Meisterschaft der Toronto Raptors) sind ein Unterhaltungs-/Sammlerprodukt, kein passender Fit für andere Kategorien wie Sport-Ausrüstung.",329.0,113.0,Entertainment
+39,Computers & Electronics,Die Unterkategorie 'Computers & Tablets/eReaders' und das Produkt (ein Lenovo Tablet) fallen eindeutig unter Computerelektronik.,328.0,89.0,Computers & Electronics
+40,Small Business,"Generische Steuerfrei-Verkaufsaktion ohne spezifische Produktkategorie, daher als allgemeine Handels-/Geschäftspromotion eingeordnet.",308.0,87.0,Home & Garden
+49,Computers & Electronics,"Die Unterkategorie 'Computers & Tablets/eReaders' und das Produkt (Lenovo Duet Chromebook, ein 2-in-1-Tablet/Laptop) fallen eindeutig unter Computers & Electronics.",327.0,111.0,Computers & Electronics
+69,Kids & Babies,"Es handelt sich um ein Plüschspielzeug (Toys & Games), das primär für Kinder gedacht ist, daher passt die Kategorie Kids & Babies am besten.",319.0,89.0,Kids & Babies
+75,Financial Services,"Die Unterkategorie 'Credit Cards' und der Bezug auf RBC Rewards (Kreditkarten-Punkteprogramm) ordnen diesen Deal eindeutig dem Finanzdienstleistungsbereich zu, auch wenn es um Gutscheine geht.",319.0,125.0,Financial Services
+84,Computers & Electronics,"Das Produkt ist ein Desktop-Computer (Lenovo ThinkCentre), eindeutig der Kategorie Computers & Electronics zuzuordnen.",369.0,86.0,Computers & Electronics
+119,Home & Garden,"Ein Vitamix-Mixer ist ein Haushaltsgerät (Küchengerät), was unter Home & Garden fällt.",311.0,72.0,Home & Garden
+135,Beauty & Wellness,"Disposable face masks are personal care/health protection items, fitting the Beauty & Wellness category as indicated by the thread's own subcategory 'Beauty Supplies & Personal Care'.",339.0,91.0,Beauty & Wellness
+142,Computers & Electronics,"Ooma Telo ist ein VoIP-Telefon-/Netzwerkgerät für den Haushalt, also ein elektronisches Kommunikationsgerät, das unter Computers & Electronics fällt.",352.0,100.0,Computers & Electronics
+149,Restaurants,"Fast-Food-Angebot von Wendy's, ein Restaurant-Deal für eine Speise über die App.",312.0,63.0,Restaurants
+152,Computers & Electronics,"Fernseher fallen unter Unterhaltungselektronik/Technik, nicht unter Entertainment als Dienstleistung.",318.0,72.0,Computers & Electronics
+162,Computers & Electronics,"Das Angebot betrifft einen Internet-/Telekommunikationstarif, was unter Computer & Elektronik (Technologie- und Internetdienste) fällt.",321.0,85.0,Computers & Electronics
+180,Automotive,"Sea Foam Motorbehandlung ist ein Kfz-Pflegeprodukt, daher fällt der Deal unter Automotive, trotz der Nebenerwähnung von Duck Tape.",320.0,93.0,Beauty & Wellness
+185,Entertainment,"Das Thema betrifft ein Videospiel (Watchdogs 2), was unter Entertainment fällt, da Videospiele als Unterhaltungsmedien gelten.",309.0,84.0,Computers & Electronics
+189,Computers & Electronics,"Ein Bluetooth-Lautsprecher fällt unter Home Theatre & Audio, was der Hauptkategorie Computers & Electronics zugeordnet wird.",335.0,87.0,Computers & Electronics
+207,Computers & Electronics,Eine Soundbar (Sony HT-X9000F) ist ein Heimkino-/Audiogerät und fällt somit unter Unterhaltungselektronik.,327.0,84.0,Computers & Electronics
+242,Home & Garden,"Ecobee SmartSensor ist ein Zubehör für Smart-Home-Thermostate, das zur Haussteuerung/-verbesserung gehört, was unter Home Improvement & Tools bzw. Home & Garden fällt.",317.0,107.0,Home & Garden
+247,Entertainment,"Minions-Merchandise (Filmfranchise) wie Schlüsselanhänger fällt unter Entertainment-Produkte, nicht unter eine spezifischere Kategorie wie Apparel oder Kids & Babies.",324.0,103.0,Home & Garden
+249,Computers & Electronics,Eine tragbare SSD-Festplatte mit USB 3.1 ist ein Computerzubehör/Peripheriegerät zur Datenspeicherung.,347.0,83.0,Computers & Electronics
+285,Computers & Electronics,"Ein Mobiltelefon (Smartphone) fällt unter Unterhaltungselektronik, auch wenn die Unterkategorie 'Cell Phones' lautet.",307.0,88.0,Computers & Electronics
+292,Computers & Electronics,"Smart light bulbs and smart plugs are connected home electronics/smart devices, fitting best under Computers & Electronics.",299.0,68.0,Home & Garden
+295,Computers & Electronics,USB-C to Lightning cable is a computer/electronics peripheral accessory.,335.0,54.0,Computers & Electronics
+303,Computers & Electronics,"Das Produkt ist ein Mobiltelefon (Nokia 5.3), das der Kategorie Cell Phones angehört, welche unter Computers & Electronics eingeordnet wird.",303.0,93.0,Computers & Electronics
+349,Computers & Electronics,Fernseher sind Unterhaltungselektronik und fallen unter Computers & Electronics.,319.0,60.0,Computers & Electronics
+352,Financial Services,"Kreditkarten und damit verbundene Angebote gehören zu Finanzdienstleistungen, unabhängig davon, dass hier eine Travel-Karte erwähnt wird.",324.0,88.0,Financial Services
+357,Entertainment,"Anime-Titel fallen unter Bücher/Musik/Filme, was der Unterhaltungsbranche zugeordnet wird.",328.0,71.0,Entertainment
+392,Beauty & Wellness,"Zahnpasta und Mundspülung sind Körperpflegeprodukte, die unter Beauty & Wellness fallen.",354.0,72.0,Beauty & Wellness
+397,Computers & Electronics,Fernseher sind Unterhaltungselektronik-Geräte und fallen unter Computers & Electronics.,333.0,65.0,Computers & Electronics
+400,Computers & Electronics,"Das Produkt ist ein Notebook (Laptop), was eindeutig unter Computers & Tablets/eReaders fällt und somit der Hauptkategorie Computers & Electronics entspricht.",363.0,96.0,Computers & Electronics
+401,Restaurants,"Fast-Food-Angebot (Pommes) eines Schnellrestaurants, daher der Kategorie Restaurants zugeordnet.",323.0,73.0,Restaurants
+422,Home & Garden,"Kaffeemaschine ist ein Haushaltsgerät (Appliance) für den Heimgebrauch, passt daher zu Home & Garden.",323.0,77.0,Home & Garden
+496,Computers & Electronics,"Xbox Game Pass Ultimate ist ein digitales Gaming-Abonnement für Videospiele/Konsolen, was unter Computers & Electronics fällt.",315.0,86.0,Computers & Electronics
+503,Computers & Electronics,Die Unterkategorie 'Computers & Tablets/eReaders' und der Titel zu Microsoft Software-Rabatten betreffen klar Computer- und Elektronikprodukte.,321.0,93.0,Computers & Electronics
+509,Home & Garden,"Ein Vitamix-Mixer ist ein Küchengerät (Kleingerät für den Haushalt), was unter Home & Garden fällt, da diese Kategorie Haushaltsgeräte umfasst.",325.0,99.0,Home & Garden
+515,Computers & Electronics,"Ein WLAN-Router ist ein Computer-/Netzwerkzubehör, passend zur Unterkategorie 'Peripherals & Accessories'.",320.0,82.0,Computers & Electronics
+522,Home & Garden,"Toilettenpapier ist ein Haushaltsprodukt für den täglichen Gebrauch im Haushalt, daher passt es zur Kategorie Home & Garden.",339.0,85.0,Home & Garden
+523,Computers & Electronics,"Der Thread bezieht sich auf einen i5-9400 Prozessor, ein Computer-Hardwareteil, und fällt unter die Kategorie Computers & Tablets/eReaders.",320.0,94.0,Computers & Electronics
+527,Computers & Electronics,Fernseher fallen unter Unterhaltungselektronik/Technik-Produkte.,315.0,58.0,Computers & Electronics
+572,Apparel,"Schuhe für Männer gehören zur Kategorie Bekleidung/Apparel, da Schuhe ein Bekleidungsartikel sind.",314.0,75.0,Apparel
+587,Home & Garden,Eine Feuerleiter (Escape Ladder) ist ein Sicherheitsprodukt für das Zuhause und fällt somit unter Home & Garden.,312.0,81.0,Home & Garden
+589,Computers & Electronics,"Bluetooth-Lautsprecher ist ein elektronisches Audiogerät, passend zur Kategorie Computers & Electronics.",313.0,75.0,Computers & Electronics
+599,Computers & Electronics,"Ooma Telo ist ein VoIP-Telefonie-Gerät, also ein elektronisches Kommunikationsprodukt.",308.0,74.0,Computers & Electronics
+612,Home & Garden,"Haustierbedarf wird üblicherweise unter Home & Garden eingeordnet, da 'Pets' keine eigene Hauptkategorie in der Liste ist und Tierprodukte am ehesten zu Haushaltsartikeln zählen.",316.0,112.0,Home & Garden
+619,Computers & Electronics,"Es handelt sich um einen Wireless-Lautsprecher (Heimkino/Audio-Gerät), was in die Kategorie Computers & Electronics fällt.",330.0,85.0,Computers & Electronics
+628,Beauty & Wellness,"CPAP-Reinigungsgerät bezieht sich auf persönliche Gesundheits- und Wellnesspflege, passend zur Unterkategorie Beauty Supplies & Personal Care.",328.0,97.0,Beauty & Wellness
+632,Home & Garden,"Ridgid ist eine Werkzeugmarke; Batterien für Werkzeuge fallen unter Home Improvement & Tools, was der Hauptkategorie Home & Garden zugeordnet wird.",320.0,97.0,Home & Garden
+635,Home & Garden,"Ein Werkzeug für Heimwerker/Handwerk (Mitre Saw) fällt unter Home Improvement & Tools, was der Hauptkategorie Home & Garden entspricht.",357.0,93.0,Home & Garden
+643,Entertainment,"Video Games und PlayStation Network Deals fallen unter Unterhaltungselektronik/-medien, konkret Gaming, das als Entertainment kategorisiert wird.",305.0,84.0,Computers & Electronics
+654,Automotive,"Ein Dashcam-Zubehör für Autos fällt unter die Kategorie Auto-Teile & Zubehör, was Automotive entspricht.",342.0,76.0,Automotive
+659,Financial Services,"Betrifft ein Bankkonto (Sparkonto) mit Zinsangebot, was klar unter Finanzdienstleistungen fällt.",317.0,75.0,Financial Services
+670,Home & Garden,"DeWalt-Werkzeug/Licht fällt unter Heimwerker- und Werkzeugbedarf, was der Kategorie Home & Garden entspricht.",326.0,83.0,Home & Garden
+675,Home & Garden,"Ein BBQ-Grillanzünder ist ein Outdoor-Koch-/Gartenartikel, der typischerweise der Kategorie Home & Garden zugeordnet wird.",315.0,90.0,Kids & Babies
+683,Computers & Electronics,"Der Titel beschreibt einen Laptop (Acer Swift 3) mit technischen Spezifikationen, und die Unterkategorie 'Computers & Tablets' passt direkt zu Computers & Electronics.",354.0,102.0,Computers & Electronics
+702,Home & Garden,"Werkzeuge (Bohrer/Spade-Bits) fallen unter Home Improvement & Tools, was zur Hauptkategorie Home & Garden gehört.",320.0,84.0,Home & Garden
+717,Computers & Electronics,"Ein Fernseher (TV) fällt unter Unterhaltungselektronik/Geräte, klassifiziert als Computers & Electronics.",342.0,77.0,Computers & Electronics
+719,Apparel,Die Unterkategorie 'Men's Apparel' und das Produkt (Socken) sind klar Bekleidung zuzuordnen.,323.0,71.0,Apparel
+720,Restaurants,"Fast Food ist eine Unterkategorie der Gastronomie; das Angebot betrifft Burger von Harvey's, einem Fast-Food-Restaurant.",324.0,82.0,Restaurants
+731,Home & Garden,"Ryobi Werkzeug-Kombo (Schlagschrauber und Kompressor) fällt unter Home Improvement & Tools, was der Hauptkategorie Home & Garden zugeordnet wird.",341.0,98.0,Home & Garden
+743,Computers & Electronics,"Das Produkt ist ein Laptop (Legion 7i) mit typischen PC-Spezifikationen wie CPU, RAM, SSD und Grafikkarte, was klar in die Kategorie Computers & Electronics fällt.",344.0,108.0,Computers & Electronics
+744,Entertainment,"Video Games fällt unter Entertainment, da es sich um digitale Unterhaltungssoftware (Steam-Spiel) handelt.",328.0,72.0,Computers & Electronics
+752,Home & Garden,"Ein Bürostuhl ist ein Möbelstück für Zuhause/Büro und fällt am ehesten unter Home & Garden, da keine spezifischere Kategorie wie Small Business zutrifft.",317.0,98.0,Small Business
+764,Computers & Electronics,"Eine SSD (interne Festplatte) ist ein Computer-Peripheriegerät/Zubehör, das eindeutig der Kategorie Computers & Electronics zuzuordnen ist.",334.0,95.0,Computers & Electronics
+765,Computers & Electronics,Fernseher gehören zur Kategorie Unterhaltungselektronik/Elektronikgeräte.,323.0,64.0,Computers & Electronics
+770,Home & Garden,"Ein Elektrowasserkocher ist ein Haushaltsgerät (Appliance), das zur Kategorie Home & Garden gehört.",330.0,75.0,Home & Garden
+771,Home & Garden,"Ein Nass-Trocken-Sauger ist ein Haushaltsgerät für Reinigung im und um das Haus, daher fällt es unter Home & Garden.",336.0,83.0,Home & Garden
+781,Computers & Electronics,"Eine Kameralinse (Canon 50mm Objektiv) ist ein elektronisches Fotografie-Zubehör, das unter Computers & Electronics fällt.",324.0,86.0,Computers & Electronics
+785,Entertainment,"Der Deal betrifft das Mieten eines Films, was unter Filme/Unterhaltung fällt.",323.0,61.0,Entertainment
+786,Computers & Electronics,"Samsung Galaxy S10 ist ein Smartphone, das unter Computers & Electronics fällt.",322.0,64.0,Computers & Electronics
+797,Entertainment,"Eine Action-Figur basierend auf einem Videospiel-Charakter (Mortal Kombat/Spawn) fällt unter Sammelfiguren/Spielzeug mit Bezug zu Unterhaltungsmedien, was am besten in die Kategorie Entertainment passt.",316.0,124.0,Kids & Babies
+798,Home & Garden,"Ein Oszillationswerkzeug fällt unter Heimwerkerbedarf/Werkzeuge, was der Kategorie Home & Garden entspricht.",333.0,82.0,Home & Garden
+810,Sports & Fitness,"Skier und Bindungen sind Wintersport-/Ski-Ausrüstung, was eindeutig in die Kategorie Sports & Fitness fällt.",332.0,82.0,Sports & Fitness
+812,Computers & Electronics,Eine Computer-Maus ist ein Peripheriegerät und fällt eindeutig unter Computer & Elektronik.,317.0,70.0,Computers & Electronics
+838,Home & Garden,"Ein Duschcaddy ist ein Haushaltsartikel für das Badezimmer, passend zu Home & Garden.",334.0,68.0,Home & Garden
+859,Home & Garden,"Bed frames and headboards are furniture items for the home, fitting under Home & Garden.",326.0,54.0,Home & Garden
+869,Computers & Electronics,"Ein Bose TV-Soundsystem ist Unterhaltungselektronik/Audio-Hardware, was unter Computers & Electronics fällt.",325.0,80.0,Computers & Electronics
+877,Home & Garden,"Cutting discs are tools related to home improvement, which falls under Home & Garden.",333.0,52.0,Home & Garden
+903,Computers & Electronics,"Echo Studio ist ein smarter Lautsprecher/Audiogerät, das unter Home Theatre & Audio fällt, was der Kategorie Computers & Electronics zugeordnet wird.",321.0,96.0,Computers & Electronics
+920,Home & Garden,"Miracle-Gro Pflanzendünger fällt unter Outdoors & Patio, was zur Hauptkategorie Home & Garden gehört.",337.0,77.0,Home & Garden
+928,Home & Garden,"BBQ-Grills fallen unter Outdoor/Patio-Ausstattung, was zur Kategorie Home & Garden gehört.",341.0,73.0,Home & Garden
+933,Sports & Fitness,Dumbbell set with rack is fitness equipment used for exercise/training.,329.0,52.0,Sports & Fitness
+934,Financial Services,"Mortgages and loans are financial products, fitting directly into the Financial Services category.",318.0,51.0,Financial Services
+936,Computers & Electronics,"Ein Fernseher (TV) fällt unter Unterhaltungselektronik/Elektronikgeräte, nicht unter Entertainment-Inhalte selbst.",329.0,86.0,Computers & Electronics
+942,Home & Garden,"Ein Gasgrill ist ein Outdoor-Kochgerät für Haus und Garten, passend zur Kategorie Home & Garden.",325.0,75.0,Home & Garden
+963,Home & Garden,"Appliances gehören zu Haushaltsgeräten, die typischerweise unter Home & Garden fallen, und Bissell stellt Reinigungsgeräte für den Haushalt her.",304.0,90.0,Home & Garden
+976,Automotive,"Elektroroller sind ein Transportmittel, das der Kategorie Automotive (Fahrzeuge/Mobilität) zugeordnet wird.",304.0,76.0,Automotive
+981,Sports & Fitness,"Ein eBike ist Sportausrüstung/Fitnessgerät für aktive Fortbewegung, daher passt die Kategorie Sports & Fitness am besten.",303.0,86.0,Sports & Fitness
+989,Home & Garden,"Filtrete air filters for HVAC systems are home maintenance/improvement products, fitting Home & Garden category.",314.0,63.0,Home & Garden
+996,Apparel,"Herrenschuhe (Nike Sneaker) fallen unter Bekleidung/Schuhe, was zur Kategorie Apparel gehört.",335.0,75.0,Apparel
+997,Computers & Electronics,"Betrifft einen Mobilfunkanbieter (Rogers) und Datenvolumen für Mobiltelefone, was in den Bereich Computers & Electronics fällt.",314.0,88.0,Computers & Electronics
+1009,Computers & Electronics,"Eine interne SSD ist ein Computer-Speicherzubehör/Peripheriegerät, das eindeutig unter Computer & Elektronik fällt.",327.0,82.0,Computers & Electronics
+1013,Computers & Electronics,"iPad Pro ist ein Tablet-Gerät, das eindeutig unter Computers & Electronics fällt.",334.0,67.0,Computers & Electronics
+1021,Computers & Electronics,"Fernseher sind Unterhaltungselektronik, die klassisch unter Computers & Electronics fällt.",319.0,65.0,Computers & Electronics
+1025,Restaurants,"Das Produkt ist ein Lebensmittel (Käsesauce), was am ehesten der Kategorie Restaurants/Food zugeordnet wird, da keine spezifischere Kategorie für Lebensmittel existiert.",325.0,103.0,Entertainment
+1030,Entertainment,"Das Produkt ist ein Buch (Bücher, Musik, Filme, Zeitschriften fallen unter Unterhaltung/Medien).",334.0,76.0,Entertainment
+1033,Automotive,"Ein Fahrradträger ist ein Autozubehör (Auto Parts & Accessories), das am Fahrzeug montiert wird, daher passt die Kategorie Automotive am besten.",330.0,89.0,Automotive
+1038,Home & Garden,"Ein Aquarium ist ein Haustierzubehör-Produkt, das am ehesten unter Haus & Garten fällt, da es sich um Ausstattung für zuhause handelt und keine spezifischere Kategorie wie Pets in der zulässigen Liste existiert.",323.0,121.0,Home & Garden
+1057,Home & Garden,"Kostenlose Fotoabzüge (Prints) fallen unter Foto-/Druckdienstleistungen für den Haushalt, am ehesten passend zu Home & Garden, da keine spezifischere Kategorie wie Elektronik oder Entertainment zutrifft.",302.0,121.0,Computers & Electronics
+1092,Automotive,"Ein Auto-Starthilfegerät (Jump Starter) ist ein Autozubehörteil, passend zur Unterkategorie 'Auto Parts & Accessories'.",316.0,85.0,Automotive
+1101,Computers & Electronics,"Telecom-Angebote wie Mobilfunk-/Internetdienste werden typischerweise unter Computers & Electronics eingeordnet, da es sich um Kommunikations- und Technologiedienstleistungen handelt.",298.0,105.0,Computers & Electronics
+1104,Apparel,Die Unterkategorie 'Men's Apparel' und das Produkt (Herrenuhr) fallen unter Bekleidung/Accessoires für Männer.,329.0,79.0,Apparel
+1123,Computers & Electronics,"Wireless headphones are electronics peripherals/accessories, fitting the Computers & Electronics category.",332.0,61.0,Computers & Electronics
+1131,Home & Garden,"Büro-/Schulbedarf wie Buntstifte fällt unter Haushalts- und allgemeine Konsumgüter, da keine spezifischere Kategorie wie Elektronik oder Kleidung zutrifft.",329.0,103.0,Small Business
+1132,Home & Garden,"Nespresso-Kaffeemaschine ist ein Haushaltsgerät (Appliance), das in die Kategorie Home & Garden fällt.",331.0,77.0,Home & Garden
+1135,Travel,"Der Titel bezieht sich auf ein Hotelangebot (Westin Marriott Toronto) mit Frühstück und Parkplatz, was klar der Kategorie Travel/Unterkunft entspricht.",317.0,96.0,Travel
+1143,Computers & Electronics,"Sennheiser Kopfhörer (HD 25, HD 280Pro) sind Audio-Elektronikgeräte, die unter Home Theatre & Audio fallen, was der Kategorie Computers & Electronics zugeordnet wird.",329.0,111.0,Computers & Electronics
+1162,Sports & Fitness,"Ein Power Squat Rack ist Trainingsequipment für Krafttraining/Fitness, daher passt die Kategorie Sports & Fitness am besten.",322.0,83.0,Sports & Fitness
+1164,Computers & Electronics,"Das Produkt ist ein Laptop (Lenovo Ideapad), eindeutig der Kategorie Computers & Electronics zuzuordnen.",367.0,80.0,Computers & Electronics
+1182,Home & Garden,"Ein Outdoor-Faltstuhl für Terrasse/Garten fällt unter Wohn- und Gartenprodukte, entsprechend der Unterkategorie 'Outdoors & Patio'.",320.0,97.0,Home & Garden
+1196,Computers & Electronics,"Das Angebot betrifft Mac-Software-Bundles (iMazing, Windscribe VPN, weitere Apps), was eindeutig in den Bereich Computer & Elektronik/Software fällt.",346.0,98.0,Computers & Electronics
+1212,Home & Garden,"Möbelstück (Recliner/Sessel) für den Wohnbereich, fällt unter Furniture, das zur Kategorie Home & Garden gehört.",320.0,80.0,Home & Garden
+1231,Computers & Electronics,"Eine Webcam ist ein Computer-Peripheriegerät/Zubehör, was eindeutig in die Kategorie Computers & Electronics fällt.",326.0,82.0,Computers & Electronics
+1233,Home & Garden,"Ein Kühlbox-Produkt für Outdoor/Camping-Nutzung fällt unter Haushalts- und Gartenartikel, da es sich um ein Ausrüstungsprodukt für den Haushalt/Freizeitgebrauch handelt.",315.0,116.0,Sports & Fitness
+1251,Beauty & Wellness,"Ein Heizkissen dient der persönlichen Pflege und Entspannung, passend zur Unterkategorie 'Personal Care', die der Hauptkategorie Beauty & Wellness zugeordnet ist.",320.0,103.0,Beauty & Wellness
+1252,Computers & Electronics,"Ein Drucker ist ein Computer-Peripheriegerät, passend zur Unterkategorie 'Peripherals & Accessories'.",341.0,76.0,Computers & Electronics
+1272,Computers & Electronics,Kopfhörer sind Peripheriegeräte/Elektronikzubehör und fallen unter Computers & Electronics.,340.0,70.0,Computers & Electronics
+1290,Computers & Electronics,"Eine Gaming-Tastatur ist ein Computerzubehör, passend zur Unterkategorie Computers & Tablets.",342.0,72.0,Computers & Electronics
+1291,Entertainment,"Ein Brettspiel (Mansions of Madness) fällt unter Unterhaltungsprodukte, auch wenn die Thread-Kategorie 'Books, Music, Movies, Magazines' lautet.",321.0,97.0,Entertainment
+1297,Home & Garden,"Finish Quantum Max ist ein Geschirrspültab, ein Haushaltsreinigungsprodukt, das typischerweise der Kategorie Home & Garden zugeordnet wird.",321.0,92.0,Home & Garden
+1308,Restaurants,"Das Angebot betrifft Getränke in einer Bar/Restaurant (Guschlbauer), passend zur Kategorie Restaurants.",333.0,74.0,Restaurants
+1319,Travel,"Bezieht sich auf Hotelübernachtungen und Bonuspunkte bei Marriott, was der Reisebranche zuzuordnen ist.",304.0,75.0,Travel
+1321,Automotive,"Ein Jump Starter ist ein Autozubehör/-teil, das der Kategorie 'Auto Parts & Accessories' entspricht, welche direkt der Hauptkategorie Automotive zugeordnet wird.",312.0,100.0,Automotive

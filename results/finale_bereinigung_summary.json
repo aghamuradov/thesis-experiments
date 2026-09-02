@@ -1,0 +1,24 @@
+{
+  "n_input_rows": 1326,
+  "n_duplicates_removed": 20,
+  "n_output_rows": 1306,
+  "tf1_splink_train_time_sec": 6.114808797836304,
+  "tf1_splink_predict_time_sec": 7.5337138175964355,
+  "tf1_splink_threshold": 0.01,
+  "tf2_price_real_gap_mae": 159.09024991708122,
+  "tf2_price_real_gap_rmse": 290.9684387215566,
+  "price_mae_vs_reference_full": 30.536519518377688,
+  "price_n_compared_full": 1052,
+  "saving_mae_vs_reference_full": 4.903563255966743e-05,
+  "date_exact_match_vs_reference_full": 1.0,
+  "n_parent_category_filled": 501,
+  "pipeline_wall_time_sec": 15.940563917160034,
+  "method_config": {
+    "tf1_duplikate": "Splink + regelbasierte Titel-Plausibilitaetspruefung",
+    "tf3_price": "XGBoost_Parser",
+    "tf3_saving": "Regelbasiert",
+    "tf3_datum": "Regelbasiert",
+    "tf2_fehlende_werte_price": "RandomForest_nach_MissForest_Prinzip",
+    "tf4_semantik": "Dictionary_Fuzzy"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "experiment": "TF2_FehlendeWerte",
+  "method": "RandomForest_nach_MissForest_Prinzip",
+  "price_mae": 176.3437233739837,
+  "price_rmse": 294.6751925547759,
+  "price_n_test": 164,
+  "parent_category_accuracy": 0.856,
+  "parent_category_macro_f1": 0.8271529831554584,
+  "parent_category_n_test": 125,
+  "train_time_price_sec": 1.527198314666748,
+  "train_time_parent_category_sec": 0.4956846237182617,
+  "hinweis": "HyperImpute wegen Bibliotheks-Inkompatibilitaet (siehe Notebook-Einleitung) durch separate RandomForestRegressor-/RandomForestClassifier-Fits nach dem MissForest-Prinzip (Stekhoven & Buehlmann 2012) ersetzt - keine vollstaendige iterative MissForest-Implementierung."
+}

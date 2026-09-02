@@ -1,0 +1,11 @@
+{
+  "experiment": "TF3_Formatierung",
+  "method": "XGBoost_Parser",
+  "price_exact_match": 0.9961089494163424,
+  "price_valid_rate": 0.9961089494163424,
+  "price_class_accuracy": 0.980544747081712,
+  "saving_exact_match": 0.9463087248322147,
+  "saving_valid_rate": 0.9798657718120806,
+  "saving_class_accuracy": 0.9865771812080537,
+  "hinweis": "Datumsspalten hier nicht enthalten - siehe Regelbasiert-Notebook (keine Formatklassifikation sinnvoll/noetig)."
+}

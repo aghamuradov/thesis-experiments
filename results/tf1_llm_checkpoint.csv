@@ -1,0 +1,149 @@
+row_id_a,row_id_b,label,prediction,reasoning,input_tokens,output_tokens
+48,1404,1,0,[FEHLER/FALLBACK - kein gültiges LLM-Ergebnis],0,0
+60,61,1,1,"Identischer Autor, Preis, Produkt-URL und nahezu identischer Zeitstempel (1 Minute Unterschied) belegen, dass es sich um denselben Deal handelt, wahrscheinlich doppelt gepostet.",1589,104
+77,1429,1,1,"Identischer Autor, Preis, Titel (nur Tippfehler 'Wamart' statt 'Walmart') und exakt gleiche URL, nur das Erstellungsdatum unterscheidet sich um einen Tag - eindeutig derselbe Deal, erneut gepostet.",876,120
+95,1434,1,1,"Identischer Titel (mit Tippfehler 'eSop' statt 'eShop'), gleicher Preis, gleiche URL und Quelle, nur einen Tag später von anderem Nutzer gepostet - klassisches Repost desselben Deals.",715,108
+103,1374,1,1,"Identischer Titel, gleiche Quelle (Foot Locker) und Kategorie, mit Datumsangaben nur wenige Tage auseinander – typisch für einen erneut geposteten Deal von einem anderen Nutzer.",618,102
+118,120,1,1,"Beide Einträge haben identischen Titel, Autor, Zeitstempel, Quelle und URL, was auf denselben Beitrag oder einen exakten Duplikateintrag hinweist.",857,88
+148,1421,1,1,"Identische Titel (nur minimaler Tippfehler 'Lte' statt 'Lite'), identische Produkt-URL und Preise, kurz aufeinanderfolgende Zeitstempel deuten auf einen Repost desselben Deals durch einen anderen Nutzer hin.",842,120
+162,1406,1,1,"Gleicher Autor, nahezu identischer Titel (nur Tippfehler 'Interet' statt 'Internet'), identische URL/Angebot, und die zweite URL enthält sogar 'ref=repost1406', was explizit auf einen erneuten Post hinweist.",712,116
+201,1379,1,1,"Nahezu identischer Titel (nur Tippfehler 'mass' statt 'masks'), gleicher Preis, Ort und Kategorie, mit Datum wenige Tage später von anderem Autor gepostet - klassisches Repost.",623,104
+202,1385,1,1,"Gleicher Autor, Titel, Preis, Ersparnis und Produkt-URL, nur mit 4 Stunden Zeitunterschied (Zeitzonendifferenz) und einem 'repost'-Parameter in der URL von B, was auf einen erneuten Post desselben Angebots hinweist.",862,128
+309,1358,1,1,"Identischer Titel, Autor, Quelle und Kategorie; die Zeitstempel liegen nur zwei Tage auseinander, was auf denselben Deal oder einen Repost hinweist.",593,89
+418,419,1,1,"Beide Einträge sind in allen Feldern (Titel, Autor, Preis, Datum, URL, Kategorie) identisch, es handelt sich also um denselben Beitrag.",989,84
+460,1422,1,1,"Identischer Titel (bis auf Tippfehler im Preis), gleicher Preis (10.99), gleiche Ersparnis, gleiche Quelle und identische URL - dies ist offensichtlich derselbe Deal, erneut gepostet von einem anderen Nutzer zwei Tage später.",1019,125
+528,1020,1,1,"Beide Einträge verweisen auf dieselbe URL bei Princess Auto für denselben Kawasaki Druckreiniger mit identischem Preis (139.99/139) und beschreiben somit dasselbe Angebot, nur von verschiedenen Nutzern zu unterschiedlichen Zeitpunkten gepostet.",729,136
+538,1448,1,1,"Identischer Autor, Titel (nur Tippfehler-Unterschied), Preis, Quelle und Produkt-URL; das Datum liegt nur 2 Tage später, was auf einen erneuten Post desselben Deals hindeutet.",660,105
+539,1444,1,1,"Gleicher Autor, identisches Produkt, identische URL/Preis und Quelle bei Costco – lediglich das Erstellungsdatum unterscheidet sich um wenige Tage, was auf einen erneuten Post desselben Deals hindeutet.",658,110
+1444,1448,1,1,"Gleicher Autor, identischer Titel (nur leichte Tippfehler), gleicher Preis, gleiche URL/Produkt-ID und Quelle - eindeutig derselbe Deal, wahrscheinlich mit Zeitzonenunterschied im Datum.",659,116
+592,1356,1,1,"Identischer Titel, identischer Preis und identische Produkt-URL (gleiche ASIN) weisen auf denselben Deal hin, der nur von einem anderen Nutzer zu einem späteren Zeitpunkt erneut gepostet wurde.",1107,109
+605,1375,1,1,"Gleicher Titel (mit Tippfehler 250 vs 20), gleicher Preis, gleiche Ersparnis, gleiche Quelle und Kategorie bei nur zwei Tagen Zeitunterschied - typisches Repost desselben Deals von einem anderen Nutzer.",643,123
+612,1335,1,1,"Identischer Titel (nur geringe Schreibvariation 'cans' vs 'cns'), gleicher Preis, gleiche Quelle und identische URL zum Produkt, nur unterschiedliche Autoren und leicht abweichendes Datum – klassischer Fall eines erneut geposteten Deals.",746,128
+671,1436,1,1,"Gleicher Autor, identischer Preis, gleiche Produkt-ASIN und URL, nahezu identischer Titel (Tippfehler 'Watr' statt 'Water'), zeitlich nur einen Tag auseinander - klarer Fall eines erneut geposteten Deals (auch durch 'repost1436' im URL-Parameter bestätigt).",1049,147
+734,1345,1,1,"Identischer Titel, Autor, Preis, Ersparnis, Quelle und Produkt-URL; nur die Uhrzeit weicht leicht ab und die URL enthält einen 'repost'-Parameter, was auf einen erneuten Post desselben Deals hinweist.",775,117
+735,1391,1,1,"Identischer Autor, Quelle, Kategorie und nahezu identischer Titel (nur Tippfehler 'Auo' statt 'Auto') mit fast gleichem Zeitstempel (nur eine Stunde Unterschied), was auf denselben Beitrag hinweist, evtl. Zeitzonen-Differenz.",627,136
+738,1376,1,1,"Identisches Produkt, identischer Preis und identische URL zum Best Buy Angebot, lediglich von unterschiedlichen Autoren einen Tag später erneut gepostet.",750,84
+773,1420,1,1,"Gleicher Autor, Preis, Quelle und identische Produkt-URL (nur mit repost-Parameter ergänzt), lediglich Titel-Tippfehler und späteres Datum weisen auf einen erneuten Post desselben Deals hin.",727,109
+853,1398,1,1,"Identischer Titel, Autor, Preis, Ersparnis, Quelle und fast identische URL (nur mit repost-Parameter versehen); Zeitstempel liegen nur Stunden auseinander, was auf einen erneut geposteten Deal hinweist.",764,112
+923,1474,1,1,"Gleicher Autor, gleicher Titel (minimaler Tippfehler im Preis), identische Quelle und Preis, nur zwei Tage Zeitunterschied - dies ist derselbe Deal, wahrscheinlich ein erneuter Post oder Update desselben Threads.",644,120
+928,929,1,1,"Beide Einträge sind in allen Feldern identisch (Titel, Autor, Datum, URL, Ersparnis), es handelt sich also um denselben Beitrag.",731,80
+938,1417,1,1,"Identischer Titel (bis auf Tippfehler 'Devies'), gleiche URL, Preis, Ersparnis und Quelle - nur Autor und Datum unterscheiden sich, was auf ein erneut gepostetes Angebot hinweist.",851,109
+990,1388,1,1,"Gleicher Autor, Preis, Produkt, URL und Datum (nur Uhrzeit unterscheidet sich um Stunden), Titel-Preis in B ist offensichtlich ein Tippfehler (3.88 statt 93.88). Dies ist derselbe Deal, wahrscheinlich doppelt gepostet oder bearbeitet.",928,144
+1003,1469,1,1,"Identischer Titel, Preis, Ersparnis und URL für denselben Diablo 3 Sale, lediglich unterschiedliche Autoren und Datum (3 Tage Abstand), was auf einen erneuten Post desselben Deals hindeutet.",741,110
+1004,1382,1,1,"Identischer Titel, Autor, Quelle, Kategorie und nahezu identisches Datum (nur 2 Stunden Unterschied, vermutlich Zeitzonenanzeige), eindeutig derselbe Deal.",645,100
+1186,1348,1,1,"Identischer Titel (bis auf Tippfehler), Preis, Ersparnis, Standort und Produkt-URL, gepostet nur zwei Tage später von einem anderen Nutzer – eindeutig derselbe Deal, erneut geteilt.",821,109
+1230,1403,1,1,"Identischer Autor, Titel (nur Tippfehler-Unterschied), Preis/Ersparnis, Quelle und URL (Eintrag B enthält sogar 'ref=repost1403', was explizit auf einen Repost hinweist).",830,106
+1280,1373,1,1,"Identisches Produkt, Preis und Ziel-URL (gleiche Amazon-Produkt-ID B07DPGPXG7), nahezu identischer Titel mit nur einem Tippfehler ('Cips' statt 'Chips'), und die URL von B enthält sogar den Parameter 'ref=repost1373', was explizit auf einen erneuten Post hindeutet.",1406,152
+1311,1342,1,1,"Gleicher Titel, Autor, Preis, Quelle und identische Produkt-URL (B enthält zusätzlich einen repost-Parameter), nur das Datum unterscheidet sich leicht - klassisches Repost desselben Angebots.",1000,106
+1325,1363,1,1,"Gleicher Autor, gleiche URL und Kategorie, nahezu identischer Titel (nur Tippfehler bei Preis 150 vs 10) mit nur einem Tag Abstand - offensichtlich derselbe Deal, evtl. leicht editiert oder erneut gepostet.",653,123
+438,469,0,0,"Unterschiedliche Produkte (SodaStream vs. allgemeine Costco-Angebote), verschiedene Quellen, Autoren, Kategorien und Preisangaben – kein Bezug zueinander.",620,95
+237,991,0,0,"Unterschiedliche Produkte (Elektrofahrrad vs. Smart-Thermostat), unterschiedliche Titel, URLs, Kategorien und Daten – es handelt sich um völlig verschiedene Angebote.",763,101
+30,1442,0,0,"Unterschiedliche Produkte (Kaffeetassen vs. Malerband), unterschiedliche Preise, Autoren und URLs verweisen auf verschiedene Amazon-Artikel.",990,90
+473,965,0,0,"Unterschiedliche Produkte (Reiskocher vs. Apple ID Bonus), verschiedene Kategorien, Quellen, Autoren und Daten - völlig unterschiedliche Angebote.",791,93
+227,1183,0,0,"Unterschiedliche Produkte (Kochgeschirr vs. LED-Lampe), unterschiedliche Quellen, Preise und Autoren - keine Übereinstimmung erkennbar.",807,90
+239,1148,0,0,"Unterschiedliche Anbieter (Rakuten vs. Helly Hansen/Canadian Tire), unterschiedliche Rabatte, Autoren, Daten und URLs – es handelt sich eindeutig um zwei verschiedene Angebote.",681,110
+29,449,0,0,"Unterschiedliche Anbieter (Clarisonic vs. Old Navy/Gap), unterschiedliche Kategorien, Titel und Daten – es handelt sich um völlig verschiedene Angebote.",689,95
+1267,1356,0,0,"Völlig unterschiedliche Produkte (Sonic Mania Filmangebot vs. Gaming-Laptops), unterschiedliche Autoren, Quellen, Preise und Daten - kein Bezug zueinander.",1025,99
+284,940,0,0,"Unterschiedliche Produkte (Gartengeräte vs. Schuhe), unterschiedliche Händler, Kategorien, Preise und Zeitpunkte – es handelt sich eindeutig um zwei verschiedene Angebote.",813,105
+481,1188,0,0,"Unterschiedliche Produkte (Campingstuhl vs. Kopfhörer), unterschiedliche Preise, Quellen, URLs und Kategorien - eindeutig verschiedene Angebote.",704,93
+667,686,0,0,"Völlig unterschiedliche Produkte (Schokolade vs. Web-Hosting), unterschiedliche Titel, Preise, Kategorien und URLs. Kein Zusammenhang erkennbar.",684,94
+283,989,0,0,"Unterschiedliche Produkte (Bohrmaschine vs. Luftfilter), unterschiedliche Quellen, Preise, Autoren und Daten – es handelt sich eindeutig um verschiedene Angebote.",722,99
+1173,1299,0,0,"Völlig unterschiedliche Produkte (Türschloss vs. Chemical Guys Autopflegeprodukte), unterschiedliche Quellen, Kategorien und Autoren.",1032,86
+479,985,0,0,"Unterschiedliche Produkte (RAM-Speicher vs. Mobilfunktarif), unterschiedliche Anbieter, Kategorien, Daten und Autoren - es handelt sich um völlig verschiedene Angebote.",1203,103
+1088,1232,0,0,"Unterschiedliche Produkte (Surface Pen/Mouse vs. SanDisk SSD), unterschiedliche Preise, Quellen, Autoren und Daten - offensichtlich verschiedene Angebote.",954,98
+470,513,0,0,"Unterschiedliche Produkte (Bluetooth-Kopfhörer vs. Instant Pot), unterschiedliche Preise, Kategorien, URLs und Autoren – es handelt sich eindeutig um zwei verschiedene Angebote.",973,109
+473,545,0,0,"Völlig unterschiedliche Produkte (Reiskocher vs. Power Cage), unterschiedliche Händler, Preise, Kategorien und Autoren.",951,78
+1248,1454,0,0,"Unterschiedliche Produkte (Dyson-Cashback vs. Lenovo-Laptop), unterschiedliche Händler, Autoren und URLs – völlig verschiedene Angebote.",918,90
+867,1088,0,0,"Völlig unterschiedliche Produkte (Mehl vs. Surface Pen), unterschiedliche Händler, Kategorien, Preise und Autoren.",804,77
+258,333,0,0,"Völlig unterschiedliche Produkte (Masken vs. Monitor), Kategorien, Autoren, Preise und Quellen – es handelt sich eindeutig um zwei verschiedene Angebote.",700,93
+146,1467,0,0,"Unterschiedliche Titel, Anbieter (Canadian Tire vs. American Express), Kategorien und Autoren – es handelt sich um völlig verschiedene Angebote.",641,84
+559,1367,0,0,"Unterschiedliche Titel, Quellen (Altitude Sports vs. Best Buy), Kategorien (Apparel vs. Computers & Electronics) und völlig verschiedene Produkte/Angebote.",786,95
+705,756,0,0,"Unterschiedliche Titel, Kategorien, Quellen und URLs – A betrifft ein Pringles-Angebot bei Walmart, B ein Aeroplan-Meilenangebot. Es handelt sich offensichtlich um völlig verschiedene Deals.",768,115
+487,1337,0,0,"Unterschiedliche Produkte (Handdesinfektionsmittel vs. Shoppers Drug Mart Flyer-Zusammenfassung), unterschiedliche Quellen, Autoren und Kategorien - keine Übereinstimmung erkennbar.",621,113
+1204,1248,0,0,"Unterschiedliche Produkte, Quellen (Princess Auto vs. Dyson) und Kategorien; keine inhaltliche Übereinstimmung.",715,77
+783,1362,0,0,"Unterschiedliche Titel, Produkte, Kategorien, Autoren und Datumsangaben – es handelt sich um völlig verschiedene Angebote (Schuhe vs. Autopflegeprodukte).",719,97
+765,1075,0,0,"Die Einträge betreffen völlig unterschiedliche Produkte (Fernseher vs. Kreditkarten-Bonuspunkte), unterschiedliche Quellen, Autoren, Kategorien und Zeitpunkte.",708,103
+951,1081,0,0,"Unterschiedliche Titel, Kategorien, Quellen, URLs und Angebotsinhalte (Airmiles-Anmeldung vs. .CA-Domain-Rabatt) – es handelt sich eindeutig um zwei verschiedene Deals.",729,112
+227,1395,0,0,"Unterschiedliche Produkte (Kochgeschirr-Set vs. American Express UberEats-Gutschein), unterschiedliche Kategorien, Autoren, Daten und Quellen – kein Bezug zueinander.",676,100
+346,1105,0,0,"Völlig unterschiedliche Produkte (Fahrradbekleidung vs. WLAN Access Point), unterschiedliche Autoren, Preise, Quellen und Kategorien.",973,86
+755,1398,0,0,"Völlig unterschiedliche Produkte (Espressogläser vs. Breaker Bar), unterschiedliche Händler, Preise, Kategorien und Autoren.",940,80
+919,1474,0,0,"Die beiden Einträge betreffen völlig unterschiedliche Produkte (Monitor vs. Fleisch), unterschiedliche Händler, Preise und Kategorien - es handelt sich eindeutig nicht um denselben Deal.",783,105
+133,165,0,0,"Völlig unterschiedliche Produkte (Drucker vs. Kaffee-Abonnement), unterschiedliche Anbieter, Kategorien, Autoren und Daten - keine Übereinstimmung.",757,95
+91,586,0,0,"Unterschiedliche Produkte, Händler, Preise und Kategorien – es handelt sich um völlig verschiedene Angebote.",817,68
+283,1174,0,0,"Unterschiedliche Produkte (Bohrmaschine vs. Pizza), unterschiedliche Quellen, Kategorien, Autoren und Daten - es handelt sich eindeutig um zwei völlig verschiedene Angebote.",709,105
+505,1214,0,0,"Unterschiedliche Titel, Autoren, Kategorien und Daten – Eintrag A ist ein regionaler Sammelthread für Costco-Angebote, Eintrag B ein spezifisches Produktangebot (Moleskine Journal). Keine inhaltliche Übereinstimmung.",628,125
+1181,1213,0,0,Es handelt sich um völlig unterschiedliche Produkte (eine Autobatterie-Starthilfe vs. Auffahrrampen) von verschiedenen Händlern und Herstellern.,844,89
+850,1351,0,0,"Völlig unterschiedliche Produkte (Jacke vs. Waschmaschine), unterschiedliche Autoren, Preise, Kategorien und Quellen.",1004,79
+285,657,0,0,"Unterschiedliche Produkte (Smartphone vs. Luftauffrischer), unterschiedliche Quellen (Costco vs. Walmart) und unterschiedliche Kategorien - es handelt sich klar um zwei verschiedene Angebote.",692,110
+187,1043,0,0,"Unterschiedliche Produkte (Staubsauger vs. Videospiel-Key), unterschiedliche Anbieter, Kategorien, Autoren und Daten – es handelt sich eindeutig um zwei verschiedene Angebote.",623,105
+829,1422,0,0,"Völlig unterschiedliche Produkte (Splash Block vs. Kaffee), unterschiedliche Quellen, Preise, Autoren und Kategorien - offensichtlich unterschiedliche Angebote.",932,96
+913,1165,0,0,"Unterschiedliche Titel, Autoren, Kategorien, Daten und völlig unterschiedliche Produkte (Restaurant-Gutschein vs. Regenschirm) – es handelt sich klar um zwei verschiedene Angebote.",638,107
+702,1224,0,0,"Völlig unterschiedliche Produkte (Bohrer-Set vs. Monitor), unterschiedliche Preise, Kategorien, Autoren und Daten - keine Übereinstimmung.",774,90
+547,1048,0,0,"Völlig unterschiedliche Produkte (Quest Bar vs. LED-Schreibtischlampe), unterschiedliche Quellen (Costco vs. Canadian Tire), Autoren und Daten stimmen nicht überein.",666,103
+409,1105,0,0,"Völlig unterschiedliche Produkte (Kaffeemühle vs. WLAN-Access-Point), unterschiedliche Preise, Quellen, Autoren und Daten - keine Übereinstimmung.",1072,95
+956,1103,0,0,"Völlig unterschiedliche Produkte (Laptop vs. PlayStation Plus Spiele), verschiedene Kategorien, Quellen und Autoren.",1014,78
+101,1235,0,0,"Völlig unterschiedliche Themen (Lebensmittel-Rundschau vs. TD-Hypothekenangebot), unterschiedliche Autoren, Kategorien und Zeitpunkte.",608,92
+224,1162,0,0,"Unterschiedliche Titel, Kategorien, Preise und Erstellungsdaten deuten auf völlig verschiedene Angebote hin (Restaurant-Cashback vs. Fitnessgerät).",649,95
+226,454,0,0,"Völlig unterschiedliche Produkte (Bankangebot vs. Schreibwaren), unterschiedliche Quellen, Kategorien, Autoren und Daten - offensichtlich keine Duplikate.",874,95
+373,1290,0,0,"Unterschiedliche Produkte (GaN-Ladegerät vs. Gaming-Tastatur), unterschiedliche Händler, Preise, Autoren und Daten – kein Zusammenhang erkennbar.",1233,97
+589,649,0,0,"Unterschiedliche Produkte (Bluetooth-Lautsprecher vs. Insektenschutzmittel), unterschiedliche Autoren, Preise, Quellen und Kategorien - keine Übereinstimmung in den relevanten Merkmalen.",729,112
+247,540,0,0,"Unterschiedliche Produkte, Händler, Preise und Autoren – Eintrag A betrifft Minions-Schlüsselanhänger bei Dollarama, Eintrag B einen 20% Rabatt bei Buytopia.ca.",717,106
+86,833,0,0,"Die Einträge betreffen völlig unterschiedliche Produkte (Antivirus-Software vs. iPhone-Vertrag), unterschiedliche Autoren, Daten und URLs. Es gibt keine Überschneidung, die auf denselben Deal hindeutet.",861,117
+69,1009,0,0,"Völlig unterschiedliche Produkte (Plüschfigur vs. SSD), unterschiedliche Preise, Kategorien, URLs und Autoren.",889,77
+1144,1145,0,0,"Unterschiedliche Anbieter (Sandman Hotels vs. Best Buy), unterschiedliche Kategorien (Hotels vs. Computers & Electronics) und völlig unterschiedliche Angebote/Titel.",838,101
+837,1285,0,0,"Unterschiedliche Produkte (Autowaschmittel vs. Kreissäge), unterschiedliche Händler, Preise, Autoren und Daten – es handelt sich eindeutig um zwei verschiedene Angebote.",729,101
+731,993,0,0,"Unterschiedliche Produkte (Ryobi Werkzeugkombo vs. Tribit Bluetooth-Kopfhörer), verschiedene Quellen, Preise, Kategorien und Autoren.",911,95
+366,455,0,0,"Unterschiedliche Produkte (Kochgeschirr-Set vs. AllTrails Pro-Abonnement), unterschiedliche Autoren, Preise, Kategorien und URLs - es handelt sich um völlig verschiedene Angebote.",720,109
+413,414,0,0,"Völlig unterschiedliche Produkte (Monitor vs. Rauchmelder), unterschiedliche Händler, Preise und URLs. Es handelt sich eindeutig nicht um dasselbe Angebot.",770,97
+368,1166,0,0,"Völlig unterschiedliche Kategorien, Produkte, Autoren und Quellen - eines betrifft ein Bankangebot, das andere ein Smart-Plug-Angebot von Best Buy.",767,92
+706,1161,0,0,"Unterschiedliche Produkte (Zahnbürstenköpfe vs. Hantel), unterschiedliche Autoren, Kategorien, Preise und Erstellungsdaten – keine Übereinstimmung, die auf denselben Deal hinweist.",816,111
+849,1380,0,0,"Die Einträge betreffen völlig unterschiedliche Kategorien (Finanzangebot vs. Laptop-Angebot), unterschiedliche Autoren, Titel, Daten und Quellen. Es gibt keine Übereinstimmung, die auf denselben Deal hindeutet.",809,123
+734,868,0,0,"Unterschiedliche Produkte (USB-Stick vs. Lysol-Spray), unterschiedliche Quellen, Preise und Kategorien - keinerlei Überschneidung.",720,86
+532,1398,0,0,"Unterschiedliche Produkte (Bohrmaschinen-Set vs. Breaker Bar), unterschiedliche Händler, Preise, Kategorien und Autoren – keine Übereinstimmung, die auf denselben Deal hinweist.",815,108
+219,287,0,0,"Unterschiedliche Produkte (Pizza-Rabattcode vs. E-Bike), unterschiedliche Quellen, Autoren, URLs und Kategorien - es handelt sich um völlig verschiedene Angebote.",666,101
+579,1353,0,0,"Völlig unterschiedliche Produkte (Videospiele vs. Rasierseife), unterschiedliche Kategorien, Quellen, Preise und Autoren – es handelt sich eindeutig nicht um denselben Deal.",1013,101
+93,1459,0,0,"Unterschiedliche Produkte, Quellen, Kategorien und Preise – ein Sport Chek/Triangle-Angebot vs. ein Walmart-Messerschärfer-Deal haben keinen Bezug zueinander.",726,102
+139,294,0,0,"Unterschiedliche Produkte (Synology NAS vs. Google Home), unterschiedliche Preise, Autoren, Daten und URLs - völlig verschiedene Angebote.",814,85
+337,1191,0,0,"Es handelt sich um völlig unterschiedliche Angebote von verschiedenen Händlern (Sport Chek vs. Foodymart), mit unterschiedlichen Kategorien, Preisen und Daten.",760,95
+355,1343,0,0,"Es handelt sich um völlig unterschiedliche Produkte (Smartwatch vs. Grafikkarte) mit unterschiedlichen Preisen, Autoren, Quellen und URLs.",885,90
+537,1346,0,0,"Völlig unterschiedliche Produkte (Werkzeug-Kombi-Set vs. Videospiel), unterschiedliche Quellen, Preise, Kategorien und URLs – kein Zusammenhang erkennbar.",908,101
+9,836,0,0,"Die beiden Einträge betreffen völlig unterschiedliche Produkte (Samsung Monitor vs. Shutterfly Fotobücher), unterschiedliche Autoren, Kategorien, Quellen und Daten.",902,100
+854,1138,0,0,"Unterschiedliche Produkte (Kopfhörer vs. Gartenschlauch), unterschiedliche Händler, Autoren, Preise und Daten – keine Übereinstimmung.",704,88
+580,791,0,0,"Unterschiedliche Kategorien, Angebote und Anbieter (Telecom-Prepaid-Pläne vs. Pizza-Rabatt) – keine Übereinstimmung in Inhalt oder Kontext.",679,99
+966,1082,0,0,"Völlig unterschiedliche Produkte (KN95-Masken vs. RAM-Speicher), verschiedene Autoren, Kategorien, Preise und URLs.",918,80
+523,1406,0,0,"Unterschiedliche Produkte (CPU vs. Internet-Tarif), unterschiedliche Anbieter, Titel, URLs und Erstellungsdaten – es handelt sich klar um zwei verschiedene Angebote.",715,102
+975,1414,0,0,"Unterschiedliche Produkte (BBQ vs. Milwaukee-Werkzeug), unterschiedliche Quellen, Preise, Autoren und Daten – keine Übereinstimmung erkennbar.",763,96
+101,1169,0,0,"Völlig unterschiedliche Themen (allgemeiner Lebensmittel-Rundup vs. spezifisches Amazon-Produktangebot), unterschiedliche Autoren, Kategorien, Daten und Quellen.",781,101
+85,928,0,0,"Völlig unterschiedliche Produkte (Laptop vs. BBQ-Grill-Rabattaktion), unterschiedliche Autoren, Kategorien, Preise und Quellen - es handelt sich klar um zwei verschiedene Angebote.",976,110
+167,985,0,0,"Unterschiedliche Produkte (Dash Cam vs. Mobilfunktarif), unterschiedliche Anbieter, Preise, Kategorien und Erstellungsdaten – es handelt sich eindeutig um zwei verschiedene Angebote.",803,111
+141,1350,0,0,"Unterschiedliche Titel, Autoren, Quellen, Kategorien und Daten – es handelt sich um völlig unterschiedliche Angebote (Bay-Promo-Codes vs. LEGO-Set bei Costco).",662,103
+673,1475,0,0,"Unterschiedliche Produkte (Kompressor-Set vs. Feuertisch), unterschiedliche Anbieter (Canadian Tire vs. Costco), unterschiedliche Preise und URLs - kein Bezug zueinander.",737,105
+728,782,0,0,"Unterschiedliche Produkte (USB-Ladegerät vs. Eero Mesh-Systeme), unterschiedliche Autoren, Preise und Daten – kein gemeinsamer Deal.",796,92
+556,1457,0,0,"Völlig unterschiedliche Produkte (Küchenmesser vs. Laptop), unterschiedliche Quellen, Preise, Kategorien und Autoren - keine Übereinstimmung erkennbar.",845,95
+298,1417,0,0,"Völlig unterschiedliche Produkte (Laptop vs. Antivirus-Software), unterschiedliche Anbieter, Preise, Daten und Autoren - es handelt sich um zwei verschiedene Deals.",847,98
+962,1079,0,0,"Unterschiedliche Produkte (TIDAL Musik-Abo vs. Fire 7 Tablet), unterschiedliche Kategorien, Preise, Daten und Quellen belegen völlig verschiedene Angebote.",821,101
+498,962,0,0,"Unterschiedliche Produkte (NVIDIA SHIELD Pro vs. TIDAL Hifi), unterschiedliche Kategorien, Preise und URLs – es handelt sich eindeutig um zwei verschiedene Angebote.",841,107
+1177,1278,0,0,"Unterschiedliche Produkte (Kühlbox vs. Router), unterschiedliche Quellen, Preise, Daten und URLs – keine Übereinstimmung.",721,81
+678,785,0,0,"Völlig unterschiedliche Produkte (Tastatur vs. Filmverleih), unterschiedliche Kategorien, Preise, Quellen und Daten - kein Zusammenhang erkennbar.",1227,93
+163,1121,0,0,"Völlig unterschiedliche Produkte (Internetdienst vs. Hydroflask-Rabatt), unterschiedliche Autoren, Kategorien, URLs und Daten - offensichtlich keine Duplikate.",763,99
+332,1051,0,0,"Unterschiedliche Produkte (SSD vs. Wi-Fi-Kamera), unterschiedliche Preise, Autoren, Daten und URLs mit verschiedenen ASINs.",1011,89
+373,670,0,0,"Unterschiedliche Produkte (GaN-Ladegerät vs. DeWalt-Leuchte), unterschiedliche Händler, Preise, Kategorien und Autoren – keinerlei Übereinstimmung.",1222,99
+838,1151,0,0,"Unterschiedliche Produkte, Quellen (Amazon.ca vs. Lowe's), Autoren und Daten – keine Übereinstimmung in Titel, Preis oder URL.",806,87
+1227,1341,0,0,"Völlig unterschiedliche Produkte (kostenlose iOS-App vs. Microsoft Surface Pen und Maus), unterschiedliche Autoren, Kategorien und URLs deuten auf zwei verschiedene Deals hin.",800,106
+485,1140,0,0,"Völlig unterschiedliche Produkte (Sorel Schuhe vs. Sony TV), unterschiedliche Autoren, Kategorien, Daten und URLs.",811,81
+264,911,0,0,"Unterschiedliche Produkte (Batterieladegerät vs. Ratschenwerkzeug), unterschiedliche Autoren, Preise, Daten und Quellen – keine Übereinstimmung.",831,93
+288,329,0,0,"Völlig unterschiedliche Produkte (Pizza-Rabatt vs. Milwaukee-Werkzeugset), Händler, Kategorien und Preise – es handelt sich um zwei verschiedene Angebote.",704,99
+685,1053,0,0,"Völlig unterschiedliche Produkte (Gitarrenunterricht vs. Monitor), unterschiedliche Autoren, Daten, Kategorien und Quellen – kein Zusammenhang erkennbar.",839,97
+34,948,0,0,"Unterschiedliche Angebote (Internet-Service vs. Pizza-Angebot), verschiedene Autoren, Kategorien und Daten – es handelt sich um völlig verschiedene Deals.",670,92
+546,1379,0,0,"Völlig unterschiedliche Produkte (Tablet vs. Masken), unterschiedliche Autoren, Preise, Kategorien und Quellen - keine Übereinstimmung.",751,86
+533,640,0,0,"Unterschiedliche Produkte (Reebok-Sale vs. Apple AirPods Pro), unterschiedliche Quellen, Autoren, Kategorien und Daten – es handelt sich eindeutig um zwei verschiedene Angebote.",706,108
+534,605,0,0,"Unterschiedliche Produkte (T-Ball-Set vs. Netgear Orbi WLAN-System), unterschiedliche Autoren, Preise, Kategorien und Quellen – es handelt sich eindeutig um zwei völlig verschiedene Angebote.",858,115
+1003,1348,0,0,"Völlig unterschiedliche Produkte (Videospiel vs. Werkzeug), unterschiedliche Kategorien, Autoren, Preise und Quellen-URLs.",780,83
+198,1018,0,0,"Unterschiedliche Produkte (Grill vs. Sandalen), unterschiedliche Autoren, Kategorien, Quellen und Datumsangaben – keinerlei Überschneidung, die auf denselben Deal hindeutet.",641,104
+649,684,0,0,"Völlig unterschiedliche Produkte (Insektenschutzmittel vs. Videospiel), unterschiedliche Quellen, Kategorien, Autoren und Preise.",678,83
+212,841,0,0,"Unterschiedliche Produkte (Bidet vs. C-Klemmen), unterschiedliche Händler (Costco vs. Princess Auto) und unterschiedliche Autoren sowie Daten.",735,92
+407,1416,0,0,"Völlig unterschiedliche Produkte (SSD vs. USB-Ladegerät), unterschiedliche Preise, Autoren, Daten und URLs/Produkt-IDs.",1195,86
+600,666,0,0,"Völlig unterschiedliche Produkte (RAM-Kit vs. Pizza-Angebot), unterschiedliche Autoren, Kategorien und URLs.",767,79
+380,681,0,0,"Unterschiedliche Produkte (Bluetooth-Kopfhörer vs. Spektiv), unterschiedliche Preise, Quellen, URLs und Kategorien - keinerlei Überschneidung.",737,95
+729,1323,0,0,"Unterschiedliche Produkte (Samsung Smartphone vs. North Face Kleidung), unterschiedliche Kategorien, Autoren, URLs und Preise – es handelt sich eindeutig um zwei verschiedene Angebote.",844,106
+940,1107,0,0,"Völlig unterschiedliche Produkte (Schuhe vs. Dünger), unterschiedliche Anbieter, Autoren, Preise und Kategorien - offensichtlich keine Duplikate.",826,92

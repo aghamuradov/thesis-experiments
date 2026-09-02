@@ -1,0 +1,10 @@
+{
+  "experiment": "TF4_Semantik",
+  "method": "Dictionary_Fuzzy",
+  "accuracy": 0.8951612903225806,
+  "macro_f1": 0.9236244431896606,
+  "n_test": 124,
+  "lookup_time_sec": 0.0016376972198486328,
+  "n_application_rows": 500,
+  "hinweis": "Mehrheitstabelle ausschliesslich aus train-Split berechnet (Data-Leakage-Fix ggue. tf4_thread_to_parent_mapping.csv)."
+}

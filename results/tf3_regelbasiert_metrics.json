@@ -1,0 +1,10 @@
+{
+  "experiment": "TF3_Formatierung",
+  "method": "Regelbasiert",
+  "price_exact_match": 0.9922178988326849,
+  "price_valid_rate": 0.9961089494163424,
+  "saving_exact_match": 0.9798657718120806,
+  "saving_valid_rate": 0.9798657718120806,
+  "date_exact_match": 1.0,
+  "date_valid_rate": 1.0
+}

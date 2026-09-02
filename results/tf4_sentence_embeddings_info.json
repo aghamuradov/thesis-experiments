@@ -1,0 +1,7 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "n_eval": 825,
+  "n_application": 500,
+  "encode_time_sec": 12.045608520507812
+}

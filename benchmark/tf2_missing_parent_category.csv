@@ -1,0 +1,826 @@
+row_id,parent_category_input,views,votes,replies,price,saving,thread_category,source,title,split
+6,Apparel,50708,118,280,27.50,50% +4%CB,Men's Shoes,,Oakley Men’s Super Coil Sandal 2.0 Sandals $27.50 (50% off) +4% CB,train
+8,,9571,29,71,$99.99,,Pets,PetSmart,Fluval Flex 9 gallon aquarium- $99.99,test
+10,Computers & Electronics,630,-1,2,39,,Telecom,,100mb cable internet 39$,train
+11,Kids & Babies,25080,25,101,199,,Toys & Games,Costco,Costco.ca Geometric dome climbing structure $199,train
+12,,7974,4,28,1998,600 off,Televisions,,"[Visions] Samsung 65"" Q80T (2020) QLED at $1998",val
+17,,13518,40,31,$24.99,Reg: $65+,Furniture,Costco,"Star Elite Personal Adjustable Height Table 30"" - $24.99 (very good deal)",test
+20,Financial Services,402942,130,1611,,,Mortgages & Loans,HSBC,"HSBC Fixed rates: 2.04% 2-year, 1.99% 5-yr Insured & 2.29% 5-Yr (with cashback!)",train
+21,Small Business,709,12,4,.10,,Office Supplies,Staples,"Hilroy 1-Subject Notebook, 10-1/2"" x 8"", Assorted, 80 Pages $0.10, 24pk markers $2.49",train
+22,Entertainment,3549,1,7,$7.92,,Other,Walmart,[CLEARANCE] 18-2019 Panini Toronto Raptors Championship Box Set ($7.92 ),train
+23,Beauty & Wellness,26067,23,70,,50%,Beauty Supplies & Personal Care,Clarisonic,Clarisonic - Shutting Down Sale - 50% Off Everything,train
+24,,2776,1,8,30,33% off,Other,Amazon.ca,Bodum Bistro Double Wall 0.45l Set of 2 Coffee Mugs $30,test
+25,Entertainment,12540,29,45,,16%,"Books, Music, Movies, Magazines",,Book Outlet - Many Low Prices on Books (Free Shipping Over $45 & 16% Off),train
+26,Financial Services,95676,116,725,,,Credit Cards,American Express,"Amex Offers Spend $10, get $5 - Up to 10 times (starts June 24th)",train
+27,,9051,26,33,,,Equipment,,"Olympic 2"" weight plates - 2.5lbs ($4.05), 5lbs ($7.96), 10lbs ($13.08), 25lbs ($35.97), 35lbs ($39.97), 45lbs ($66.97)",val
+28,Home & Garden,16725,5,48,289.00,,Appliances,Home Depot,"Rheem 36kW Electric Tankless Water Heater Reg. $964, in Store $289 YMMV.",train
+29,,26102,23,70,,50%,Beauty Supplies & Personal Care,Clarisonic,Clarisonic - Shutting Down Sale - 50% Off Everything,test
+30,Home & Garden,2810,1,8,30,33% off,Other,Amazon.ca,Bodum Bistro Double Wall 0.45l Set of 2 Coffee Mugs $30,train
+31,Entertainment,12549,29,45,,16%,"Books, Music, Movies, Magazines",,Book Outlet - Many Low Prices on Books (Free Shipping Over $45 & 16% Off),train
+32,,16764,5,48,289.00,,Appliances,Home Depot,"Rheem 36kW Electric Tankless Water Heater Reg. $964, in Store $289 YMMV.",val
+33,Computers & Electronics,4105,7,11,19.99,72,Other,Shoppers Drug Mart,"Phillip Hue Bridge 2.0 - $19.99 (Clearance, YMMV)",train
+34,Computers & Electronics,13708,1,67,30 to 65,,Telecom,,Oxio - cable internet service in QC : 15/10 $30 - 30/10 $40 - 60/10 $45 + 1st month free + $25 referral,train
+36,Beauty & Wellness,9909,61,33,5.97,,Other,Amazon.ca,Arm & Hammer Liquid Laundry Detergent Sensitive Skin - 100 Loads 4.43 L - $5.97,train
+37,Home & Garden,17182,16,81,$50.60,48% off,Home Improvement & Tools,Home Depot,Ryobi Impact Driver with charger and 2 batteries - $50.60,train
+39,Computers & Electronics,4897,19,16,169.99,48%,Computers & Tablets/eReaders,Walmart,"Lenovo 10.1"" M10 Rel 32GB Tablet $169.99",train
+40,Home & Garden,3384,5,9,,,Other,Real Canadian Superstore,No Tax All Week (ONT) July 16 to 22,train
+43,Computers & Electronics,899,8,1,$9.99,55% Off,Peripherals & Accessories,Amazon.ca,"PICTEK Waterproof School Backpack with Headphone Port, fits 14-15.6"" Laptops - $9.99",train
+44,Entertainment,6345,37,30,,,Events & Attractions,,AGO - free annual pass for front line workers,train
+45,Home & Garden,2577,6,11,$19.97,,Appliances,Walmart,Chef's Choice Electric Knife Sharpener $19.97,train
+46,Computers & Electronics,929,4,3,$94.00,,Video Games,Newegg,Nintendo eShop $99 gift card code for $94,train
+47,Computers & Electronics,453,1,1,39.99,50%,Video Games,The Source,Star Wars Jedi Fallen (PS4/Xbox One) $39.99,train
+49,Computers & Electronics,20827,19,112,,,Computers & Tablets/eReaders,Best Buy,Lenovo Duet Chromebook 2-in-1: $399 - preorder,train
+50,Home & Garden,1205,4,5,89.97,,Home Improvement & Tools,,Bosch core battery 6.3ah 18V 90$,train
+53,,2036,22,9,FREE,$6.99,"Books, Music, Movies, Magazines",,[**FREE APP**] Learn Spanish with MosaLingua,val
+54,Computers & Electronics,56067,73,259,499,,Cell Phones,Costco,LG G8X ThinQ 128GB Smartphone - $499 (in-store),train
+56,,6752,11,38,24.49,65%,Home Improvement & Tools,Canadian Tire,"Mastercraft Drill/Drive Bit Set, 104-pc - $24.49",test
+57,Home & Garden,21234,8,133,139,,Home Improvement & Tools,Home Depot,Milwaukee M12 FUEL Stubby 3/8-Inch Impact Wrench 2554-20 (Tool-Only) - $139,train
+58,Home & Garden,1508,4,5,199.97,90$,Home Improvement & Tools,,6 GALLON OIL FREE- Metabo HPT Pancake air compresor - 199.97+shipping,train
+59,,1513,4,5,199.97,90$,Home Improvement & Tools,,6 GALLON OIL FREE- Metabo HPT Pancake air compresor - 199.97+shipping,val
+65,Home & Garden,13157,34,47,28,,Appliances,Bed Bath And Beyond,Magic Bullet 11-piece set for $28+taxes{YMMV},train
+67,,138745,58,450,,,Banking & Investing,CIBC,CIBC Earn $300 and 12 Month Fee Rebate with a CIBC Smart Account,val
+68,Computers & Electronics,5688,-1,31,1504.50,50%,Computers & Tablets/eReaders,Lenovo Canada,Lenovo X1 Carbon 7th i5 10210 512gb SSD 16GB Ram 400NITS $1504.50/$1429.28 Student/Military,train
+69,,10125,0,51,29.97,33%,Toys & Games,,"Star Wars The Child Plush 11"" from The Mandalorian $29.97",test
+70,,6506,11,20,28.97,39%,Peripherals & Accessories,Amazon.ca,AmazonBasics Full-Size Ergonomic Wireless PC Mouse with Fast Scrolling [$28.97],test
+72,Home & Garden,30163,34,149,,,Home Improvement & Tools,Home Depot,RYOBI 2020 Summer Tour - 20% off 18V + 40V tools on event day,train
+73,Financial Services,23616,22,92,,,Credit Cards,,"TD, BMO, CIBC and Manulife cash back 10% cards welcome bonuses end dates vary",train
+74,Automotive,6850,7,31,99.99,$90,Auto Parts & Accessories,Amazon.ca,AUKEY DR03 1080p Dual Dash Cams $99.99 after coupon,train
+75,Financial Services,26168,69,86,,30% off,Credit Cards,Royal Bank,RBC Rewards 30% off Gift Cards -Petro Canada & others,train
+76,Beauty & Wellness,50410,33,105,$12.99,,Other,Costco,"Cloth Masks at Costco, 3 Pack, $12.99",train
+77,Computers & Electronics,34201,21,120,99.96,,Video Games,,Ring Fit Adventure $99.96 @ Walmart Dixie and Dundas and other locations.,train
+78,,11780,17,43,49,,Men's Apparel,Lululemon,"Commission Pant Slim Canvas 34"" - Silver Spoon $49",test
+83,Computers & Electronics,507393,63,2791,3298,,Televisions,,"(Visions, Costco, BB, 2001) LG OLED 65C9 $3298 55C9 $2298 65B9 $2998 55B9 $1998",train
+84,Computers & Electronics,8174,8,41,684.97,,Computers & Tablets/eReaders,Grand And Toy,Lenovo ThinkCentre M725s - SFF - Ryzen 7 Pro 2700 3.2 GHz - 16 GB RAM - 512 GB SSD (French KB) $684.97,train
+85,,14307,6,72,$810,,Computers & Tablets/eReaders,Amazon.ca,"Lenovo Flex 5 14"" 2-in-1 Laptop Ryzen 5 4500U 16gb DDR, 256GB SSD $810",val
+91,Home & Garden,2530,6,8,$19.98,50% off,Appliances,Walmart,Hamilton Beach 4 Slice Toaster Oven or 1.7 L Stainless Steel Kettle $19.98 each (Half Price) YMMV,train
+92,Computers & Electronics,3976,-2,21,$49.99,$30 off,Other,Memory Express,"Office 365 Personal, 1 Year Subscription - $49.99",train
+94,Home & Garden,1948,3,2,$118.40,52%,Home Improvement & Tools,Home Depot,Ryobi 18V ONE+ Cordless Stick Vacuum with Battery and Charger - $118.40 (YMMV),train
+95,Computers & Electronics,4264,-4,18,18.74,,Video Games,Nintendo,Assassin's Creed III: Remastered (Switch) $18.74 on eShop,train
+96,,2482,-2,6,9.98,,Beauty Supplies & Personal Care,Walmart,"One Step Hand Sanitizer, Fragrance-Free, 1L, $9.98",test
+99,Apparel,3370,4,3,$499,,Children's Apparel,LEGO,Lego Harry Potter Castle 71043 in stock,train
+104,Financial Services,35253,74,263,,,Credit Cards,American Express,Shopping.ca Gift Card by Ivanhoé Cambridge - Spend at least $100 and Earn $20 credit. Up to 3 times - YMMV,train
+105,Computers & Electronics,5814,12,9,$28,$72 off,Video Games,Visions Electronics,Visions Mini C64 $28 link in thread,train
+106,Computers & Electronics,4641,4,13,98,,Peripherals & Accessories,Visions Electronics,"Acer 22"" monitor - $98",train
+109,Financial Services,11161,21,55,,,Credit Cards,,PCF Mastercard - 5x Points - July 15 - Aug 15 [YMMV],train
+112,,121409,205,728,,,Appliances,,Enercare Credits! YMMV,test
+116,Computers & Electronics,5253,10,19,$330.03,,Peripherals & Accessories,Lenovo Canada,"Lenovo 28"" UHD 4K IPS Monitor $366.70 plus 10% cash back ($330.03)",train
+117,,1147,0,3,$429.95,$150,Appliances,,Vitamix Venturist - Refurb ($429.95),test
+119,Home & Garden,1151,0,3,$429.95,$150,Appliances,,Vitamix Venturist - Refurb ($429.95),train
+121,Computers & Electronics,2358,9,11,,100,Video Games,GreenmanGaming.com,War of Mine free (YMMV depending on ranking),train
+122,Financial Services,7343,-3,20,,,Banking & Investing,Scotiabank,$25 GC + $300 Cash When Opening a Scotibank Chequing Account,train
+123,,20736,34,72,$119.99,~42% off,Appliances,The Bay,KitchenAid 3- Piece pasta roller set $119.99,test
+125,,2031,3,2,$5,,Women's Apparel,Thyme Maternity,Thyme Maternity Everything $5 in store! [Hot],val
+126,Computers & Electronics,6984,7,35,1399.99,$400,Computers & Tablets/eReaders,Costco,"LG gram 17"" 17Z90N Laptop, i5-1035G7, 16GB, 512GB $1399.99 ($400 off)",train
+128,Computers & Electronics,3863,3,7,$97,,Home Theatre & Audio,Visions Electronics,Polk Audio TSi CS10 High Performance Center Speaker (CS10BLACK-OPENBOX) - $97,train
+129,Home & Garden,43931,23,155,214.99,20%,Home Improvement & Tools,Costco,Garage Epoxy $214.99,train
+132,Computers & Electronics,6145,115,19,0$,100%,Video Games,Epic Games,Epic free games 16 - 23 July Torchlight II,train
+133,Computers & Electronics,355278,116,1205,,,Peripherals & Accessories,,[Staples/TheSource/WM/BB/Costco] HP Inkjet wireless 3-in-One Instant-Ink Eligible Printers from $60,train
+134,,3191,0,33,17.99,,Beauty Supplies & Personal Care,,Disposable Masks - Medical Grade ASTM Level 2. Made in USA. 50 masks for $17.99 plus &9.95 S&H,test
+135,Beauty & Wellness,2560,3,15,$15,,Beauty Supplies & Personal Care,,GTA/Ottawa $15 - 5 x 10 Pack Disposable Face Masks - Non Medical,train
+136,,4593,5,31,128,14% off,Home Improvement & Tools,Home Depot,Ryobi 4.0 Ah Battery (2-Pack) $102.4,val
+138,Home & Garden,9636,10,42,404.99,24%,Appliances,eBay.ca,Dyson V10B (Animal) refurb - $404.99 from Dyson Canada (eBay),train
+139,Computers & Electronics,1225,3,1,649.99,,Peripherals & Accessories,Newegg,($649.99+$9.99 shipping) Synology DS420+ 4-bay NAS,train
+142,,3841,5,25,89.99,40% + $10,Telecom,Staples,Ooma Telo (Wired) and Telo Air 2 (Wifi Enabled) - $89.99 and $99.99 - Home Phone Hub ($5/mo landline),val
+143,Computers & Electronics,14431,13,31,$230,$50,Peripherals & Accessories,Best Buy,"(Restocked w/ backorder) Acer Nitro 23.8"" FHD 165Hz 2ms GTG IPS Monitor (XV240Y) $230",train
+145,Computers & Electronics,1056,1,1,23.99,%70 off,Video Games,,Shadow of the Tomb Raider: Definitive Edition - PC Steam Game $23.99,train
+148,Computers & Electronics,28281,26,120,,,Cell Phones,,"Samsung Galaxy S10 Lite (6.7"", 128GB, 8GB, SD855, 4500mah) US$431 / CAD$585 (and Note 10 Lite CAD$572)",train
+149,Restaurants,97575,198,383,,,Fast Food,Wendy's,Wendys App Free Spicy Chicken With Purchase,train
+151,Computers & Electronics,3915,0,11,169.99,$30 (15%),Peripherals & Accessories,Amazon.ca,XPG SX8200 Pro 1TB 3D NAND NVMe Gen3x4 PCIe M.2 2280 Solid State Drive 169.99$,train
+152,,2435,0,18,$699,$50,Televisions,Leon's,Samsung 58” HDR 4K Smart TV ($699) - $50 off,test
+153,Automotive,35650,28,130,,50% off,Auto Parts & Accessories,Walmart,Walmart clearance on tires-50% off,train
+155,Home & Garden,742,0,1,$179,$120,Outdoors & Patio,Lowe's,Kobalt 13-Amp 21-in Corded Electric Lawn Mower - $179,train
+158,Computers & Electronics,1975,6,7,,Up to 90%,Video Games,STEAM,Banner Saga Franchise Sale [HOT],train
+161,Home & Garden,1671,7,6,,,Home Improvement & Tools,,Worx Canada Ebay Store Tools and Accessories Sale,train
+162,Computers & Electronics,29469,5,132,,,Telecom,,Internet (ON) 75/10 $43 or 50/10 $40. 1 year contract,train
+163,,5565,-2,39,,,Telecom,,[YMMV] [ON] Altima Home Internet Down 50 Mbps 39.99$ 75Mbps 49.99$ 150Mbps 59.99$,val
+164,,5718,-1,35,,,Banking & Investing,National Bank,National Bank Direct Brokerage - $0.99 commission for Active Traders! (100+Trades per 3 months),val
+165,,4187,12,22,,25%,Coffee & Desserts,,Detour Coffee - 25% off first three orders for new subscriptions,val
+166,Computers & Electronics,33447,0,188,$326.35,,Cell Phones,,Xiaomi Redmi Note 9 Pro 6 GB RAM / 128 GB Storage Global Version Android Phone for $326.35,train
+167,Automotive,7962,12,33,99.99,50%,Auto Parts & Accessories,Amazon.ca,$99 Aukey DR03D Front-Back 1080P Dash Cam,train
+169,Entertainment,6650,13,27,,,"Books, Music, Movies, Magazines",,3 Months Free Amazon Music Unlimited,train
+172,Computers & Electronics,24128,52,124,64.99,,Video Games,Nintendo,NES and SNES Classic mini systems (refurbished) - $64.99 / $89.99,train
+178,Home & Garden,17733,15,67,199.99,,Appliances,,Ninja Foodi Digital Air Fryer Oven $199.99 with promo code FOODI30,train
+179,Home & Garden,17735,15,67,199.99,,Appliances,,Ninja Foodi Digital Air Fryer Oven $199.99 with promo code FOODI30,train
+180,,2293,3,7,$7.47,44%,Other,Home Hardware,sea foam for motor treatment $7.47 & Gorilla Duck Tape $3.87,test
+181,Computers & Electronics,2455,2,11,9.96,,Video Games,Walmart,Battlefield V PS4 & XBOXONE $9.96,train
+182,Computers & Electronics,17436,0,95,181,,Cell Phones,Amazon.ca,"$181: UMIDIGI F1 Smartphone 6.3"" FHD+ 128GB ROM 4GB RAM 5150mAh",train
+183,,140192,164,874,100k pts,,Credit Cards,President's Choice,Get 100k PC Optimum Points when you sign up for a PC Financial MasterCard,val
+184,,917,0,2,4.99,@.00,Office Supplies,Staples,"HP 20lb Paper 500 sheets $4.99, $2.00off",val
+185,Computers & Electronics,79986,0,517,,100%,Video Games,,Watchdogs 2 PC version free for Everyone,train
+188,Automotive,95993,106,442,,,Auto Parts & Accessories,,Potential pricing error deal: U-Haul trailer hitches,train
+189,Computers & Electronics,6982,1,18,199,65%,Home Theatre & Audio,Best Buy,Harmon Kardon Onyx Studio 5 BT Speaker $199.99 ($579.99 original price),train
+191,Computers & Electronics,28905,0,132,19.99,$23 off,Home Theatre & Audio,,Dudios True Wireless Earbuds - $19.99 with Prime,train
+195,,6155,10,23,61.99,23%,Peripherals & Accessories,Amazon.ca,Anker Soundcore Life Q20 Bluetooth 5.0 Headphones,test
+197,,286662,156,1070,,,Cell Phones,Freedom Mobile,Nationwide Unlimited Talk & Text - $99/year prepaid,val
+198,,211563,33,594,,,Outdoors & Patio,Costco,Weber Genesis II CE-330 - $999.99,test
+201,,5001,10,12,,,Beauty Supplies & Personal Care,,50 Non medical masks $12.99 (Toronto),test
+202,Home & Garden,7935,1,20,138,$40 off,Home Improvement & Tools,Home Depot,Ryobi Cordless Power Cleaner is price $178 or $138? YMMV,train
+203,Computers & Electronics,13632,2,64,89.99,,Computers & Tablets/eReaders,,[amazon.ca/the source.ca]Amazon Fire HD 8 (newest edition) $89.99,train
+204,,12003,7,65,$0,$600,Cell Phones,Freedom Mobile,"$65/20GB, with free Samsung A71",test
+205,Home & Garden,4300,4,28,,20%,Outdoors & Patio,Amazon.ca,Kamado Joe JoeTisserie (rotisserie attachment) - $262,train
+207,Computers & Electronics,6232,-4,24,399.99,100 off,Home Theatre & Audio,Costco,Sony HT-X9000F - 2.1 Ch soundbar-instore only-$399,train
+208,Entertainment,1989,11,6,24.99,,"Books, Music, Movies, Magazines",Best Buy,Best Buy 4k Disney/Pixar/Marvel Steelbooks $24.99 (all-time low for all),train
+209,Entertainment,1992,11,6,24.99,,"Books, Music, Movies, Magazines",Best Buy,Best Buy 4k Disney/Pixar/Marvel Steelbooks $24.99 (all-time low for all),train
+212,,33468,87,164,39.99,,Other,Costco,Brondell SimpleSpa Thinline Dual Nozzle Bidet $39.99,val
+214,,2647,2,13,39.96,,Video Games,Walmart,Star Wars Jedi Fallen Order PS4 & XboxOne 39.96,test
+215,Home & Garden,872,1,1,$199,nearly35%,Appliances,Best Buy,OntarioOnly Insignia Dehumidifier-35-Pint $149.99 with 25% Ontario instant energy rebate,train
+216,Kids & Babies,4650,4,19,$359.99,$70,Baby Needs,,Diono Radian 3RXT Convertible Car Seat - $359.99 and Free Shipping. Purple and Jet Black only,train
+218,Computers & Electronics,14499,59,51,,$10,Peripherals & Accessories,123Ink.ca,"RGB Gaming Mouse Pad, 7 LED Colors, 300*800*4mm $14.99 FS with coupon code",train
+219,Restaurants,719,0,2,,50% off,Other,Papa John's Pizza,Papa John's 50% Off Code - save50 - Guelph origination (YMMV),train
+223,Financial Services,167756,96,1139,,,Credit Cards,American Express,Amex Platinum Double Rewards: Double the points 4%/8%/12% Cashback,train
+224,Restaurants,1764,-5,14,,,Other,,$35 off and $22.50 Rakuten Cashback,train
+226,Financial Services,68628,50,282,,,Banking & Investing,Tangerine Chequing,YMMV $200 when you switch your everyday banking to your Tangerine Chequing Account (FOR EXISTING CUSTOMERS WITH INSIGHT),train
+230,Entertainment,708,3,1,$0.99,,"Books, Music, Movies, Magazines",,iTunes - $0.99 The Infiltrator rental,train
+234,Computers & Electronics,12571,0,46,,,Video Games,,"Epic free games 9 - 16 July Killing Floor 2, Lifeless Planet Premium Edition and The Escapist 2",train
+236,Financial Services,3931,8,19,,,Credit Cards,American Express,Amex offer (YMMV) 3 times $10 credit on $10 purchase at MOBILE service PROVIDER,train
+237,Sports & Fitness,1909,0,14,75,,Equipment,,Hyper Electric 700c Unisex Aluminum Electric bikes $75 (YMMV),train
+241,Financial Services,10650,14,52,,300$,Banking & Investing,TD Bank,TD Chequing Account - $300 Chequing offer,train
+242,Home & Garden,16695,17,93,79.45,11%,Home Improvement & Tools,Amazon.ca,$79 Ecobee SmartSensor 2 Pack,train
+243,,4304,-9,13,259.99,,Equipment,Costco,Marcy Pro Standard Bench with 100lb weight set,test
+244,Computers & Electronics,13941,37,47,$7.99,$27.00,Cell Phones,Microsoft Store,Belkin Home Charger (10 Watt/ 2.1 Amp) - $7.99 (Reg $34.99),train
+246,Financial Services,82977,15,345,,,Banking & Investing,Scotiabank,Earn $300 cash plus up to 2.70% interest with the Scotiabank Ultimate Package.,train
+247,Home & Garden,2081,4,5,$1.25,,Other,Dollarama,Minions clip-on key chains - $1.25 - Multiple Designs - In-Store (YMMV),train
+248,,7919,0,66,175.47,,Other,,"3M Full Facepiece Reusable Respirator, 6800, Medium $175.47",test
+249,Computers & Electronics,2662,0,13,$187.99,$41.00,Peripherals & Accessories,,WD 1TB My Passport SSD Portable Storage - USB 3.1 - $187.99 (ENDS July 16th @3:00am ET),train
+250,Home & Garden,9511,30,26,$62.98,,Home Improvement & Tools,Home Depot,Sun Joe 14-inch 9.0 Amp SWJ599E Electric Chain Saw for $62.98 w/FS (after price match & additional 10 % off),train
+251,Computers & Electronics,1409,12,1,,,Video Games,Best Buy,Bestbuy.ca: Joker / Hero Amiibo Pre-order $21.99,train
+252,Entertainment,8281,16,18,,,"Books, Music, Movies, Magazines",Dollarama,Star Wars graphic novels (YMMV),train
+255,Home & Garden,4646,6,18,$4499,,Appliances,,Steaming hot! Mr.Steam MX6EC1 Steam Unit $4499 (Reg $6399+),train
+258,Small Business,3107,-16,16,,,Office Supplies,,[GTA] Medical Masks $25 to $35 per box of 50,train
+260,Computers & Electronics,4108,0,6,FREE,$1.39,Video Games,,[*FREE GAME*] Zenge,train
+262,,3757,7,9,,,Beauty Supplies & Personal Care,Amazon.ca,Philips Hairclipper Series 7000 HC7650/14 *back in stock* $60,val
+263,Home & Garden,68918,134,132,,,Other,Costco,"[Costco East] (Brossard + Candiac + ???) July 06 to August 04, 2020 [THE BIG MONTH SALE] - Update July 17, 2020...",train
+264,Computers & Electronics,3297,0,9,17.35,,Other,,Duracell Fast Battery Charger with 2AA + 2AAA - $17.35,train
+265,Financial Services,103491,249,247,,,Other,,Free Equifax Credit reports due to Covid-19,train
+267,Apparel,1159,-1,0,166.39,55%+15%,Women's Shoes,,Wolverine 1000 miles (women) $166.39,train
+269,Computers & Electronics,1729,0,1,64.99,,Video Games,,Nintendo Themed SanDisk 256GB MicroSDXC - 64.99 (3 Hours Left),train
+270,Computers & Electronics,44969,54,178,,,Peripherals & Accessories,Lenovo Canada,Lenovo Q27h QHD 27” monitor IPS/USB-C/VESA/Speakers/75hz Freesync - $338,train
+271,Computers & Electronics,1811,-3,5,39.99,,Other,Canadian Tire,Tile Mate 4 Pack clearance in-store ($39.99),train
+272,,3899,4,17,"17,99",,Home Improvement & Tools,Canadian Tire,"Mastercraft Metal Sawhorse , 17,99$",val
+273,,12250,26,42,154.99,,Video Games,Nintendo,Nintendo 3ds refurbished back in stock on Nintendo website,val
+274,Financial Services,6747,0,44,,,Banking & Investing,HSBC,Receive up to $500 when you start banking with HSBC-Newcomers and Canadians,train
+276,Computers & Electronics,6537,29,29,,,Cameras,Amazon.ca,GoPro Bite Mount + Floaty $7.07,train
+277,,2560,4,10,$29.99,,Other,Canadian Tire,"Hillman #8 x 3"" Brown/Green Deck Screws 1000 pk $29.99 (Reg. $49.99) July 17-23",val
+278,Home & Garden,8149,-3,24,34.88,,Home Improvement & Tools,Home Depot,Ryobi 18V high pressure inflator P737D $34.88 (reg $39.98) YMMV,train
+281,Home & Garden,16311,40,24,10,50%,Other,Amazon.ca,DELONGHI Latte Macchiato Double Walled Clear Glass - Set of Two $10.00 (50% off),train
+283,Home & Garden,6672,9,20,29.86,,Home Improvement & Tools,Home Depot,Ryobi 12V drill/driver kit $29.86,train
+285,,14973,17,63,150.00,$50.00,Cell Phones,Costco,Motorola Moto G7 Play $150,val
+288,Restaurants,10083,8,31,50%off,50%off,Restaurants & Bars,Domino's Pizza,Domino’s Pizza 50%off (YMMV - Maybe GTA only),train
+291,,6503,11,16,$63.74,25% + 2pc,Appliances,,Grosche Milano Stainless Steel Moka Pot 10oz $63.74 OR 2 free glasses,test
+292,Home & Garden,2514,5,6,,,Other,The Source,smart light bulbs + plug,train
+293,Restaurants,2293,7,4,$8.99,,Fast Food,A & W,Beyond Meat Burger Combo $8.99 + $2 donated to MS Society Of Canada (via A&W online coupons site),train
+295,,2593,8,11,16.99,41%,Peripherals & Accessories,Amazon.ca,Anker USB C to Lightning Cable [Apple MFi Certified] Powerline II 6ft/3ft,test
+296,Restaurants,10451,33,55,,$10 off,Restaurants & Bars,Uber Eats,Get $10 off your order when you try Uber Eats Pickup (Possible YMMV),train
+297,Entertainment,2470,-5,15,free,100%,"Books, Music, Movies, Magazines",Amazon.ca,72 ECookbooks now only free on Kindle Unlimited Edition by Andrea Silver,train
+298,Computers & Electronics,2907,6,11,1149.99,,Computers & Tablets/eReaders,Dell,Dell G5 SE Ryzen 4600M/RX5600/8GB/FHD $1149 + extra discounts,train
+302,Entertainment,1340,-2,10,,,"Books, Music, Movies, Magazines",Best Buy,[Warm] Free Apple News+ For 4 Months [Previous Trial Subscribers Eligible] - US Apple ID Required,train
+303,,14181,9,74,350,,Cell Phones,Amazon.ca,nokia 5.3 $349,val
+306,Computers & Electronics,21842,6,78,$724.99,$225 off.,Cell Phones,Best Buy Mobile,HOT! Open Box Samsung Galaxy Note 10/10+ $725 and $875!!!,train
+307,,869,-1,2,,,Home Theatre & Audio,2001 Audio Video,"Hisense 65"" 4k ultra Hd $647 2 year warranty sold by 2001 Audio Video",test
+312,Computers & Electronics,2146,-2,7,25.19,,Peripherals & Accessories,Amazon.ca,SoundPeats Q12 Bluetooth Earbuds - $25,train
+313,Computers & Electronics,10788,6,38,$387,,Peripherals & Accessories,Best Buy,"Asus 28"" 4k IPS with full ergonomic stand open box $366",train
+316,Computers & Electronics,9206,9,52,5.99,80%,Video Games,Microsoft Store,Xbox One Grand Theft Auto V: Premium Edition $5.99 (Targeted YMMV),train
+317,,2549,8,9,153.9,,Home Improvement & Tools,Best Buy,Airthings Corentium Radon meter 153.9$,val
+319,,657,1,1,30,42%,"Books, Music, Movies, Magazines",Amazon.ca,[WARM] $30 Mission: Impossible 6 Movie Collection [Blu-ray],test
+320,Entertainment,929,11,1,0.00,100,"Books, Music, Movies, Magazines",Amazon.ca,popsicle cookbook free e-book digital only,train
+321,Computers & Electronics,4723,13,14,3.99,90% off,Video Games,,PSN Far Cry for PS4 prices - 3.99 to 19.99,train
+325,Computers & Electronics,15624,14,49,379.99,,Peripherals & Accessories,Amazon.ca,"Samsung UR55 28"" 4k Monitor $379.99",train
+326,,1782,7,4,$106.00,23% Off,Peripherals & Accessories,Amazon.ca,Samsung Galaxy Buds - Black | 23% Off | $106,val
+327,,9635,4,54,419.99,,Televisions,Canadian Tire,"Sharp 4K Roku Smart TV, 58-in - 419.99",test
+329,,14379,10,56,399,,Home Improvement & Tools,Home Depot,Free tools with Milwaukee Tool M18 18V HIGH OUTPUT Starter Kit $399,val
+331,,6540,4,25,Free,,Fast Food,,Free mama burger A& W app ymmv,test
+333,,20305,2,56,$1169,,Computers & Tablets/eReaders,Dell,Cyber Savings Event Alienware Monitor AW3420DW $1169,val
+334,Computers & Electronics,4097,-4,5,25.99,48%,Peripherals & Accessories,Amazon.ca,"$25.99 AUKEY 10000mAh Power Bank, 18W USB-C Portable Charger",train
+336,Financial Services,71727,56,388,,,Banking & Investing,CIBC,CIBC Global Money Transfer. Now $75 bonus,train
+339,Automotive,1659,-2,2,$110.49,,Auto Parts & Accessories,Amazon.ca,Amazon - $110.49 AWESAFE Mirror Dash Cam 12 Inch Full Touch Screen. Dual 1080P,train
+340,Computers & Electronics,2170,0,9,$499,$200 off,Televisions,Best Buy,"Toshiba 55"" 4K UHD HDR LED Smart TV (55LF621C21) - Fire TV Edition $499",train
+342,,87989,90,328,559,68% off,Computers & Tablets/eReaders,Lenovo Canada,"Lenovo Nano Desktop: i5-8265U, 8GB, 512GB SSD, Win 10 Pro $559 - 8% rebate",test
+345,Entertainment,10965,0,29,30.99,43% Off,"Books, Music, Movies, Magazines",Amazon.ca,The Art of the Last of Us Part II Hardcover ($53.99 - 43% = $30.99),train
+347,Computers & Electronics,8357,3,34,$279,,Cameras,Amazon.ca,Anker eufyCam Wireless 2-Camera Security System $279.99 (Reg. $400),train
+348,Computers & Electronics,7997,0,45,299.99,,Computers & Tablets/eReaders,eBay.ca,Asus GTX 1660 Super - $299.99,train
+349,Computers & Electronics,51261,15,235,,,Televisions,Costco,Hisense Q7G 55'' 4K ULED TV $597 w/ FS,train
+351,Automotive,1583,0,1,$4,,Other,Dollarama,Papermate Mechanical Pencils 24ct,train
+352,Financial Services,17536,5,56,,,Credit Cards,TD First Class Visa Infinite,Free $50 Gift Card for TD First Class Travel Visa Infinite Card Holders,train
+354,Kids & Babies,2752,7,2,,,Toys & Games,Walmart,LEGO Classic Medium Creative Brick Box 10696 - $27.86,train
+355,Computers & Electronics,4685,0,13,243.13,33%,Cell Phones,,Ticwatch Pro 2020 for 33% off (now 243.13 all-in)... or cheaper?,train
+356,Computers & Electronics,6577,17,47,,80-85%,Video Games,,[Uplay/Steam] Far Cry 5 (11.99$) - Far Cry 4 (7.99$) - Far Cry 3 (3.90$),train
+357,,20397,125,59,,,"Books, Music, Movies, Magazines",Microsoft Store,"Naruto, Steins Gate, Sword Art Online, Overlord *Free",val
+358,Computers & Electronics,3488,3,4,89,55% off,Home Theatre & Audio,Urban Outfitters,Marshall Major III Bluetooth Headphones $89.00 - White and Black color only,train
+360,,2892,6,12,69.99,,Other,Costco,Global NI Oriental 20 cm (8 in.) Chef's Knife - 69.99$ (Online),val
+361,Computers & Electronics,851,-3,0,$599.99,,Televisions,Amazon.ca,Insignia 58-inch 4K UHD HDR LED Smart TV - Fire TV Edition for $599.99,train
+363,,1955,5,9,,,Equipment,,Toronto Bike Share deals for CAA members,val
+364,Home & Garden,4086,-1,11,894,,Appliances,Home Depot,YMMV LG washing machine WM3800HB for $894,train
+365,Computers & Electronics,11136,24,41,15 USD,,Other,Microsoft,$15 USD Azure & O365 Certification Exams for COVID-19 affected individuals,train
+366,,1419,2,3,299.97,50% OFF,Appliances,,SUPER SPECIAL $299.97 Cusinox Super Elite 10 PIECE Cookware Set,test
+367,Computers & Electronics,1295,0,0,Free,100%,Video Games,STEAM,Ninja Kiwi Archive Flash Versions FREE,train
+368,,19379,30,82,,,Banking & Investing,,Simplii just upped their game- get $75 for sending your first GMT of $100 (plus an additional $25 ~ $50 for referral),val
+369,Computers & Electronics,861,1,1,,,Video Games,,Hard Reset Redux - $1.75US - 91% off [Steam],train
+370,,38772,-11,229,142 CAD,40%,Cell Phones,,UMIDIGI A7 Pro - $142,val
+372,Sports & Fitness,7204,-8,46,24.49,30%,Clothing & Accessories,Amazon.ca,ASHLIN Men's Bi-fold Wallet w/16 Card Pockets - $24.49 or 30% Off,train
+373,Computers & Electronics,5417,13,30,47.99,,Peripherals & Accessories,Amazon.ca,RAVPower GaN 90w 2-Port PD USBC Fast Charger - $47.99,train
+374,Kids & Babies,1426,8,5,,,School Supplies,,"$1.25 each - 64 crayons, 24 pencils, 8 stick glue",train
+375,Entertainment,26934,39,94,$23,,"Books, Music, Movies, Magazines",Amazon.ca,"Dudios True Wireless Earbuds, Stereo in-Ear Bluetooth 5.0 Mini Earphone -$23",train
+376,,2117,5,7,,,Credit Cards,Royal Bank,WestJet Credit Card 2X rewards on Groceries & Restaurants,test
+377,Travel,1522,1,3,,100%,Other,TD First Class Visa Infinite,[YMMV] Free $50 e-gift card from TD/UGO,train
+378,,10001,12,49,,up to 42%,Cameras,,"Waterproof modular Action Camera Insta360 Twin edition One R 360+4K mod C$518 tax in, free stick + free S/H by DHL",val
+379,Home & Garden,1431,3,12,,$10 off,Pets,Rens Pets Depot,$10 off at Ren's Pets,train
+380,Computers & Electronics,5818,5,10,99.99,,Home Theatre & Audio,,Anker Spirit X2,train
+382,Computers & Electronics,11235,2,43,40.50 +tax,10% w BYOD,Cell Phones,,Cityfone $45 - 6GB unlimited CAN calling + texting,train
+383,,2532,3,13,$98,$202 off,Outdoors & Patio,Visions Electronics,Monster GLO2 outdoor bluetooth speaker for sale $98,val
+384,Home & Garden,3037,2,5,14.99,,Other,Princess Auto,4 pc 3 Wheel Dolly Set - 14.99,train
+385,Entertainment,6156,-18,30,$36.00,,Other,East Side Marios,Family PIZZA/PASTA deal for 4 - $36 (only valid for delivery or pickup),train
+386,Computers & Electronics,7685,60,13,Free,100%,Video Games,,Ghost of Tsushima dynamic theme - Free,train
+389,Computers & Electronics,1221,1,0,14.36,,Cell Phones,Amazon.ca,Beemoon Car Phone Mount $14.36,train
+391,Computers & Electronics,4155,-4,21,,,Other,,Ebay - Take $5 off minimum purchase of $5.01 YMMV,train
+392,Beauty & Wellness,925,-2,5,2.00,56% off,Beauty Supplies & Personal Care,Walmart,Crest Pro-Health Whitening Power Toothpaste & Crest Pro-Health Multi-Protection Cool Wintergreen Mouthwash,train
+393,Computers & Electronics,1097,-1,2,29.99,10,Peripherals & Accessories,Amazon.ca,AUKEY Wireless Charging Power Bank 8000mAh $29.99,train
+394,Computers & Electronics,3176,0,14,1299.99,,Computers & Tablets/eReaders,Dell,"Dell G5 Desktop i7-9700K, GTX 1660 Ti $1300",train
+397,Computers & Electronics,60949,25,319,,,Televisions,Visions Electronics,"Hisense 55"" Q8G Series 4K ULED Android TV with Quantum Dot Technology - $698 w/fs",train
+399,Computers & Electronics,3071,5,6,$146.87,39% off,Home Theatre & Audio,Amazon.ca,Etymotic Research Etymotic ER3XR Earphones - $146.87,train
+400,Computers & Electronics,1669,1,4,,,Computers & Tablets/eReaders,Amazon.ca,"Lenovo V14-ARE 82DQ000PUS 14"" Notebook - Ryzen 5 4500U - 8 GB RAM - 256 GB SSD - C$780.84",train
+401,Restaurants,2748,5,13,,,Fast Food,New York Fries,New York Fries - BOGO Fries (must have Fry Society account) - Jul 13-20,train
+403,,3801,8,9,$0.65,,Office Supplies,Amazon.ca,"Prang Vinyl White Block Erasers, Medium, Box of 24, $0.65 (Add-on Item)",val
+404,Computers & Electronics,19654,-58,106,24.99,,Telecom,,Cable Internet 75Mb - $24.99 first month/$44.99 after | 150Mb - $34.99 first month/$54.99 after (New customers only),train
+405,Kids & Babies,1178,2,0,$14.00,,Toys & Games,Walmart,Imaginext Disney Pixar Toy Story 4 Carnival Playset $14 (Reg. $39.94),train
+406,Entertainment,31920,46,47,,,Events & Attractions,,Free streaming opera starting tonight,train
+407,Computers & Electronics,11149,4,72,"139,99",30$,Peripherals & Accessories,Amazon.ca,ADATA USA Ultimate Su800 1TB 3D Nand 2.5 Inch SATA III Internal Solid State Drive 139.99$,train
+408,Beauty & Wellness,2146,2,7,$140.00,50%,Beauty Supplies & Personal Care,Walmart,Oral-B Genius 8000 Black *in-store only* clearance $140,train
+409,Home & Garden,33217,16,142,$287.99,26%,Appliances,Bed Bath And Beyond,[Hot] Baratza Sette 30 Conical Burr Grinder - $287.99,train
+410,Sports & Fitness,1703,-2,3,,40%,Clothing & Accessories,,40% OFF Watches + Jewelry (FREE SHIPPING),train
+411,Kids & Babies,1623,0,0,,,Toys & Games,Walmart,LEGO - THE LEGO MOVIE 2 Emmet’s Thricycle! 70823 - $15.89,train
+412,Computers & Electronics,3614,1,19,$ 79.99,,Peripherals & Accessories,Amazon.ca,Corsair Semi-Modular ATX CX650M Power Supply CP-9020103-NA $ 79.99,train
+413,Computers & Electronics,5792,10,16,$289.99,$60 off,Other,Costco,Costco.ca: AOC 24G2E5 - 24in. FHD IPS Monitor - 2 Pack $289.99,train
+414,,4313,5,20,34.76,,Home Services & Repairs,Home Depot,Kidde Talking CO Smoke detector on sale (Battery only) - $34.76,val
+415,Home & Garden,36910,20,107,$366.33,,Home Improvement & Tools,Home Depot,Milwaukee Mitre Saw 6955-20 with free stand,train
+416,Financial Services,85380,144,547,,,Credit Cards,American Express,Amex Personal Platinum offer - $250 credits for everydays essentials and more!,train
+417,Sports & Fitness,3681,5,8,,35%,Other,,Hydroflask (Various Styles and Colours) 35% Off,train
+418,,1510,-2,3,23.99,50% off,Home Theatre & Audio,Amazon.ca,A2 LENRUE Portable Wireless Bluetooth Speaker ROSE GOLD - $23.99,val
+419,Computers & Electronics,1512,-2,3,23.99,50% off,Home Theatre & Audio,Amazon.ca,A2 LENRUE Portable Wireless Bluetooth Speaker ROSE GOLD - $23.99,train
+422,,2644,-2,3,450.98,$100 off,Appliances,Best Buy,[HOT] Breville Nespresso Creatista Uno $450 with $25 coffee credit,val
+423,Computers & Electronics,41209,7,183,897.99,,Televisions,Costco,Hisense Q7G 65 inch price drop to $897,train
+426,Home & Garden,7674,4,46,$187.49,,Appliances,Best Buy,Honeywell Air Purifier HPA300 $187.49 ON only?,train
+428,Computers & Electronics,3233,9,16,$395.76,,Computers & Tablets/eReaders,Amazon.ca,AMD Ryzen 7 3700X 8-core CPU for $395.76 (or even less at Newegg.com),train
+429,Small Business,5765,11,21,19.97,33.4,Office Supplies,Staples,Universal Hard-Floor Casters - $19.97 for 5,train
+432,Entertainment,1599,6,10,3.99,,Other,Microsoft,"Xbox One Digital Games: Far Cry 5 $11.99, Far Cry 3 Classic Edition $3.99 and many more up to 90% Off",train
+433,,1487,-1,3,329,70% off,Home Theatre & Audio,Best Buy,Bluesound D30 Duo 2.1-channel speaker system - $329 ($870 off),val
+435,Home & Garden,37631,29,186,30%,,Other,,Paints and Stains 30% off July 10 - 13 and 35% off supplies only July 13-17 (Use $10 off coupon over $50),train
+437,Computers & Electronics,1940,0,4,"1,199.99",,Computers & Tablets/eReaders,Staples,"ASUS TUF506IH-RS74 15.6"", 2.9 GHz AMD Ryzen 7 4800H, 512 GB SSD, 16GB DDR4, Windows 10 Home, NVIDIA GeForce GTX 1,199.99",train
+438,,2543,-2,6,$75,,Appliances,Walmart,Sodastream source - $75 YMMV,val
+440,,3766,6,8,27.99,$12,Peripherals & Accessories,Amazon.ca,Anker Powerport Cube power strip $27.99,val
+441,Automotive,3026,6,13,89.99,,Other,Costco,"DK2 Hitch-mounted Cargo Carrier, $89.99",train
+442,Home & Garden,33789,20,114,$137,,Appliances,Home Depot,"Winix P300 Air Purifier $148 ($100 off, regular of $248) *Edit: Now $137*",train
+444,,850,-2,0,9.99,75% OFF,Video Games,Microsoft,NBA2K Playgrounds 2 Digital Download $10,val
+446,Home & Garden,1890,4,5,$899.99,38,Home Decor,Costco,Napoleon 100 in. Electric Wall Mount Fireplace $899,train
+447,,12641,-9,78,59.99,,Telecom,,[MARKHAM ONLY] 500Mbit/20Mbit Cable Internet (Rogers TPIA) - $59.99,test
+448,Computers & Electronics,2826,14,6,9.97,,Video Games,Best Buy,$9.97 PDP Mario Remix Starter Kit for Switch - Red,train
+450,Home & Garden,3223,6,15,69.99,$73 off,Outdoors & Patio,Canadian Tire,"Coleman Queen 15"" Air Mattress + AC Pump - $69.99",train
+451,,25852,9,86,$199.99,55% off,Appliances,Today's Shopping Choice,Nespresso Expert Bundle $199 - $250 off,test
+452,Computers & Electronics,11562,51,66,"1,899.99",,Other,Amazon.ca,"AMD Ryzen Threadripper 3960X 24-Core, 48-Thread Unlocked Desktop Processor, without Cooler - $1,899.99",train
+454,,4684,38,9,$0.97,64% off,Office Supplies,Amazon.ca,"Sharpie Permanent Markers, Ultra Fine Point, Black, 2 Pack, $0.97 (Add-on Item)",test
+455,Sports & Fitness,10021,21,32,,50%,Other,,Canada Day Sale! Get a year of AllTrails Pro for only $14.99,train
+456,,5761,26,15,39.99,10$,Toys & Games,Costco,LEGO Large Creative 790-piece Brick Box - $39.99,test
+459,Computers & Electronics,9248,13,48,4,,Peripherals & Accessories,Dollarama,- USB Wall Plug Receptacles - 2.4A - $4 - Wpg YMMV,train
+462,Computers & Electronics,1446,0,2,,,Cell Phones,Best Buy,Bestbuy gift cards with 2 year phone activations,train
+463,Computers & Electronics,2120,9,16,11.99,,Video Games,Microsoft Store,Far Cry 5 - Xbox One - 11.99 - gold users - (YMMV?),train
+464,Home & Garden,9932,23,29,$4,,Home Improvement & Tools,Dollarama,Globe Electric Wall Plate Night Light with Built-In Motion Sensor $4,train
+467,Home & Garden,115363,53,426,Varies,Varies,Home Improvement & Tools,Home Depot,Ryobi Days - See Pictures,train
+468,Computers & Electronics,9358,2,28,,,Cell Phones,Freedom Mobile,Freedom Add a line $15 ($10),train
+469,,10311,52,24,,,Other,Costco,Costco Markham (on Yorktech) Deals excluding TVs/computers/ clothings/bedding items/books,test
+470,,845,1,1,45,,Home Theatre & Audio,Amazon.ca,Tribit XFree Tune Bluetooth Headphones Over-Ear - $45,test
+471,Computers & Electronics,2139,1,5,146.87,39% off,Home Theatre & Audio,Amazon.ca,Etymotic ER3XR $146.87,train
+472,Home & Garden,21116,21,149,$199,,Home Improvement & Tools,,Milwaukee M12 tool + 2 x 4ah batteries + charger $199 [Corrected],train
+473,,9160,7,29,$145.59,,Appliances,Bed Bath And Beyond,Zojirushi NS-TSC10 5.5 Cup Micom Rice Cooker $145.59 (with 20% off Coupon) YMMV - (no coupon $181.99),test
+474,Home & Garden,4976,8,21,11.98,,Outdoors & Patio,Home Depot,(Warm) Yard waste bag $0.48 ea (25-pack),train
+476,Home & Garden,1521,1,3,$5.00,,Home Decor,Walmart,"$5, Sertapedic Zen Plush Pillow",train
+477,Computers & Electronics,2492,0,4,59.99,,Computers & Tablets/eReaders,Best Buy,Amazon Echo Show 5 with Alexa - Charcoal $59.99 at BestBuy,train
+478,Computers & Electronics,3749,25,14,,,Video Games,,"Double Fine adventure games (Day of the Tentacle, Grim Fandango + 2 more) free on Mac App Store",train
+482,Home & Garden,51299,62,135,99,,Other,No Frills,No Name Portable BBQ $99,train
+484,,28334,23,155,1699,$430,Cameras,,Canon EOS RP Full Frame & 24-240mm & EF-EOS R Adaptor & Mini Tripod & 64GB SD Card $1.699.00,test
+486,Entertainment,1492,0,0,300,50$,Other,Amazon.ca,ANYCUBIC Wash and cure machine 300CAD,train
+488,Home & Garden,8043,5,17,4,,Home Improvement & Tools,Dollarama,Ferrex Metric Drill Bit Set,train
+489,Automotive,8922,-13,32,,,Auto Parts & Accessories,Costco,Air Hawk MAX Cordless Inflator $59.99,train
+490,,135468,25,503,,,Cell Phones,Rogers,Rogers EPP Deal $41/Month for 20gb + Financing Plan (2 year term) iPhone 6s $9.99/month + No Activation + FREE Tablet,test
+491,,3828,-1,14,$94.99,,Peripherals & Accessories,Amazon.ca,512GB Silicon Power NVMe PCIe Gen3x4 M.2 2280 TLC SSD - $94.99,test
+493,Kids & Babies,1423,6,0,1.99,90 % off,Baby Needs,Shoppers Drug Mart,Shoppers Drug Mart - Similac Alimentum 4pk $1.99 Clearance YMMV,train
+494,,8053,11,22,,,School Supplies,Walmart,"ON Walmart back to school deals starting July 9, as low as $0.10",test
+495,Computers & Electronics,3206,8,5,,,Video Games,STEAM,Devolverland Expo free PC game,train
+496,Computers & Electronics,2097,1,3,$41.69,$8.3,Video Games,,Xbox Gamepass Ultimate - 3 Months $41.69,train
+497,Kids & Babies,1942,8,2,$19.97,,School Supplies,,Walmart/Amazon-Prismacolor Scholar Coloured Pencils 60 pk $19.97 (Reg. $33.47),train
+499,Home & Garden,12499,11,50,,,Home Improvement & Tools,Home Depot,Commercial electric 40 inch LED selectable color light $23.98,train
+500,Computers & Electronics,3893,-1,10,399.99,$100 off,Computers & Tablets/eReaders,The Source,"Acer Aspire Laptop 15.6"" Core i3 8G 256G SSD $399.99",train
+502,Apparel,1616,3,2,19.99,31%,Women's Shoes,Costco,$19.99 Keds Women's Canvas Shoes Calgary Beacon Hill,train
+503,Computers & Electronics,29252,15,94,,50% off,Computers & Tablets/eReaders,Microsoft Store,Microsoft Build Discounts (Software upto 80% off),train
+507,,2126,2,4,12.65,,Office Supplies,Amazon.ca,Pentel Energel Style/Philography Gel Pen With Sky Blue Barrel $12.65 (Historical Low on Amazon),val
+508,Computers & Electronics,7112,10,25,2.99,50%,Computers & Tablets/eReaders,,Deal on Easynews - $35.88 for Unlimited Usenet,train
+509,,1578,5,5,599.99,,Appliances,,"Vitamix Ascent 2300 w 64, 48 & 2x20 oz. containers for $600",test
+510,,5495,0,19,124.98,$20 off,Outdoors & Patio,Walmart,Less Mess - Garden/Top Dressing Blend Soil (1 cu yard) - $124.98,test
+511,Computers & Electronics,9358,7,37,1200,,Computers & Tablets/eReaders,Staples,"$1200 ASUS Zenbook 14"" Ultrabook, 3.6 GHz AMD Ryzen 7 4700U, 512 GB SSD, 16 GB LPDDR4, NVIDIA GeForce MX350",train
+512,,4993,2,8,,,School Supplies,Costco,Staedtler Colored Pencils 120 pieces $14.99,val
+513,,8334,1,17,160.49,,Appliances,Amazon.ca,Instant Pot Ultra 8 Quart 10 in 1 - $160.49 - new all time low.,test
+514,,1051,0,0,199.99,50%,Cameras,Canon.ca,Canon BG-E20 5d mark iv grip,val
+515,Computers & Electronics,6267,5,23,$129.97,30%,Peripherals & Accessories,Staples,Google Home Wifi Router (1st gen) $129.97 in store,train
+518,Home & Garden,1114,2,0,,,Appliances,,$499 - Miele Classic C1 Cat and Dog Canister Vacuum - Clearance,train
+519,Home & Garden,13375,7,11,,25% OFF,Other,,Custom Print Products,train
+521,,1336,-3,0,30-140,,Outdoors & Patio,Princess Auto,Various Lawnmaster Garden Power Equipment,val
+522,,5999,3,27,$12.00,,Other,,Provigo/Loblaws PC Club Pack Toilet Paper 30 rolls x 425 sheets 2 ply $12 July 9-12,val
+523,Computers & Electronics,3749,6,15,,,Computers & Tablets/eReaders,Canada Computers,[CC] i5-9400 $175 after coupon + FS,train
+524,Computers & Electronics,11918,12,57,,,Telecom,,"Free TCL 43"" 4K TV w/TCL 10 Pro phone purchase. Ends July 31",train
+526,Computers & Electronics,56221,17,141,45,90% off,Cell Phones,Fido,7GB FOR $45/mo- + $0 iPhone 6s +a New Line !!HOT!!,train
+527,Computers & Electronics,13899,5,64,3523.99,$1500,Televisions,,LG NANO90 86'' 4K SmartTV - $3523.99,train
+529,Home & Garden,25262,12,65,,,Other,Costco,"Zwilling Euroline Bob Kramer Damascus Chef's Knife 8"" $349.99 and 10"" $399.99",train
+531,,4400,4,20,$1399.99,$200 off,Computers & Tablets/eReaders,Best Buy,"ASUS ROG Zephyrus 15.6"" Gaming Laptop - Black (AMD Ryzen 7 4800HS/512GB SSD/16GB RAM/GTX 1660Ti - $1399.99",test
+532,Home & Garden,17241,13,91,249,,Home Improvement & Tools,Home Depot,Ridgid 18V brushless sub-compact cordless drill and driver combo kit $249 + free tool of choice,train
+535,Beauty & Wellness,14390,9,75,,40%,Beauty Supplies & Personal Care,Clearly Contacts,40% Off Lenses + 3% Rakuten Cashback,train
+537,,2100,1,5,139.99,45%,Home Improvement & Tools,Canadian Tire,Mastercraft 20V Max Cordless Brushed 1/2-in Drill & 1/2-in Impact Wrench Combo Kit for $139.99 (45% off),test
+538,,5362,5,3,179.99,,Furniture,Costco,Wymo Height-Adjustable Desk Riser $179.99,test
+539,Home & Garden,5364,5,3,179.99,,Furniture,Costco,Wymo Height-Adjustable Desk Riser $179.99,train
+543,,8989,15,45,,,Fast Food,Metro,Metro 3 Toppings Pizza for $9.99,val
+544,Computers & Electronics,2308,-3,4,19.49,,Video Games,Nintendo,FIFA 20 Nintendo Switch Legacy Edition $19.49 on eShop,train
+546,Computers & Electronics,2892,0,8,179.99,$20,Computers & Tablets/eReaders,Lenovo Canada,Lenovo Tab M8 FHD - Iron Grey,train
+551,Home & Garden,2174,0,2,$148,$40 off,Home Improvement & Tools,Home Depot,Ryobi 18V One+ 18 inch Dual Source Fan,train
+552,,3947,1,9,128.98,70$ off,Other,Sport Chek,Sport Chek - Fitbit Versa Lite Edition Smart Watch,val
+563,Computers & Electronics,2132,12,7,,,Video Games,,Crosscode (just released on Xbox) (Zelda-like 2d rpg),train
+564,,19997,35,55,$119.99,,Home Theatre & Audio,Bose Canada,Bose Solo 5 Soundbar - $119.99 (Refurb),val
+565,,3784,-4,10,$85,15%,Video Games,,switch joy con in stock $100 (psp $$85),val
+566,Home & Garden,2934,3,13,$299.99,,Home Improvement & Tools,Lowe's,Kobalt 15-Amp 10-in Carbide-Tipped Table Saw for $299.99,train
+567,Computers & Electronics,1469,3,6,85% off,85%,Video Games,,PC: Far Cry Series up to 85% off,train
+570,Computers & Electronics,5513,44,18,,,Other,Shoppers Drug Mart,Shoppers Drug Mart flyer Round up QUEBEC,train
+571,Computers & Electronics,2711,4,8,20 Usd,10 $ off,Home Theatre & Audio,,[DROP] Koss KPH 30i -,train
+572,,5794,15,5,,,Men's Shoes,,Adidas Pod S3.1 Shoes $39.99,val
+573,,1532,-2,1,399,43% off,Home Theatre & Audio,Epson.ca,Home Cinema 760 Projector [$399],val
+577,,3251,6,4,15.98,60%,Home Decor,Linen Chest,Decanter and 6 glasses for 15.98$,test
+579,Computers & Electronics,3093,2,14,39,50,Video Games,The Source,Red Dead Redemption 2 / Borderlands 3 / Outer Worlds - $39 (PS4/XBox),train
+580,Computers & Electronics,2951,2,10,,,Telecom,,"Prepaid Plans - Multiple Plan Offers on Rogers LTE (1GB - $25, 3GB - $35, 7GB - $45, 10GB - $55 or 13GB - $65)",train
+582,Computers & Electronics,24496,52,135,159.99,,Peripherals & Accessories,Telus,Samsung Galaxy Buds+ $159.99,train
+583,Apparel,8213,22,26,,55% off,Women's Shoes,,Select UGG shoes/boots/slippers - 55% off,train
+584,Computers & Electronics,1697,2,3,49.99,38%,Video Games,,[Amazon & Best Buy] Doom Eternal--$49.99+tax (PS4+XB1),train
+585,Computers & Electronics,8314,0,16,64.99,$15,Home Theatre & Audio,Costco,UE Wonderboom Portable Bluetooth Speaker(Member Only Valid on June 29),train
+586,Automotive,28828,64,104,,55%,Other,Princess Auto,3-In-One Professional Silicone Spray Lubricant - $3.33,train
+587,Home & Garden,4249,5,9,34.97,~50%,Other,Staples,Kidde Escape Ladder ($34.97 - 50% off),train
+588,Computers & Electronics,3971,8,12,119.99,,Computers & Tablets/eReaders,Shoppers Drug Mart,KOBO CLARA HD eREADER 119.99,train
+589,,1980,3,0,70,,Home Theatre & Audio,Walmart,LG CM2460 Bluetooth speaker,test
+590,Computers & Electronics,37668,19,130,,,Telecom,Rogers,Extra 5GB of Data Added Free of Charge - YMMV,train
+592,Computers & Electronics,9245,-3,28,1599,,Computers & Tablets/eReaders,,Amazon/CC/ME/Visions/newegg/LD MSI i7 + RTX 2060 gaming laptop $1599. I5 + 1660 TI $1199. I7 + 2070 $1899,train
+593,,3547,-3,8,114.97,56,Home Theatre & Audio,,Amazon Echo Studio - $114.97 and 1500 Canex Points,val
+594,Computers & Electronics,3832,2,10,409.33,,Computers & Tablets/eReaders,Amazon.ca,AMD Ryzen 7 3700x processor $409.33,train
+595,,2014,3,3,29.99,55% off,Peripherals & Accessories,Best Buy,Roav Bolt Smart USB Car Charger with Google Assistant,val
+596,Home & Garden,10579,19,55,9.99,80% off,Home Improvement & Tools,Canadian Tire,Buck Kingsman folding knife $9.99,train
+599,,25751,25,249,$99.99,$30,Telecom,,Ooma Telo Home phone service device $99.99,test
+600,Computers & Electronics,1870,4,9,21.75 USD,,Computers & Tablets/eReaders,,Apple Original Memory Kit 2x4GB 2400MHZ DDR4 SO-DIMM PC4-19200 for IMAC 2017 $37,train
+601,Computers & Electronics,1961,0,4,29.99,33%,Peripherals & Accessories,Amazon.ca,"Anker PowerCore II Slim 10000 Ultra Slim Power Bank for iPhone, Samsung Galaxy and More($30)",train
+602,,2206,8,9,,84%,Video Games,,Deal of the Week - Dragon Ball Fighterz Ultimate Edition $22.39 - lowest price ever,val
+603,,16902,10,95,139.99,$50,Home Improvement & Tools,Costco,[COSTCO} Water Ridge One Piece Toilet $50 Off $139.99 in Store,val
+604,Computers & Electronics,29195,75,92,19.96,,Video Games,Walmart,Nintendo Labo Vehicle or VR Kit - $19.96,train
+605,,49774,37,262,250$,150$ off,Peripherals & Accessories,Walmart,[250 or 350$] Netgear Orbi Mesh wifi,test
+606,Sports & Fitness,3820,1,11,199.99,,Other,Costco,"Mongoose BMX bike, 24 inch $199.99",train
+607,Computers & Electronics,43575,25,158,699,,Computers & Tablets/eReaders,Staples,"$699 Lenovo IdeaPad 3 81W40015CF 15.6-inch Notebook, 2.6 GHz AMD Ryzen 5 4500U, 256 GB SSD, 8 GB",train
+609,,13443,12,51,147.99,26% Off,Peripherals & Accessories,Amazon.ca,Samsung LS27F350FHNXZA 27-inch Screen LED-Lit Monitor | 26% Off | $147.99,test
+612,,2435,14,20,$3,,Pets,PetSmart,Wellness Canned Cat Food 12oz. $18 for 6 cans,val
+614,Apparel,6924,0,34,,,Men's Apparel,,Harry Rosen up to 70% off,train
+615,Automotive,2344,5,14,,15% off,Auto Parts & Accessories,Canadian Tire,15% off Chemical Guys Products - Canadian Tire,train
+616,Computers & Electronics,43406,78,165,,,Telecom,Fido,5GB Data Bonus for 24 Months (YMMV),train
+619,Computers & Electronics,794,1,1,400$,30-40%,Home Theatre & Audio,,(COLD deal)ELAC Discovery Z3 Wireless Zone Speaker 400$,train
+621,Computers & Electronics,2681,6,9,599,,Computers & Tablets/eReaders,Dell,"Inspiron Desktop [i5-9400] 8GB ram , 256GB M.2 PCIe NVMe SSD + 1TB SATA HD $599 ($539 w Unidays) (8% Rakuten ~$496)",train
+622,Computers & Electronics,6323,-11,55,,,Telecom,,Special Internet Plan 150 M for $44.98/m for Carrytel Customer,train
+623,Computers & Electronics,7675,10,37,,,Cell Phones,,Videotron *Ottawa Only* $10 off permanent bill credit,train
+624,,14155,-17,60,584,,Appliances,,[ON Only] Samsung Front Load Washer & Dryer (Stainless Platinum) $584 each,val
+625,,35651,-6,82,40,80% off,Cell Phones,Fido,"7 GB FOR $40/mo for 12 months - BYOD - NO CONTRACT (Existing customers only, YMMV)",test
+627,,1264,7,4,,,Video Games,,Fallout 76 just added,val
+628,Beauty & Wellness,6796,0,46,389,,Beauty Supplies & Personal Care,,SoClean 2 CPAP Cleaning System Plus 20X PC Points,train
+629,Beauty & Wellness,6798,0,46,389,,Beauty Supplies & Personal Care,,SoClean 2 CPAP Cleaning System Plus 20X PC Points,train
+630,,48631,2,108,,,Credit Cards,CIBC,CIBC AEROGOLD VISA FOR BUSINESS 35000 MILES (FIRST YEAR FREE REBATE),val
+632,Home & Garden,15637,30,72,98,50%,Home Improvement & Tools,Home Depot,Ridgid 3-Pack 4.0Ah batteries $98,train
+633,,4566,-1,20,399.99,$100,Computers & Tablets/eReaders,The Source,"Acer Aspire A315-54K-37RE 15.6” Laptop with Intel® i3-6006U, 256GB SSD, 8GB RAM & Windows 10 - $399",val
+635,,18539,16,65,,,Home Improvement & Tools,Lowe's,Kobalt 7 1/4-in 10 Amp Single-Bevel Sliding Compound Mitre Saw with Laser Marker (SM1815LW) for $99.00,val
+637,Entertainment,1024,8,1,Free,100%,"Books, Music, Movies, Magazines",Amazon.ca,Copycat Recipes: 2 Manuscripts in 1 book-  Copycat Cookbook and Keto Copycat free on Amazon Kindle (i,train
+643,Computers & Electronics,5006,11,9,,,Video Games,Sony Online Entertainment,[PSN] Playstation - July Savings,train
+647,Home & Garden,4604,13,26,119,$60 off,Home Improvement & Tools,,BC Fasteners / Home Depot - Milwaukee M12 Fuel Hackzall (Bare Tool) w FS - $119,train
+648,,4864,9,11,69.50,50%,Beauty Supplies & Personal Care,Amazon.ca,"Clarisonic Mia Brush Device | 50% OFF | $69,50",val
+650,,1581,1,4,19.96,,Video Games,Walmart,NHL 20 [PS4|XBOX ONE] $19.96,val
+651,Apparel,72777,134,259,$18.89,40% off,Men's Apparel,,SAXX underwear 40% off sale starting at $18.89,train
+653,Computers & Electronics,7478,-5,46,$62.59,22% off,Video Games,,Cyberpunk 2077 PC Pre-order $62.59 Digital Download ~22% off,train
+654,Automotive,10971,0,38,39.90,42% off,Auto Parts & Accessories,Amazon.ca,Dual Dash Cam Front and Rear 3 Inches FHD Cars Dashboard- $39.90 ($30 off),train
+655,,7236,3,24,,,Home Improvement & Tools,Costco,"Toto bidet - $459.99 (in-store, ymmv)",val
+656,Computers & Electronics,1754,-1,4,19.49,,Video Games,Nintendo,Nintendo Switch - FIFA 2020 $19.49,train
+659,,10364,15,30,2.50% INT,,Banking & Investing,CIBC,CIBC eAdvantage Savings Account 2.5% Interest,test
+660,Computers & Electronics,2561,3,3,$19.99,30% off,Home Theatre & Audio,Amazon.ca,"Skullcandy Jib+ Wireless Earbuds, Red (S2JPW-M010) $19.99",train
+661,,1523,-2,5,53.99 USD,,Cell Phones,,Wireless LED Dock $40 OFF Plus Extra 10% OFF with Discount Code,val
+664,Sports & Fitness,8237,4,25,149.99,,Equipment,Costco,Costco Gym Benches 149.99-499.99 -IN STOCK,train
+667,,5077,9,10,30$,15$ off,Coffee & Desserts,,Lindt.100 Truffles for 30$ back,val
+668,Entertainment,9776,36,112,59.99,25% off,Events & Attractions,,"25% Off F1 TV PRO annual subscription - Formula 1 Racing (Live races, replays and other features)",train
+669,Travel,3646,7,25,$10,,Rail & Bus,,$10 GO Transit unlimited Sundays are back!,train
+670,,2597,3,6,$49,50% off,Home Improvement & Tools,Home Depot,YMMV - $49 DeWalt DCL050 20V light + more - Ancaster,test
+671,,6913,2,24,506.77,,Equipment,Amazon.ca,Sunny Water Rowing Machine - $506.77,val
+672,Travel,9247,5,23,729,,Other,Apple,Refurbished iPad Pro 11” 64gb $729,train
+675,Kids & Babies,972,1,3,$0.99,60,Other,Canadian Tire,MASTER Chef BBQ Lighter $0.99 from. $2.59,train
+676,Kids & Babies,1001,1,1,$3.44,78% off,Baby Needs,,Kushies Cleanbib - $3.44 (reg. 15.99) In Store - YMMV,train
+677,Home & Garden,97539,116,380,14.88,,Home Improvement & Tools,Home Depot,Commercial Electric 4ft. Linkable LED Shop Light 3200 lumen 4000K 50000 Hours Life $14.88,train
+678,,2099,2,4,$59.99,25% off,Peripherals & Accessories,Amazon.ca,Logitech K750 Wireless Solar Keyboard - $59.99,val
+681,Computers & Electronics,714,0,0,49.99,50% off,Other,Canadian Tire,Yukon Gear Ridgeline APX Spotting Scope - $49.99 (50% off),train
+682,,6984,3,29,119.99,,Peripherals & Accessories,Dell,Logitech G613 Wireless Mechanical Gaming Keyboard,val
+683,Computers & Electronics,6094,9,26,$899,,Computers & Tablets/eReaders,Amazon.ca,"Acer Swift 3, 14'' FHD IPS, Ryzen 7 4700U, 8GB RAM & Upgradable 512GB SSD $899",train
+684,Computers & Electronics,10739,22,73,24.99,50%,Video Games,STEAM,*LAST DAY* Final Fantasy XIV: Shadowbringers ($24.99) / Complete Edition ($37.48) + $6 off $35 Coupon,train
+687,Computers & Electronics,33194,33,114,,,Video Games,Walmart,New Nintendo 2DS XL With Mario Kart $139.96,train
+688,Computers & Electronics,5515,11,14,1299,,Home Theatre & Audio,Best Buy,Sony 65” 4K HDR XBR65X900F - $1299,train
+689,Financial Services,51319,16,83,,,Banking & Investing,,Simplii Financial: New Client Promo $200,train
+690,Computers & Electronics,4182,14,23,39.99,,Peripherals & Accessories,,M570 logitech trackball mouse $39.99 several retailers,train
+691,Computers & Electronics,1290,0,1,$399.99,,Video Games,Best Buy,Nintendo Switch In-store pickup available (Bay and Dundas),train
+692,Computers & Electronics,1272,2,2,1,50%,Other,No Frills,PC 4 pk AA Alkaline Batteries $1 [GVR - Broadway],train
+695,Financial Services,10918,-20,25,,,Banking & Investing,Royal Bank,RBC banking account - Free Airpods with Charging Case,train
+697,,7045,29,33,26.99,,Clothing & Accessories,,Superfeet Insoles Green $26.99,val
+698,Financial Services,3936,-7,15,,,Credit Cards,,Samsung Galaxy S20 Ultra Cosmic Grey Dual Sim - $1206,train
+699,Computers & Electronics,2444,1,1,1029,,Computers & Tablets/eReaders,Costco,Lenovo Ideapad Flex 5 4700u 16gb,train
+700,Restaurants,9029,-8,33,,,Fast Food,,Free Chicken Sandwich (original or spicy) after completing receipt survey,train
+701,,2366,-2,9,620,,Peripherals & Accessories,Lenovo Canada,Lenovo Legion Y27q-20 27-inch WLED Gaming Monitor $620,test
+702,Home & Garden,5870,29,15,9.97,,Home Improvement & Tools,,Bosch Daredevil 6 piece spade bit set $9.97,train
+704,Computers & Electronics,1658,2,3,9.99,50% off,Home Theatre & Audio,Staples,Basic Tech bluetooth earbuds $10 in-store YMMV,train
+707,Computers & Electronics,1850,-2,2,107.65,,Peripherals & Accessories,Amazon.ca,Logitech C922x Pro Stream Webcam 1080P,train
+709,Home & Garden,15441,15,46,98.00,,Home Improvement & Tools,Home Depot,"Makita 18v 1/2"" drill/driver brushless $98.00 (Stockyards-Tor) YMMV",train
+710,,4029,2,20,42,,Peripherals & Accessories,Amazon.ca,Anker PowerCore 10000 PD - $42,test
+711,Entertainment,663,1,0,1.99,93%,"Books, Music, Movies, Magazines",,(Amazon - Kindle Store) Mastery eBook by Robert Greene - $1.99,train
+712,Restaurants,4054,1,9,Free,,Fast Food,,A&w free hash brown with egger (with A&W app),train
+714,,2667,2,9,41.99,30%,Other,Amazon.ca,"Anker PowerCore 10000 PD Redux, 10000mAh Portable Charger USB-C Power Delivery (18W) Power Bank - $41.99",val
+717,Computers & Electronics,1448,-2,3,1799.99,,Televisions,Best Buy,"BestBuy Sony 65"" 4K UHD HDR LED Android Smart TV (XBR65X950G) - Open Box ($1,799.99)",train
+718,,33586,39,106,134,44%,Home Improvement & Tools,Home Depot,Ryobi 18V ONE+ Lithium-Ion Cordless Combo Kit (4-Tool) w/ (2) Compact Batteries - $134,test
+719,Apparel,4900,12,20,$12.99,45%,Men's Apparel,The Bay,[Warm] New Balance Socks 6 Pack $12.99 @ The Bay,train
+720,Restaurants,8213,14,20,,,Fast Food,,Harvey's Original or Veggie Burger - $3 / 2 for $6 [via app only],train
+721,Computers & Electronics,4811,0,11,$132.54,,Video Games,Amazon.ca,Nintendo Switch Mario Kart Racing Wheel Pro Deluxe by HORI - $132.54,train
+723,Kids & Babies,1712,3,3,39.97,70$,Toys & Games,Canadian Tire,"Lucasfilm Star Wars BB-8 Kids' Bike, 12-in 39.97$ in store clearance",train
+724,Home & Garden,2124,6,1,199,20% off,Home Improvement & Tools,Home Depot,Ryobi 18V ONE+ 4-tool combo kit (a different one - lots of inventory) - $199,train
+725,Travel,35732,9,120,540,,Flights,Air Canada,"YYZ -> Japan $540, YVR -> Japan $510 Non-stop (May 2021)",train
+727,,4231,-6,12,723.00,$50,Televisions,Leon's,"Hisense 55Q8G 55"" QLED UHD TV - $723",val
+729,,50655,42,212,1097.99,31% off,Cell Phones,Samsung,"Samsung Galaxy S20 Plus for $1098+tax with Perkopolis, Venngo, SPC",val
+730,,4577,3,14,29.96,,Home Theatre & Audio,The Source,Monster® SuperStar™ S200 Wireless Speaker - Black 29.96,test
+731,,2865,0,8,$158,,Home Improvement & Tools,Home Depot,Warmish (??) deal - Ryobi P1936N tool combo - Impact Wrench + Inflator - $158 (online only),val
+732,,2713,9,2,$10.53,46% off,Office Supplies,Amazon.ca,"Sakura 50039 6-Piece Pigma Micron-08 Ink Pen Set, 0.50mm, Black - $10.53",val
+735,Automotive,7457,5,38,,,Auto Parts & Accessories,Princess Auto,Auto AC Refrigerant sale (save upto 40%),train
+736,Computers & Electronics,66708,72,214,,,Video Games,STEAM,Steam Summer Sale 2020,train
+737,Home & Garden,28359,79,94,,,Home Improvement & Tools,Lee Valley,Kreg 320 Pocket-Hole Kit with Clamp $54.50,train
+741,Home & Garden,16589,31,59,$23.99,60% off,Home Improvement & Tools,Canadian Tire,Skil Angle Grinder 4 1/2inch $23.99 60% off,train
+743,,3023,-3,16,$1859,$440 off,Computers & Tablets/eReaders,Lenovo Canada,"Legion 7i 15"" i7 10th gen, 16gbRam, 512GB, RTX2060(100W) $1,859.99",val
+744,Computers & Electronics,5115,6,13,10.99,50% off,Video Games,STEAM,Tabletop Simulator Half Price again on Steam (10.99 / 33.24 for 4 -pack),train
+747,Computers & Electronics,9834,29,22,Free,,Video Games,Nintendo,Nintendo Switch eshop free to download & play game: Ninjala,train
+748,Home & Garden,2915,-2,8,14.99,,Outdoors & Patio,Factory Direct,GILMOUR PATTERN MASTER IMPULSE SPRINKLER ON POLYMER SLEDBASE,train
+749,Home & Garden,3795,4,8,$449,,Outdoors & Patio,Costco,Sunbeam Steel Pyramid Fire Table $449,train
+750,Home & Garden,10158,17,52,18.67,,Home Services & Repairs,Home Hardware,Black Jack 17L Maxx 200 Asphalt Filler/Sealer,train
+752,Small Business,3313,5,10,139.99,,Office Supplies,123Ink.ca,Moustache Ergonomic Adjustable Office Chair $139.99,train
+754,Sports & Fitness,1320,0,5,$179,$70 off,Men's Clothing ,Home Depot,"Milwaukee M12 Axis Heated Jacket Kit $179, medium only YMMV",train
+755,Restaurants,3053,1,10,15.99,15% off,Coffee & Desserts,Amazon.ca,De'Longhi Double Walled Thermo Espresso Glasses - set of 2 $15.99 all time low,train
+757,Computers & Electronics,1439,-1,2,,,Home Theatre & Audio,Amazon.ca,"Åtta Göra TWS - Touch Control / ipx5 / USB-C charging wireless earbuds - $26.99 (no tax, after coupon)",train
+759,Computers & Electronics,1079,5,0,2,,Peripherals & Accessories,Visions Electronics,Monster Mobile Single USB Wall Charger - Black and Silver $2 single $3 dual,train
+760,Restaurants,29983,37,96,,,Other,Costco,Hand sanitizers in stock 2 for $9.99 (980ml x 2),train
+762,Restaurants,2586,-7,6,,50%,Fast Food,Papa John's Pizza,50% off Monday to Wednesday (YMMV),train
+763,Computers & Electronics,18016,74,74,,,Video Games,Sony Online Entertainment,"PSN Plus Free July Games: NBA 2K20, Rise of Tomb Raider 20 Year Celebration and Erica",train
+764,Computers & Electronics,1864,3,4,$129.99,,Peripherals & Accessories,Amazon.ca,"1TB A58 Silicon Power 3D NAND 2.5"" Internal Solid State Drive $129.99",train
+765,,6042,7,23,359.10,,Televisions,Visions Electronics,"Proscan 58"" 4K UHD Smart TV 359.10$ in cart with ISPU",val
+766,Home & Garden,1075,-1,2,,"15%,20%",Home Decor,Benjamin Moore,"Benjamin Moore Sale (maybe local)1-3 Gallons -15%, 4 Gallons or more - 20%",train
+767,,24204,22,85,$74.50,$145,Home Improvement & Tools,Home Depot,$74.50 YMMV - Milwaukee M12 Compact Inflator Kit,test
+768,Home & Garden,5446,4,26,$67.99,,Appliances,Costco,Chef’s Choice Hybrid 3-stage Knife Sharpener (Model 270) $67.99,train
+770,Home & Garden,2522,4,6,18,,Appliances,Visions Electronics,Hauz 1.7 L Stainless/Glass Electric Kettle $18/$31 For 2 ISPU,train
+771,Home & Garden,2911,3,14,68,23%,Appliances,Home Depot,RIDGID 11 Litre (3 Gal.) 3.5 Peak HP Portable Wet Dry Vacuum $68,train
+772,Computers & Electronics,3428,5,13,24.98,17%,Home Theatre & Audio,,Sony ICFP26 portable AM/FM Radio $24.98,train
+775,Home & Garden,4005,-10,21,$79,$50 off,Home Improvement & Tools,Home Depot,RIDGID Handheld Vacuum $79 Clearance,train
+776,,7718,16,17,5,,Other,Canadian Tire,Ultimate Car Wash $5 on Friday (Min 15L fuel required),val
+778,Home & Garden,2037,-12,7,$9.31,38% Off,Other,Amazon.com,"Genuine Instant Pot Tempered Glass Lid, 9 in. (23 cm), 6 Quart, Clear | 38% Off | $9.31",train
+779,,1183,2,2,109,50%,Appliances,Walmart,Sun Joe SPX7000E 2-in-1 Electric Pressure Washer | 1700-Max PSI | 1.45-GPM | Built In Wet/Dry Vacuum System $109,test
+780,,10104,1,33,20.97,22,Men's Apparel,Amazon.ca,Fruit of the Loom - Loose Fit Boxers - 5 pack - $20.97,test
+781,Computers & Electronics,8462,17,27,119.99,,Cameras,Staples,Canon 50MM F1.8 STM @ $119.99 (NIFTY FIFTY),train
+785,Entertainment,5128,22,16,,,"Books, Music, Movies, Magazines",,Rent a movie for $0.99 or $1.49 YMMV,train
+786,,2821,-6,11,827.99,,Cell Phones,Samsung,Samsung Galaxy S10 $827.99 from Samsung with SPC free trial,val
+788,Restaurants,3569,-18,25,7x Points,,Coffee & Desserts,Tim Hortons,HOT! YMMV. Earn 7x Points per Order With Mobile App,train
+790,Restaurants,6519,22,36,,< 50% o,Fast Food,American Express,Spend at least $10 at Panago Pizza and Earn a $5 credit,train
+792,,3559,0,8,$34.92,,Toys & Games,Walmart,Pokemon Sun & Moon Hidden Fates Restock!,test
+793,,1533,4,0,$21.49,50%,Home Improvement & Tools,TSC Stores,"Milwaukee 2 Pc. 7"" & 10"" TORQUE LOCK™ CURVED JAW LOCKING PLIERS SET WITH GRIP for $21.49",test
+796,,1178,3,0,2.99,,"Books, Music, Movies, Magazines",Apple,iTunes: Arrow Films Movie collection ($2.99 each),val
+797,Kids & Babies,2614,12,6,24.99,,Toys & Games,,Mortal Kombat - Spawn Action Figure - $24.99,train
+798,Home & Garden,3574,3,19,39.99,70%,Home Improvement & Tools,Canadian Tire,Oscillating Tool - Mastercraft 2.2A Corded Multi-Crafter - $39.99,train
+799,Automotive,3744,1,28,58.42,,Auto Parts & Accessories,,70mai Dash Cam Lite 1080P | $54.04 + $4.38 shipping,train
+800,Home & Garden,4220,3,19,$49.99,,Home Improvement & Tools,Princess Auto,800 lb Hand Truck for $49.99,train
+801,Home & Garden,2372,3,6,,,Home Improvement & Tools,Princess Auto,Rust Check® Rust Inhibitor $5.99 / B'Laster lub $4.99,train
+805,Sports & Fitness,3755,-29,20,68,54% off,Gyms & Related Services,Groupon Canada,54% off One-Month Unlimited Gym Membership [eMbody Fitness],train
+806,,12517,4,42,79,,Auto Parts & Accessories,Amazon.ca,"Awesafe 10 Inch Mirror Dash Cam HD Front and Rear Dual Cam, Parking Monitor and Night Vision $79 W/Prime 1 Day Delivery",val
+809,,2009,6,4,,,Home Improvement & Tools,Princess Auto,"Power Fist 4 pc 7 in. Snap Ring Plier Set for $12.49, Titan 5 pc Mini Plier Set for $10, 3 pc Adjustable Wrench Set $10",test
+810,Sports & Fitness,1770,2,8,58.11,,Equipment,Sport Chek,Rossignol Experience 77 Skis & LOOK Xpress 11 Bindings 2016/17 - $58.11,train
+811,,14624,-7,54,,,Other,Costco,Costco - Sign up for autorenewal of your Costco membership and get BBQ Grill Scraper,test
+812,,14662,32,49,$39.99,43%,Peripherals & Accessories,Amazon.ca,Logitech M720 Triathlon Mouse $39.99,test
+813,,2756,-7,16,,$5,Other,eBay.ca,"eBay $5 coupon of purchase of $5.01 (Targeted, YMMV)",test
+814,Computers & Electronics,12237,27,43,$19.99,50% off,Peripherals & Accessories,Amazon.ca,Logitech M330 Silent Plus Wireless Mouse - $19.99 (50% OFF),train
+815,,100927,39,595,476.1,PM,Outdoors & Patio,Home Depot,"Lawn Mower Toro 20340 - $476.10 (after PM, YMMV)",val
+818,,2820,-5,12,315.99,,Peripherals & Accessories,,XPG SX8200 Pro 2TB 3D NAND NVMe Gen3x4 PCIe M.2 2280 Solid State Drive R/W 3500/3000MB/s SSD - $315.99,val
+819,,5202,19,15,,,Other,Amazon.ca,"Pine-Sol Disinfectant Cleaner (kills 99.9% bacteria/virus, use as directed) 1.41 L - $2.13 / $1.90 S&S + F/S w/o Prime",test
+821,Computers & Electronics,5688,5,16,,,Cell Phones,,Speakout $125 for $100 is back,train
+822,,1361,5,1,,,Home Improvement & Tools,Princess Auto,14 pc Power Nut Driver Bit Set for $3.99 or 10 pc Belt Clip #2 Square Power Driver Bits for $7.99,val
+824,Home & Garden,4009,1,11,111,26%,Home Improvement & Tools,Amazon.ca,DEWALT DCE100B 20V MAX Compact Jobsite Blower $111,train
+827,Sports & Fitness,709,0,0,999.99,,Equipment,London Drugs,LD: Flaman Inspire IC1 Spin Bike - $1000,train
+829,Home & Garden,1576,6,3,$2.62,,Outdoors & Patio,Lowe's,Rubberific Gray or Brown Splash Block $2.62 (Reg. $10.49),train
+830,Home & Garden,1947,7,5,89.97,,Home Improvement & Tools,Home Hardware,"Worx 20 Volt 12"" Lithium-Ion String Lawn Trimmer - $89.97 (Reg 129.99)",train
+833,Computers & Electronics,3611,-7,11,,,Cell Phones,,Apple iphone 11 64gb w/20gb data $84.25 + tax/month w/$190 BIB **flash sale 4 days only** EPP deal no buds,train
+836,Entertainment,2908,11,3,,,"Books, Music, Movies, Magazines",,Shutterfly Photo Books From $12.99 Shipped And Stack With Unlimited Free Pages,train
+838,Home & Garden,1526,2,5,$26.99,40% Off,Other,Amazon.ca,"Zenith Bathstyles Tension Pole Shower Caddy, Satin Nickel Finish | 40% Off | $26.99",train
+839,,126336,104,424,149.97,40% off,Home Theatre & Audio,,R1850DB Bookshelf Speakers 40% off + other speakers and headphones,test
+840,Computers & Electronics,3914,1,11,374.99,,Home Theatre & Audio,Bose Canada,$374.99 Bose Noise Cancelling Headphones 700 – Refurbished,train
+841,Home & Garden,4174,3,7,,,Home Improvement & Tools,Princess Auto,3 & 4 in. Quick Release C-Clamps [$6.99 / 8.99] + FS over $25,train
+842,,13221,44,33,9.99,65%,Home Improvement & Tools,Princess Auto,3 pc Magnetic Tool Holder Bar Set $9.99,val
+846,Computers & Electronics,54137,17,170,,,Cell Phones,,Samsung A51 and A71 $383.99 and $479.99 with SPC card,train
+848,,3999,3,5,159.99,,Home Improvement & Tools,Princess Auto,Bissell SmartClean Robot Vacuum Reg:$499.99 Hot Buy:$159.99,val
+849,Financial Services,24078,1,93,,,Banking & Investing,,2.8% Interest Offer - by invitation only (YMMV),train
+852,,1459,-2,2,,10% off,"Books, Music, Movies, Magazines",,zavvi.com 10 percent off sitewide,test
+853,,7978,16,37,14.99,70%,Other,Canadian Tire,"MAXIMUM 1/2-in DriveFlex Breaker Bar, 24-in - $14.99",test
+855,Apparel,3684,8,8,,,Women's Apparel,Walmart,Women’s maternity jeans select sizes (jordache brand) 0.02 Cents! YMMV,train
+857,,1436,4,2,174.49,50$ + 15%,Pets,PetSmart,"Fluval canister filters (107, 307, 407, FX models)",test
+859,,8613,15,19,,,Furniture,IKEA,Feiring King/Queen bed frame and Mathopen King headboard extra discount in store (YMMV),test
+861,Home & Garden,7452,15,23,19.88,,Home Improvement & Tools,Home Depot,RYOBI 18V ONE+ Cordless Full Size Glue Gun (Bare-Tool) - $19.88,train
+862,Beauty & Wellness,1218,3,1,$2.50,,Beauty Supplies & Personal Care,Amazon.ca,"Freeman Beauty Mint + Lemon Clay Mask, 175 mL, $2.50 (min order 2)",train
+863,Home & Garden,2350,0,8,90$,,Home Improvement & Tools,Home Depot,HomeDepot- YMMV- 199$ down to 90$ (AMZ P.M) - Makita Cordless 18V LXT Leaf Blower DUB184Z,train
+864,,4148,9,16,9.99,67% off,"Books, Music, Movies, Magazines",,[Google Play Store] Sonic The Hedgehog (2020) 4K $9.99,val
+865,,12146,24,42,4,81% off,Beauty Supplies & Personal Care,Dollarama,Neutrogena Hydroboost 30 Sunscreen $4 (shoppers selling $21.99) / Ultrasheer Face Sunscreen SPF 60 YMMV?,test
+869,,4989,4,12,119.99,52% off,Home Theatre & Audio,eBay.ca,130$ (52%) off Bose Solo 5 TV Sound System at $119.99,test
+870,Financial Services,990,4,1,,,Credit Cards,CIBC,CIBC Visa Aerogold Offer - 3 Extra Miles per $1 spent Online (YMMV),train
+871,Sports & Fitness,953,1,1,$3,,Equipment,,Hamilton - $3 for 3 months bike share. For people in need,train
+876,Small Business,15893,51,51,4.45,61% off,Office Supplies,Amazon.ca,Pentel P207 Mechanical Drafting Pencil (2-pack) $4.45,train
+877,Home & Garden,3634,6,10,$9.99,,Home Improvement & Tools,Canadian Tire,"MAXIMUM 4.5-in Thin Cutting Disc Set, 20-pc for $9.99",train
+878,,4509,10,7,549.99,,Video Games,,Oculus Quest - $549 (No Shipping or Tax) - Direct from Oculus Store,val
+879,Home & Garden,21369,6,54,,Up to 60%,Other,Zwilling J.A. Henckels,ZWILLING J.A.Henckels Anniversary Sale,train
+881,Home & Garden,7059,10,13,74,24%,Home Improvement & Tools,Home Depot,YMMV Ryobi 18V Home Starter Kit - $74 or Ryobi Drill Kit - $79,train
+882,,3743,7,9,3.99,75%,Home Improvement & Tools,Rona,Paint roller refill 3 pack (Richard E-Volution brand) 3.99$ (75% off),test
+883,Beauty & Wellness,3262,14,11,9.00,31% off,Beauty Supplies & Personal Care,Amazon.ca,Proraso Shaving Soap with Green Tea and Oat-Ultra Sensitive Skin - $9,train
+885,Home & Garden,8034,23,43,10.98,27%,Outdoors & Patio,Home Depot,"Charcoal: Kingsford Blue (KFB) Briquettes - 16 lbs - was $ 14.98, on sale for $ 10.98, save $ 4 or 27%",train
+886,Automotive,1786,1,1,,,Other,Canadian Tire,"3M Filtrete™ Micro Allergen Filter MPR 1000, 20x20 Dual Pack ($19.99) (YMMW)",train
+888,,46304,64,174,19.98,,Home Improvement & Tools,Home Depot,DEWALT 28pc bit set with Right Angle attachment $19.98,test
+890,,2500,-4,8,,,Credit Cards,,National Bank Mastercard Cashback Offer - New Clients Only,test
+891,,27210,-1,109,,,Banking & Investing,,$50 cashback for investing and maintaining $1000 balance for 60 days (GCR or HIS),val
+892,Beauty & Wellness,1661,-1,5,3.97,,Other,Michaels,Free Spirit Yarn - Clearance $3.97 - Michaels,train
+893,Restaurants,98819,97,250,$1.00,,Fast Food,McDonalds,Summer Drink Days (Starts June 29th),train
+894,Home & Garden,10704,4,37,86.98,,Home Improvement & Tools,Home Depot,Rigid 3/8 Octane Impact Wrench Kit (w/2.0ah + charger) for $86.98 YMMV B&M only,train
+896,,2675,9,9,9.99,75%,Peripherals & Accessories,London Drugs,Skullcandy Smokin Buds 2 In-Ear Headphones $9.99 @ London Drugs,test
+897,Home & Garden,2776,-4,10,69.98,59%,Home Improvement & Tools,Canadian Tire,"Dewalt 10"" table saw blades 3 pk.",train
+898,,5596,19,26,299.99,,Baby Needs,,[Various] Graco 4Ever All-In-One Car Seat $300 or less YMMV,test
+899,Home & Garden,6320,0,35,1199.99,$400,Appliances,Best Buy,LG 30 inch 21.8 cu.ft french door fridge -1199.99 + $80 delivery,train
+902,Computers & Electronics,14729,48,33,$786.59+,,Computers & Tablets/eReaders,,"Current Best Ryzen 4500U/4700U Envy x360/Flex 5 14 Deals (Starting from $786.59, YMMV)",train
+903,Computers & Electronics,1316,2,0,219.99,$40 off,Home Theatre & Audio,Amazon.ca,Echo Studio: $219.99 + 1% Rakuten cash back,train
+904,Computers & Electronics,6610,-1,15,,,Cell Phones,Virgin Mobile,[VIRGIN] 10GB/$15m Loyalty Upgrade.. Current Plan is 12GB/$65m,train
+908,,7505,7,32,,40% off,Home Improvement & Tools,Home Hardware,"Structural screws, 40% off, various sizes",val
+909,Computers & Electronics,13155,8,85,8.19,34%,Telecom,,NameCheap .com TLD Domain Registration $8.19 Cdn,train
+910,Home & Garden,17030,7,53,$89.99,40%,Home Services & Repairs,Canadian Tire,Rust-Oleum Ultimate Driveway Sealer $89.99 (40% off),train
+911,Home & Garden,2452,1,5,$19.99,,Home Improvement & Tools,Princess Auto,Power Fist 1/2 in. dr Swivel Drive Ratchet for $19.99,train
+914,,36447,17,197,,50% off,Flights,Air Canada,Get 50% back on Aeroplan Flights (AC Flights to US/Canada),val
+915,Automotive,5610,7,15,35.99,40%,Other,Canadian Tire,"MotoMaster Heavy Duty Tire Dolly & Creeper, 300-lb - 35.99",train
+916,,260895,37,631,,,Video Games,,Rift/PC VR Games Sale and Daily Deals,val
+917,Automotive,9342,23,37,7.49,,Auto Parts & Accessories,Napa Auto Parts,Sea Foam Motor Treatment $7.49,train
+918,Home & Garden,2774,1,7,,,Appliances,,Save on taxes - some exclusions apply,train
+919,Computers & Electronics,5734,-8,45,728.99,,Peripherals & Accessories,Dell,"Dell U3415W 34"" IPS Ultrawide 3440x1440 $728.99",train
+920,Home & Garden,4204,-2,18,$11.99,,Outdoors & Patio,Lowe's,Miracle-Gro Miracle-Gro All purpose Food (24-8-16) $11.99 PM Home Depot,train
+922,,10298,7,47,1899,55%,Hotels,TravelZoo,SAii Lagoon Maldives - 5 Star Hilton - 7 nights from $1899 for two people,val
+925,Computers & Electronics,12984,2,52,299.98,,Cameras,,Arlo Pro Wire-Free Security System with 2 HD Cameras - White,train
+926,Restaurants,15079,-10,60,2.99,,Fast Food,A & W,'56 Buddy Burger $2.99 Deal is Back,train
+927,Beauty & Wellness,1686,3,2,,,Beauty Supplies & Personal Care,,Estee Lauder Warehouse Sale Online (not the really good one),train
+928,Home & Garden,30897,7,113,,up to $150,Outdoors & Patio,,Napoleon BBQ - Extreme Saving Events - Up to $150 Mail Rebate - Effective May 15 - July 4,train
+929,Home & Garden,30899,7,113,,up to $150,Outdoors & Patio,,Napoleon BBQ - Extreme Saving Events - Up to $150 Mail Rebate - Effective May 15 - July 4,train
+930,Beauty & Wellness,241,-1,0,$209.99,,Beauty Supplies & Personal Care,Costco,2 pack Oral B Pro 7000 - $209.99,train
+932,,1492,-3,11,,,Rail & Bus,,Brampton Transit Presto Loyalty Program,val
+933,Sports & Fitness,3254,4,16,$399.99,30% off,Equipment,,Pre-sale: 5-30lb XM Fitness Dumbbell Set (includes rack) - $399.99,train
+934,Financial Services,10127,7,28,,,Mortgages & Loans,HSBC,2.14% for 5 year fixed closed term quick close switch rate,train
+936,Computers & Electronics,2666,-12,26,$999.99,$1000.00,Televisions,,USA DEAL - TCL 65Q825 65” MiniLED 4K TV - $999. Reg $1999,train
+940,Apparel,11186,3,32,,,Men's Shoes,Sport Chek,Men's Adidas Ultraboost 19 Shoes Clearance - $136.97,train
+942,,10638,8,35,$1999.99,$900 off,Appliances,Home Depot,Weber Summit S470 natural gas grill (ymmv Scarborough ON store) $1999.99,test
+948,Restaurants,22480,14,139,,BOGO,Restaurants & Bars,,[FIDO XTRA] BOGO Medium Pizza at Boston Pizza,train
+949,Beauty & Wellness,1813,4,7,,,Beauty Supplies & Personal Care,,CW Beggs (Men's skin care): 30% off sale + extra 20% off coupon + 2 free full-size products w/ $60+ + FS,train
+950,,6001,11,18,"$1,849.95",$350 off,Home Theatre & Audio,,"HD 800 S (Headphones) - $1,849.95",test
+953,Home & Garden,12974,7,70,249,25%,Appliances,Walmart,Google Nest Learning Thermostat $249 - 3rd Generation,train
+956,Computers & Electronics,3646,-2,19,,,Computers & Tablets/eReaders,Amazon.ca,"HP Envy x360 2-in-1 15.6"" Ryzen 5 4500u/24GB RAM/1TB SSSD - $1453.15",train
+959,Computers & Electronics,6282,-9,16,,,Cell Phones,Rogers,Great deals on the Pixel 4/XL at Rogers,train
+961,,5740,13,21,398.00,,Appliances,Walmart,Akorn Kamado Smoker and Grill $398.00,test
+962,Entertainment,2800,16,8,,,"Books, Music, Movies, Magazines",,TIDAL Hifi 3 months for 3$ hot,train
+963,Home & Garden,3707,5,10,,25% off,Appliances,,Bissell Canada Day 25% off,train
+965,Computers & Electronics,12367,5,22,,10%,Computers & Tablets/eReaders,Apple,Apple ID 10% bonus,train
+967,Computers & Electronics,1819,2,1,50,,Home Theatre & Audio,Walmart,JBL Tune 600BT nc headphone $50,train
+968,Home & Garden,41208,22,157,299,,Home Improvement & Tools,Home Depot,Milwaukee 2pc M12 Fuel Gen 2 combo kit with free M12 Bare tool,train
+970,Computers & Electronics,2410,-8,5,899,250,Other,Amazon.ca,"Samsung LC34J791WTNXZA 34"" 100Hz WQHD Curved Monitor $899",train
+971,,2393,1,5,199.99,,Appliances,Canadian Tire,Shark ion RV720c robot vacuum - $199.99,test
+974,Computers & Electronics,8596,18,23,4.29,4.70,Video Games,Google.com,Ticket to Ride $4.29,train
+975,,6748,2,27,$192.95,,Appliances,Loblaws,"67k BTU BBQ, $192.95 (including 5% tax) after 100k pts kickback",test
+976,,64222,4,217,499,,Other,Shoppers Drug Mart,Bird electric scooter $499 YMMV,val
+977,Computers & Electronics,4240,5,11,,,Video Games,,Trials Rising $5.69 - plus not needed - possible price error,train
+978,,3991,43,7,,,Video Games,,Free PlayStation Plus 10th Anniversary PS4 Theme Now Out,test
+979,Computers & Electronics,136659,0,1392,,,Cell Phones,,Zoomer Wireless - $36 for 5 GB + $100 Activation Credit,train
+980,Computers & Electronics,3391,5,10,37.99,40%,Video Games,Blizzard.com,Call of Duty: MW $48 on bnet (for PC),train
+981,Sports & Fitness,15527,8,61,1399,,Equipment,,Rad Mission eBike $1399,train
+984,,4172,-6,7,,,Equipment,,40lbs Rubber Hex Dumbbell Set ($54.00 x 2 + $40.48 shipping + tax = $167.78),val
+985,Computers & Electronics,28612,3,69,,,Cell Phones,Telus Mobility,$75/20GB,train
+986,Home & Garden,2616,1,8,,20%,Furniture,,Polysleep Mattress - 20% off sitewide or $200 coupon on Amazon.ca,train
+987,,1742,15,2,,94-99%,Video Games,,"8-Bit Invaders! $0.39 (deluxe $0.46) with plus, $2.39 ($2.81 Deluxe) without plus - has platinum and online co-op",test
+989,Home & Garden,5891,-7,22,$64.99,,Home Improvement & Tools,Costco,3M Filtrete 16*25*5 2pack,train
+990,,15342,4,80,93.88,20%,Other,Amazon.ca,NOCO Genius5 car battery charger - $93.88 [All time low!],test
+993,Computers & Electronics,1830,1,6,$40,,Home Theatre & Audio,Amazon.ca,Tribit XFree Tune Bluetooth Headphones Over-Ear $40,train
+995,Kids & Babies,4866,9,12,$57.10,43%,Toys & Games,Amazon.ca,Meccano Advanced Machine Innovation Set $57.10,train
+996,Apparel,39573,6,51,$172.99,40%,Men's Shoes,Nike,"Nike Zoom Pegasus Turbo Shield (select sizes, colours) - $172.99 (limited sizes)",train
+997,,12635,-22,40,$75=10gb,$75=20gb,Cell Phones,Rogers,Rogers giving extra 10gb as appreciation YMMV,test
+999,Kids & Babies,3513,4,6,$11.99,27%,Toys & Games,Michaels,X-Shot Fast-Fill Water Blaster $11.99,train
+1003,,14418,-1,83,12.49,50%,Video Games,,Diablo 3 sale - Main Game $12.49 / RoS $12.49 / Necro $12.69,test
+1004,Computers & Electronics,14016,10,41,,,Televisions,Costco,Vizio Quantum P659-G1 65-in. Smart 4K HDR LED TV 1099.99,train
+1007,Entertainment,1976,0,2,20.50,,"Books, Music, Movies, Magazines",,Final Fantasy VII Remake Original Soundtrack Digital,train
+1009,Computers & Electronics,9055,22,56,179,,Peripherals & Accessories,Amazon.ca,WD_Black SN750 1TB NVMe Internal Gaming SSD $179.99,train
+1011,,9929,22,22,74,50% off,Outdoors & Patio,Home Depot,"ShelterLogic Shed-In-A-Box - Three different sizes, 50% off @ Woodbridge/Rexdale, YMMV elsewhere?",test
+1012,,1184,1,1,92$,30%off,Home Theatre & Audio,Visions Electronics,KEF M500 Hi-Fi Over-Ear Headphones (Luke warm deal) 92$,test
+1013,Computers & Electronics,11739,10,21,$1329.99,$965,Computers & Tablets/eReaders,Best Buy,iPad Pro 12.9 inch 2018 1TB + LTE 4G - Back in Stock,train
+1015,Computers & Electronics,1239,-1,5,50.83,85,Other,,UsenetServer Unlimited Yearly Account $50.83,train
+1016,,10175,6,55,69.99,99.99,Equipment,TSC Stores,Various deals on Horse Stall Mats (gym/garage flooring) ($30.99-69.99),val
+1017,Computers & Electronics,2615,4,10,$47.99,52%,Home Theatre & Audio,,W830BT aptX NFC Wireless Bluetooth Over-ear Headphones $47.99,train
+1018,Apparel,3194,1,11,,30% OFF,Men's Shoes,,Nike & Air Jordan Sandals Slides 30% OFF,train
+1019,,1708,-7,10,59.99,45% off,Cameras,Amazon.ca,Heimvision HM302 3MP Security Camera,test
+1021,Computers & Electronics,3297,1,9,999.99,,Televisions,Costco,LG 70UM7370 70-in. Smart 4K UHD TV $999.99,train
+1023,Automotive,3663,5,14,69.99,,Auto Parts & Accessories,Canadian Tire,CT: Rhino Ramps - 16000lbs: $69.99,train
+1024,Financial Services,4931,8,34,,,Credit Cards,Royal Bank,Westjet RBC Mastercard - Get double rewards on select purchases (WE only?),train
+1025,Entertainment,3842,5,13,49,,Other,,[Poppa Corn] Grande Jalapeno Cheese Sauce 4 x 140oz $49,train
+1027,,127,-1,0,$0.00,100%,"Books, Music, Movies, Magazines",,Corona Virus: A Novel Cookbook,val
+1028,,1138,1,0,99.99,33%,Peripherals & Accessories,,Logitech Folio for iPad Pro 11 2018 $100,test
+1030,Entertainment,999,4,1,26.99,40%,"Books, Music, Movies, Magazines",Amazon.ca,Pre-Order Humans (Humans of New York) Hardcover Book - $26.99 40% off,train
+1033,Automotive,4303,10,19,130.95,,Auto Parts & Accessories,,Pro Series Eclipse 4 Bike Rack $130.95 - No Tax - FS,train
+1035,,890,0,1,,,Fast Food,Harvey's,"Get a free regular size frings, shake or a pie with 15$ purchase via app [In-store pickup only]",test
+1036,Computers & Electronics,21373,13,68,$69.99,$30 off,Cell Phones,Amazon.ca,12GB data per month for 3 months $69.99 Mexican SIM,train
+1037,Computers & Electronics,15963,7,64,799,$100,Computers & Tablets/eReaders,Best Buy,"HP 15.6"" Gaming Laptop - Black (AMD Ryzen 5 4600H/256GB SSD/8GB RAM/NVIDIA GeForce GTX 1050/Win 10) - $799",train
+1038,,9904,10,51,70.39,,Pets,PetSmart,40 Gallon Glass Aquarium (Tetra/Marineland) - NOW $70.39,val
+1040,,1731,3,5,48.97,30%,Other,MEC,CDI TorqControl 2-8 Nm tool for bikes 48.97,test
+1041,,1253,6,0,209.00,$190.00,Other,Bose Canada,:: [$209.00] :: Refurbished Bose QC35 (1st Gen) Noise Cancelling Headphones,val
+1042,Home & Garden,932,0,0,119,30,Home Improvement & Tools,Lowe's,Dewalt 12 amp reciprocating saw $119,train
+1043,Computers & Electronics,2592,12,7,,,Video Games,,[Fanatical] Atari Vault Complete Pack (Steam Key) $2.79,train
+1045,Apparel,2277,-1,2,19.99,30%,Men's Shoes,Costco,Fila West Naples Men’s Sneaker $19.99,train
+1050,Computers & Electronics,1219,0,1,165.99,$24 off,Computers & Tablets/eReaders,Amazon.ca,XPG Spectrix D41 RGB 3200MHz 32GB (2 x 16GB) 228-Pin PC4-25600 Ryzen Compatible Memory $165.99,train
+1055,Home & Garden,1089,3,1,,30%+,Home Improvement & Tools,,"BOSTITCH Floor Nailer 2 in 1, 16g L cleats & 15.5g staples $200 (PM opportunity)",train
+1057,,3683,30,9,Free,,Other,,2 free 6” x 8” Prints,test
+1058,Computers & Electronics,3995,-7,18,477.99,$20,Computers & Tablets/eReaders,Costco,"Samsung Galaxy Tab S6 Lite 10.4 in. 64 GB, Wi-Fi Tablet $457.99 w/flip case",train
+1059,Computers & Electronics,6559,2,20,70,,Peripherals & Accessories,Walmart,YMMV 500GB external SSD Emtec 70$,train
+1063,,2499,2,10,,,"Books, Music, Movies, Magazines",,SiriusXM - $5 /month for 12 months + a FREE Echo Dot,test
+1065,Beauty & Wellness,2167,6,12,44.99,,Beauty Supplies & Personal Care,Costco,Philips Sonicare DiamondClean Toothbrush Heads (5-Pack) $44.99,train
+1066,Restaurants,1371,-3,10,,,Fast Food,Panago Pizza,Ampli x Panago - $10 on $5 purchase,train
+1067,,1364,4,0,$29.99,40% off,Home Improvement & Tools,Canadian Tire,Smart Screen Gutter Guard - $29.99,test
+1068,Computers & Electronics,7258,-2,42,$369.99,$90,Peripherals & Accessories,,Google Nest Wifi 5 Router with 2 Points - 3 Pack - $369.99,train
+1070,,51234,20,196,,,Furniture,Staples,Humanscale chairs and accessories 20% OFF,val
+1071,Computers & Electronics,9990,15,64,636,,Peripherals & Accessories,Amazon.ca,Beyerdynamic DT 1990 Pro - 636$ lowest price ever,train
+1072,Travel,3620,6,12,,,Other,Petro Canada,Ymmv bonus points petro Canada email,train
+1074,Restaurants,2135,5,3,Free,,Coffee & Desserts,,Nomad Bottle or Pixie Lungo Cups (Sherway Gardens location) - FREE,train
+1077,Computers & Electronics,2225,3,7,,,Video Games,Amazon.ca,Trials of Mana (Switch/PS4) $44.99,train
+1078,Travel,39519,61,202,,5% off,Other,,UGo Wallet offering 5% discount on eGift cards until June 30th 2020..****PLEASE READ SUMMARY****,train
+1079,,12426,1,52,$59.99,$10,Computers & Tablets/eReaders,Amazon.ca,"Fire 7 Tablet - 2019 Release, 16 GB, Black - $59.99",val
+1081,Computers & Electronics,2011,1,7,C$8.17,50% off,Telecom,,.CA domain 50% off,train
+1082,Computers & Electronics,1084,2,2,79.99,,Computers & Tablets/eReaders,Amazon.ca,[Amazon.ca] XPG Gammix D10 DDR4 16GB (2x8GB) 3200MHz 288-Pin CL16 PC4-25600 Desktop U-DIMM Memory $79.99,train
+1084,Apparel,1920,-2,4,140,110,Men's Shoes,Foot Locker,[WARM] Ultraboost 3 colors 160$ all-in YMMV,train
+1085,Home & Garden,6064,4,32,199.98,,Appliances,Walmart,"RCA 5.0 Cu Ft Chest Freezer, White $199.98",train
+1087,Computers & Electronics,3294,3,14,47.99,30% Off,Home Theatre & Audio,Amazon.ca,Edifier W820BT Wireless Bluetooth Headphones ($67.99 - $20= $47.99),train
+1088,Computers & Electronics,1677,1,7,,,Peripherals & Accessories,Best Buy,Microsoft Surface Pen + Bluetooth Mouse $102.74 + tax (PM with BB),train
+1090,,1986,3,7,$799,$150,Outdoors & Patio,Costco,Napoleon Rogue 425 Natural Gas Grill with Cover $799 after $150 Off,test
+1092,,7025,-9,35,,,Auto Parts & Accessories,Amazon.ca,RAVPower Portable car jump starter - $25.99,val
+1093,Apparel,3145,3,5,,30~60%,Men's Apparel,,Online Sale 50% off suits and sports coats,train
+1095,,1180,0,2,399,$80off,Other,Amazon.ca,"Bose Noise Cancelling Wireless Bluetooth Headphones 700, with Alexa Voice Control, Soapstone $399",test
+1096,Home & Garden,31964,27,84,,,Appliances,IKEA,Ikea: Up to 50% off appliances,train
+1097,Home & Garden,6188,11,27,,,Appliances,Walmart,Hamilton beach 4 slice toaster oven for $19.98 (Half price) or stainless steel Kettle,train
+1099,,3015,7,7,75,,Equipment,Amazon.ca,Victorinox Swiss Champ $75,test
+1101,,1924,-1,4,7.5,50% off,Telecom,,2nd month free offer,val
+1103,Computers & Electronics,16084,51,62,,,Video Games,Sony Online Entertainment,Playstation Plus June 2020 ( Star Wars Battlefront 2 + Call of Duty WWII),train
+1104,Apparel,3531,2,3,179.99,$80 off,Men's Apparel,Costco,Citizen Eco-Drive Brycen Black Dial Men's Watch - $179.99 delivered,train
+1106,Travel,2469,4,10,,,Other,,Earn 10X the miles with our 7 Days of Summer Event,train
+1109,Restaurants,9703,33,38,$0.99,,Fast Food,Wendy's,$0.99 Chocolate Frosty at Wendy's,train
+1110,Financial Services,2950,0,11,51.99,,Other,Amazon.ca,Trolley Dolly - Victorian ($51.99),train
+1112,Beauty & Wellness,3764,3,17,134.99,$35,Beauty Supplies & Personal Care,Costco,Sonicare Toothbrushes (2-pack) - 134.99 ($35 off),train
+1113,Kids & Babies,3630,12,9,,,School Supplies,Amazon.ca,Color & Frame Coloring Books (spiral bound) - By the Sea / In the Forest - $3.19 each,train
+1115,Computers & Electronics,3895,3,10,$6.49,50% off,Video Games,Nintendo,Duke Nukem 20th Anniversary World Tour Switch $6.49 on eShop,train
+1116,Home & Garden,25922,12,103,398,,Home Improvement & Tools,Home Depot,RYOBI 18V ONE+ 16-inch Mower + Trimmer + Blower + 2 * 4.0Ah Batteries + Charger $398,train
+1119,,2041,-2,5,,50% off,Other,Uber Eats,$8 OFF on $15 - Targeted,val
+1120,,6698,23,61,21.89,,"Books, Music, Movies, Magazines",Amazon.ca,Parasite 4K Blu ray - $21.89,test
+1121,Sports & Fitness,3170,6,11,,25% off,Other,Altitude Sports,Hydroflask 25% off + 5% membership discount,train
+1123,,4279,-7,7,348,22% off,Peripherals & Accessories,,Sony WH-1000XM3 Wireless Noise Cancelling Headphones – $100.00 off,test
+1124,,10530,4,51,$50,,Telecom,Freedom Mobile,*warm* Freedom mobile $50 15gb,val
+1125,Home & Garden,5496,-1,14,$29.99,,Appliances,Costco,Costco.ca FoodSaver Model FM1500-033 $29.99,train
+1127,Computers & Electronics,1502,-1,0,656.99,,Cameras,Amazon.ca,"Insta 360 One R 1"" Edition 656.99 all in!",train
+1128,,1145,0,1,242.10,24% off,Home Improvement & Tools,Home Depot,Milwaukee M12 FUEL 1/4″ Extended Reach Ratchet @ $242.10,val
+1129,Home & Garden,7555,20,25,50-60,45,Furniture,IKEA,"HÄLLESTAD Laminate Countertop 74"" ($50) or 98"" ($60)",train
+1130,Computers & Electronics,756,-2,0,$79.99,$10 OFF,Cameras,Amazon.ca,Fujifilm Instax Mini 11 - $79.99 ($10 OFF),train
+1131,Small Business,6583,30,16,1.97,56% off,Office Supplies,Amazon.ca,Crayola 24 Coloured Pencils - $1.97 ( AN ADD-ON ITEM),train
+1132,,13041,6,35,,,Appliances,,Nespresso Private Sale - Vertuo Line for $29 with 350 pod purchase - Ends June 29th!,val
+1133,,4495,0,15,199,,Home Improvement & Tools,Rona,Bostitch 2HP/ Gal compressor with 18GA Nailer Combo $199,val
+1134,,22066,14,67,,,Telecom,Virgin Mobile,[YMMV] [ON] [QC] 8GB @ $45/mo BYOD plan with Virgin home internet,test
+1135,Travel,5155,-1,21,,,Hotels,,"Westin Marriot Toronto - free breakfast, parking, and more all summer",train
+1139,Kids & Babies,1419,6,1,$17.99,40%,Toys & Games,Canadian Tire,Hot Wheels cars 20pk-$17.99,train
+1140,,5611,12,28,1498.00,21,Televisions,Visions Electronics,"Sony 65"" 4K HDR Smart Android TV with Picture Processor X1 Ultimate (XBR65X950G) $1498 In Store Only YMMV",test
+1141,Sports & Fitness,1920,6,3,,,Equipment,MEC,La Sportiva climbing shoes 25% off,train
+1142,Entertainment,844,1,1,,,"Books, Music, Movies, Magazines",,Deezer HiFi - 1 month free then CAD $14.99/month,train
+1143,Computers & Electronics,21837,34,68,,,Home Theatre & Audio,,Sennheiser HD 25 $129.95 HD 280Pro $99.95 free shipping,train
+1144,,2220,4,5,,up to 20%,Hotels,sandmanhotels.com,Select Sandman Hotels in Alberta - $75 AMEX GIFT CARD PER NIGHT,test
+1147,Computers & Electronics,33620,-52,214,,,Peripherals & Accessories,,Windows 10 Professional $59.99 CDN or $39.99 USD,train
+1148,,8067,8,37,,50%,Clothing & Accessories,,"Canadian Tire Triangle MasterCard holders - 50% off at Helly Hansen + Free shipping (targeted, YMMV)",val
+1149,,7480,0,17,252.64,28%,Appliances,Amazon.ca,Vitamix Explorian Blender- Renewed: $252.64,val
+1150,Computers & Electronics,5923,16,7,797.99,,Televisions,Costco,Hisense 70-in. 4K HDR Roku Smart TV 70R6209 for $797.99,train
+1153,,4579,4,20,$114,15%,Appliances,,Thermapen mk4 $115,test
+1154,Computers & Electronics,1521,1,0,$10,60%,Peripherals & Accessories,Walmart,Great Value Inkjet Cartridges ($5 or $10),train
+1160,Beauty & Wellness,2332,8,4,,,Beauty Supplies & Personal Care,Yves Rocher,Yves Rocher Canada Deals: Save 50% OFF Sitewide + FREE Trio w/ Your Order + FREE Beach Towel w/ Your Order $50 + More,train
+1162,Sports & Fitness,2834,6,5,299.99,,Equipment,,AmStaff TP006D Power Squat Rack Training System (in stock) ($299.99),train
+1163,Kids & Babies,2538,8,0,,30% Off,Toys & Games,Toys R Us,LEGO Minifigures Disney Series 2 - Discontinued Clearance ($3.48 each),train
+1164,Computers & Electronics,4943,3,15,714,,Computers & Tablets/eReaders,Lenovo Canada,LENOVO - $714 Ideapad 3 17' | Ryzen 5 4500U | 512GB SSD | 8GB RAM (4 GB Soldered + 4 GB DIMM),train
+1166,Computers & Electronics,7748,11,34,$25,$10 off,Other,Best Buy,TP-Link Kasa Smart Wi-Fi Plug Lite - 2 Pack $25 | $10 off,train
+1170,,46897,26,168,$7,,Fast Food,Subway,Subway $7 select footlongs,test
+1171,Entertainment,3344,16,13,$19.99,,"Books, Music, Movies, Magazines",,Cheers (COMPLETE Series) $19.99,train
+1173,,1431,3,0,269,Extra 10%,Home Improvement & Tools,Home Depot,Nest X yale door lock - 269 plus tax,test
+1175,Home & Garden,4034,12,5,4,,Home Improvement & Tools,Dollarama,"Philips LED recessed retrofit trim 5-6"" - $4",train
+1177,Computers & Electronics,16069,32,30,54.99,50%,Other,Canadian Tire,"Coleman Wheeled Xtreme Cooler, 95-Can 50% off YMMV",train
+1178,Sports & Fitness,3065,3,7,$249.99,,Equipment,Princess Auto,16 HP horizontal shaft engine. $249.99,train
+1179,Computers & Electronics,9270,12,48,408.99,,Computers & Tablets/eReaders,Amazon.ca,Amazon: Ryzen 7 3700x $409,train
+1182,,3760,2,6,,,Outdoors & Patio,Costco,Tamarack Wooden Outdoor Folding Chair 129.99,val
+1183,Home & Garden,3801,4,6,$79.99,20% Off,Home Improvement & Tools,Home Depot,Milwaukee M18 700 Lumen LED Lantern/Flood Light - $79.99,train
+1185,Computers & Electronics,2988,7,3,1.14,90%,Video Games,STEAM,BTD6 Steam $1.14 | 90% off warm? hot? for those who play!,train
+1186,Home & Garden,3856,6,6,$98,$50,Home Improvement & Tools,Home Depot,"Makita 18v 1/4"" impact driver brushless $98.00 (Stoney Creek) YMMV",train
+1187,Computers & Electronics,5996,-5,43,$34.99,$75 off,Other,Best Buy,SanDisk Ultra Plus V10 128GB 130MB/s MicroSD Memory Card ($34.99 = $109.99 - $75),train
+1188,Computers & Electronics,27547,38,91,99.97,50%,Home Theatre & Audio,,Edifier W860NB Noise-Cancelling Headphones - $99.97 (50% off),train
+1190,Automotive,2010,1,1,$53.99,40% OFF,Auto Parts & Accessories,,Car Jump starter with LED light and jumper cables,train
+1192,Computers & Electronics,1828,-7,3,61.74,32%,Peripherals & Accessories,Amazon.com,Samsung EVO Select 256GB microSDXC UHS-I U3 100MB/s $61.74 Cad (45.07 USD),train
+1193,Home & Garden,70206,34,142,,,Home Improvement & Tools,,Bidet clearance at Costco,train
+1194,,2934,-4,3,39.88,,Home Improvement & Tools,Home Depot,DeWalt 136 piece maxfit bit set -39.88,test
+1195,,1420,2,0,$10.99,50% off,Women's Apparel,Marks Works Wearhouse,Women's Jumpstart Canada Day T-Shirt $10.99 + $5 Donation made by Marks to Jumpstart for every Jumpstart T-shirt sold,test
+1196,,2766,1,6,USD $49.99,,Other,,[WARM] StackSocial -The Limited Edition Mac Bundle Ft. iMazingincluding WindScribe(2 years) Unlimited + Other Apps,test
+1197,Computers & Electronics,1677,-6,4,57.99,,Video Games,STEAM,Red Dead Redemption 2 (PCDD) $57.99,train
+1198,Computers & Electronics,1469,1,0,17.99,6 off,Televisions,Costco,Wirelogic HDMI 3.6M cable Pack of 2- 17.99$,train
+1199,Computers & Electronics,1554,0,1,,,Video Games,Walmart,Hellmut: The Badass from Hell (Switch) - $15 (has $15 TIV at EB Games),train
+1200,Computers & Electronics,3646,5,12,$34.99,,Peripherals & Accessories,Amazon.ca,Aukey 65W Omnia dual USB-C charger $34.99 after $15 coupon,train
+1204,Automotive,6615,5,20,8.99,$11 off,Other,Princess Auto,440lb (14*18) Mover's Dolly $8.99,train
+1206,Computers & Electronics,2051,-2,5,$78,,Home Theatre & Audio,Walmart,$78 YMMV - RCA Home Theater Projector,train
+1207,Computers & Electronics,2851,20,8,,,Video Games,Microsoft Store,Once Upon a Death Xbox One Edition *Free,train
+1209,Computers & Electronics,33207,27,126,$374.99,$50 off,Computers & Tablets/eReaders,Costco,"New Apple iPad 10.2"" 32GB $369.99 Gold or $374.99 Grey",train
+1210,Computers & Electronics,2588,5,7,$83.99,$20,Peripherals & Accessories,Staples,Cooler Master MasterWatt 750 750W 80+ Bronze Semi-Fanless Power Supply($103.99-$20.00=$83.99),train
+1211,Entertainment,1417,-3,7,35.99,,"Books, Music, Movies, Magazines",,Star Wars Rise of Skywalker 3D bluray 35.99,train
+1212,Home & Garden,1579,-2,1,699.99,,Furniture,Costco,Thomasville Casey Brown Top Grain Leather Power Recliner 699.99,train
+1213,Automotive,2731,4,13,$69.99,,Auto Parts & Accessories,Princess Auto,Rhino 16000lbs ramp $69.99 + FS,train
+1214,,5378,5,16,19.99,,School Supplies,Costco,Moleskine Ruled Cahier Journal (6-Pack) - $19.99,test
+1216,Computers & Electronics,15279,20,33,$109.99,,Other,Amazon.ca,Ring Doorview Camera with Echo Dot (Charcoal) $109.99,train
+1217,Computers & Electronics,1907,9,4,,,Video Games,,Amazon.ca/BestBuy.ca: Switch SNK Heroines: Tag Team Frenzy - 19.97$...,train
+1218,,3565,7,14,$35,29% off,Other,Chapters Indigo,PANDEMIC RAPID RESPONSE Board Game $35,test
+1219,Computers & Electronics,1616,2,1,118,,Home Theatre & Audio,Visions Electronics,"JBL Everest 710GA Wireless Over-Ear Headphones with Google Assistant $118 W/FS, $112 ISPU",train
+1221,Apparel,2827,-10,7,69.98,,Men's Shoes,Browns shoes,Browns Sandals - $69.98 + additional 25% off second pair,train
+1224,Computers & Electronics,3164,1,5,299.99,100.00,Peripherals & Accessories,Best Buy,"Samsung 28"" 4K UHD 60Hz 1ms GTG TN LED FreeSync Gaming Monitor",train
+1226,Home & Garden,2730,5,3,513.30,36% off,Home Improvement & Tools,Home Depot,"Bosch GCM12SD Duel-Bevel Glide Miter Saw - 12"" ($513.30)",train
+1227,,3750,29,2,Free,100%,Video Games,,Railways! - Free for a limited time,test
+1228,Sports & Fitness,2041,4,7,5.99,,Other,Metro,Nuun electrolyte tablets,train
+1229,,3712,1,8,349,,Televisions,The Source,Sylvania SL581SMU 58” 4K Ultra HD Smart TV $349,val
+1230,Computers & Electronics,2822,9,7,,30% off,Cameras,Altitude Sports,30% off member discount on Peak Design,train
+1231,Computers & Electronics,4776,10,18,125,$15,Peripherals & Accessories,,Hot -Razer Kiyo Webcam - $125 (after sign up code)!!,train
+1232,Computers & Electronics,5257,-6,26,399.99,30%,Peripherals & Accessories,Amazon.ca,SanDisk 2TB Extreme PRO Portable External SSD - updated $399.99,train
+1233,Sports & Fitness,1771,3,2,49.99,50%,Other,Canadian Tire,Coleman Wheeled Cooler with Handle 50 quart $49.99,train
+1234,Home & Garden,5105,10,15,31.47,,Other,Amazon.ca,"SR SUN RISE 6-Settings 4.8"" High Pressure Handheld Shower Head Set $31.47",train
+1235,,59355,-11,240,,,Mortgages & Loans,TD Bank,TD fixed rate 2.54% mortgage,val
+1236,Home & Garden,582,3,0,39.99,33% off,Pets,PetSmart,Nutrience?? Grain Free SubZero Cat Food - 5kg for $39.99,train
+1238,Beauty & Wellness,13767,14,43,,,Beauty Supplies & Personal Care,Walmart,"Philips Multigroom 5000 Face, Head and Body $35",train
+1241,Sports & Fitness,1262,2,0,5.93,60%,Other,Canadian Tire,"Rapala 4-in Ceramic Utility Knife, 5.93",train
+1242,Home & Garden,2186,-1,6,198,,Home Improvement & Tools,Home Depot,warm- RYOBI 40V Lithium-Ion Cordless String Trimmer and Blower / Sweeper Combo Kit,train
+1243,Computers & Electronics,5387,61,12,,,Video Games,Epic Games,Epic Games Weekly FREE GAMES - June 25 to July 2 - Stranger Things 3 and AER,train
+1244,Computers & Electronics,1089,2,0,299.99,$80 off,Peripherals & Accessories,Amazon.ca,NETGEAR Nighthawk Pro Gaming XR500 WiFi Router CDN$299,train
+1246,Computers & Electronics,7079,33,17,$6.74,75%,Video Games,,"Konami Collections PS4 (Castlevania, Contra, Arcade Classics) - $6.74 each",train
+1249,Computers & Electronics,5204,9,30,1399,$200,Computers & Tablets/eReaders,Visions Electronics,"Asus TUF 15.6"" R7-4800H / 16GB RAM / 1TB SSD / RTX2060 Laptop (TUF506IV-AS76) $1,399 In store only.",train
+1250,Home & Garden,1510,-12,13,$499.99,,Home Improvement & Tools,Canadian Tire,"MAXIMUM 15A Dual-Bevel Sliding Mitre Saw with Stand, 10-in for $499.99",train
+1251,,1138,3,0,19.99,$20,Beauty Supplies & Personal Care,Amazon.ca,MaxKare Electric Heating Pad - $19.99,test
+1252,,884,3,1,299.99,$200 off,Peripherals & Accessories,Amazon.ca,Canon PIXMA PRO-100 13-Inch x 19-Inch Professional Photo Inkjet Printer $299.99,val
+1253,,6018,16,10,,60% off,Women's Apparel,Victoria Secret,Up to 60% off Victoria’s Secret Semi-Annual Sale,val
+1254,Computers & Electronics,1451,15,0,,,Video Games,GOG.com,"Free Cyberpunk 2077 ""Goodies"" Collection - NOT the actual game",train
+1255,Beauty & Wellness,2571,11,9,39.99,20,Other,Costco,COSTCO members 5 pack Philips Sonicare Diamond Clean Brush Heads 39.99,train
+1256,Computers & Electronics,1363,8,4,1.35,,Video Games,,[PC] Use Your Words (JPP-style party game) $1.35 in Fanatical Build Your Own Lockdown Bundle 2,train
+1258,Home & Garden,1054,2,0,39.99,,Appliances,Linen Chest,Starfrit The Rock Indoor Smokeless BBQ Grill $39.99,train
+1259,,1177,2,3,,,Home Improvement & Tools,Home Depot,WARM *YMMV* *Online Only* $301.71 all-in - Campbell Hausfeld 8 Gal. Electric Quiet Hot Dog Air Compressor at Home Depot,val
+1260,Computers & Electronics,1552,0,9,$16.66,,Peripherals & Accessories,Lenovo Canada,**Warm** Lenovo Legion Gaming XL Cloth Mouse Pad $16.66 free shipping,train
+1261,Entertainment,1334,6,6,,,"Books, Music, Movies, Magazines",,Little Women Rental 99c on Apple and Amazon this week,train
+1262,,2013,0,4,59.88,,Men's Shoes,Amazon.ca,Skechers Vassell Oxford (color: desert),test
+1263,Home & Garden,1643,2,4,188,,Home Improvement & Tools,Home Depot,Milwaukee Tool 1-inch SDS-plus Rotary Hammer Kit (Markham location),train
+1264,,1111,4,2,9.99,66%,Other,Canadian Tire,"Rapala Fish Pro Fillet Knife, 6-inch, 9.99",test
+1266,Entertainment,742,-1,0,12.99,47% Off,"Books, Music, Movies, Magazines",,Google Play Store - Pixar Favorites - $12.99,train
+1267,Computers & Electronics,6777,13,25,,,Video Games,Microsoft Store,SONIC MANIA FREE W/ Microsoft Store Movie Purchase,train
+1268,,2316,0,10,31.97$,16%,Auto Parts & Accessories,Amazon.ca,31.97$ - Garant 63” Extra-Large Pivoting Head & Telescoping Snow Brush,val
+1269,Home & Garden,5076,2,15,2.93,,Home Improvement & Tools,Canadian Tire,16' tape measure YMMV In-store clearance $2.93,train
+1271,Computers & Electronics,5432,-15,13,,,Cell Phones,Best Buy Mobile,Bestbuy Gift Cards With Activation,train
+1272,,1175,1,0,199.97,13% Off,Peripherals & Accessories,Amazon.ca,Sennheiser Momentum 2 Wireless Headphone with Active Noise Cancellation | 13% Off | $199.97,test
+1275,,12433,8,25,,40% off,Fast Food,Domino's Pizza,Domino’s Pizza 40% discount code (YMMV),val
+1276,Home & Garden,51604,30,174,1399.99,,Appliances,Costco,"COSTCO.CA - Bosch Benchmark 800 series dishwashers - $1399.99 delivered, + 25% OFF in Ontario",train
+1277,Beauty & Wellness,22702,51,81,$0.32,,Beauty Supplies & Personal Care,Real Canadian Superstore,Any six Axe products for $0.32 each,train
+1281,,493,1,0,$2,86%,Beauty Supplies & Personal Care,Atlantic Superstore,Exact Multi-Purpose (Contact Lens) Solution YMMV $2,test
+1282,Computers & Electronics,5789,22,27,$26.39,67%,Video Games,,"PS4 Control $26.39 (the GAME, NOT a controller)",train
+1283,Home & Garden,3904,17,21,$14.99,,Home Improvement & Tools,Canadian Tire,Mastercraft Metal Sawhorse for $14.99,train
+1284,Apparel,358,0,0,,,Men's Shoes,,Timberlands on Sale in B2/Brown Shoes,train
+1285,Home & Garden,11841,24,60,99.99,,Home Improvement & Tools,Canadian Tire,"DEWALT DWE575 7-1/4-in Circular Saw, 15 Amp $99.99",train
+1288,Kids & Babies,2348,1,4,,,Toys & Games,EB Games,Magic the Gathering Sale,train
+1290,,5301,6,10,69.99,,Computers & Tablets/eReaders,Best Buy,Razer Black Widow Backlit Mechanical Green Gaming Keyboard ($149.99-$80=$69.99),test
+1291,Entertainment,13487,36,93,83.92,,"Books, Music, Movies, Magazines",Amazon.ca,Board game Mansion of Madness 2nd - $83.92,train
+1292,Computers & Electronics,2726,0,9,369.99,,Peripherals & Accessories,Amazon.ca,"Samsung CJG52 27"" Gaming Monitor - $369.99 [WQHD] [144hz] [4ms] [1800r Curved] [VA Panel]",train
+1294,Home & Garden,10378,16,24,23.99,20%,Appliances,Bed Bath And Beyond,Lasko 20-Inch 3-Speed Box Fan $23.99,train
+1295,Computers & Electronics,23130,17,88,,,Cameras,Costco,DJI Osmo Pocket Cam + Expansion Kit - $399.99,train
+1297,Home & Garden,1306,1,0,$14.97,38% off,Other,Amazon.ca,Finish Quantum Max - 80 Tablets $14.97 + $3 Off Coupon,train
+1300,Computers & Electronics,5433,15,15,,,Video Games,,Games With Gold July 2020,train
+1301,Computers & Electronics,2216,-2,9,447,$200,Peripherals & Accessories,Amazon.ca,"Samsung 32"" 4K UHD 60Hz Curved Monitor (LU32R590CWNXZA) $447 Amazon.ca",train
+1303,,685,-1,0,119.99,,Appliances,Amazon.ca,Echo Plus with Smart Bulb and Smart Plug - $119.99,test
+1305,Computers & Electronics,1951,3,11,52.79,34%,Video Games,,Resident Evil 3 PC for 34% off,train
+1306,Home & Garden,1110,3,2,,50% off,Pets,Rens Pets Depot,Ren's Pets Buy One Get One Free Wet Cat/Dog Food,train
+1308,Restaurants,778,-2,0,3.25,46% off,Restaurants & Bars,Groupon Canada,$3.25 for Drinks for One or $6 for Two (Up to 50% Off) at Guschlbauer,train
+1310,Home & Garden,10185,9,27,,$58,Appliances,Costco,Philips Multichopper with OnionChef - $42 (with free shipping),train
+1311,,4068,11,25,29.99,,Other,Amazon.ca,"D-Link Outdoor Smart Plug, 2 sockets plus USB $29.99",val
+1313,Computers & Electronics,2710,1,3,"2,798.00",$500 off,Televisions,Costco,"Sony 75"" XBR75X900H 4K TV for $2,798",train
+1316,Home & Garden,11397,11,61,,,Appliances,Walmart,SodaStream FIZZI • $60 (reg. $99) - [YMMV • SQUARE ONE • In-Store],train
+1317,,5872,-1,25,,,Flights,,YVR-MIA $187 RT,val
+1318,Computers & Electronics,1176,3,0,1036,,Cell Phones,,[PDAPlaza] Samsung Galaxy S20+ Grey 5G Dual Sim $1036,train
+1319,Travel,2540,-6,8,,,Hotels,,Marriott 60% bonus points offer,train
+1321,Automotive,3729,8,20,,,Auto Parts & Accessories,Amazon.ca,Noco Portable Jump Starter $112,train
+1322,Sports & Fitness,14865,22,54,599.99,,Equipment,Costco,Marcy Cage Home Gym System $599.99,train
+1325,Computers & Electronics,6382,0,3,,,Cell Phones,,"[Google] Pixel 4,4XL -200 3a,3aXL -150",train

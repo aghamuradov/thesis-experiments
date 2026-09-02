@@ -1,0 +1,150 @@
+row_id_raw,row_id_clean,raw_value,true_clean_value,format_class,split,own_cleaned_price,predicted_class,saving_pred
+12,12,600 off,0.23094688221709,wortkombination,test,1998.0,wortkombination,0.23094688221709006
+14,14,$43.74,0.0683448178877795,dollarbetrag,test,596.25,dollarbetrag,0.0683448178877795
+15,15,20%,0.2,prozent,test,39.99,prozent,0.2
+43,43,55% Off,0.55,prozent,test,9.99,prozent,0.55
+62,62,$69.99,0.0777683948532189,dollarbetrag,test,829.99,dollarbetrag,0.07776839485321896
+75,75,30% off,0.3,prozent,test,,prozent,0.3
+91,91,50% off,0.5,prozent,test,19.98,prozent,0.5
+159,159,27%,0.27,prozent,test,36.64,prozent,0.27
+160,160,50% off,0.5,prozent,test,,prozent,0.5
+186,186,65%,0.65,prozent,test,,prozent,0.65
+189,189,65%,0.65,prozent,test,199.0,prozent,0.65
+195,195,23%,0.23,prozent,test,61.99,prozent,0.23
+202,202,$40 off,0.2247191011235955,dollarbetrag,test,138.0,dollarbetrag,0.2247191011235955
+219,219,50% off,0.5,prozent,test,,prozent,0.5
+240,240,25%,0.25,prozent,test,39.99,prozent,0.25
+242,242,11%,0.11,prozent,test,79.45,prozent,0.11
+244,244,$27.00,0.7716490425835952,dollarbetrag,test,7.99,dollarbetrag,0.7716490425835952
+245,245,$20 off,0.0333338888981483,dollarbetrag,test,579.99,dollarbetrag,0.033333888898148305
+285,285,$50.00,0.25,dollarbetrag,test,150.0,dollarbetrag,0.25
+297,297,100%,1.0,prozent,test,,prozent,1.0
+308,308,$1.50,0.4322766570605187,dollarbetrag,test,1.97,dollarbetrag,0.43227665706051877
+316,316,80%,0.8,prozent,test,5.99,prozent,0.8
+319,319,42%,0.42,prozent,test,30.0,prozent,0.42
+320,320,100,1.0,reine_zahl,test,0.0,reine_zahl,1.0
+341,340,50%,0.5,prozent,test,1491.0,prozent,0.5
+342,341,68% off,0.68,prozent,test,559.0,prozent,0.68
+353,352,100%,1.0,prozent,test,,prozent,1.0
+356,355,80-85%,0.85,prozent,test,,prozent,0.8
+379,378,$10 off,0.5,dollarbetrag,test,,dollarbetrag,
+395,394,30%,0.3,prozent,test,,prozent,0.3
+407,406,30$,0.1775147928994082,sonstiges,test,139.0,sonstiges,0.17751479289940827
+410,409,40%,0.4,prozent,test,,prozent,0.4
+417,416,35%,0.35,prozent,test,,prozent,0.35
+429,428,33.4,0.6258197489226157,reine_zahl,test,19.97,sonstiges,0.6258197489226157
+430,429,$60,0.6000600060006,dollarbetrag,test,39.99,dollarbetrag,0.6000600060006
+456,455,10$,0.2000400080016003,sonstiges,test,39.99,sonstiges,0.20004000800160032
+458,457,$101.99,0.3399779992666422,dollarbetrag,test,198.0,dollarbetrag,0.3399779992666422
+465,464,40%,0.4,prozent,test,102.0,prozent,0.4
+486,485,50$,0.1428571428571428,sonstiges,test,300.0,sonstiges,0.14285714285714285
+493,492,90 % off,0.9,prozent,test,1.99,prozent,0.9
+503,502,50% off,0.5,prozent,test,,prozent,0.5
+526,525,90% off,0.9,prozent,test,45.0,prozent,0.9
+531,530,$200 off,0.1250007812548828,dollarbetrag,test,1399.99,dollarbetrag,0.12500078125488284
+549,548,61%,0.61,prozent,test,12.6,prozent,0.61
+573,572,43% off,0.43,prozent,test,399.0,prozent,0.43
+583,582,55% off,0.55,prozent,test,,prozent,0.55
+585,584,$15,0.1875234404300537,dollarbetrag,test,64.99,dollarbetrag,0.18752344043005376
+586,585,55%,0.55,prozent,test,,prozent,0.55
+595,594,55% off,0.55,prozent,test,29.99,prozent,0.55
+599,598,$30,0.2307869836141241,dollarbetrag,test,99.99,dollarbetrag,0.23078698361412414
+601,600,33%,0.33,prozent,test,29.99,prozent,0.33
+602,601,84%,0.84,prozent,test,,prozent,0.84
+605,604,150$ off,0.375,wortkombination,test,250.0,wortkombination,0.375
+609,608,26% Off,0.26,prozent,test,147.99,prozent,0.26
+613,612,55%,0.55,prozent,test,,prozent,0.55
+619,618,30-40%,0.4,prozent,test,400.0,prozent,0.3
+637,636,100%,1.0,prozent,test,,prozent,1.0
+642,641,$17,0.1082871520479011,dollarbetrag,test,139.99,dollarbetrag,0.10828715204790114
+647,646,$60 off,0.3351955307262569,dollarbetrag,test,119.0,dollarbetrag,0.33519553072625696
+663,662,95%,0.95,prozent,test,1.1,prozent,0.95
+670,669,50% off,0.5,prozent,test,49.0,prozent,0.5
+678,677,25% off,0.25,prozent,test,59.99,prozent,0.25
+692,691,50%,0.5,prozent,test,1.0,prozent,0.5
+718,717,44%,0.44,prozent,test,134.0,prozent,0.44
+727,726,$50,0.0646830530401035,dollarbetrag,test,723.0,dollarbetrag,0.0646830530401035
+733,732,$17.00,0.1030365476695557,dollarbetrag,test,147.99,dollarbetrag,0.10303654766955572
+734,733,40%,0.4,prozent,test,6.0,prozent,0.4
+746,745,41%,0.41,prozent,test,18.99,prozent,0.41
+755,754,15% off,0.15,prozent,test,15.99,prozent,0.15
+762,761,50%,0.5,prozent,test,,prozent,0.5
+767,766,$145,0.6605922551252847,dollarbetrag,test,74.5,dollarbetrag,0.6605922551252847
+787,786,90%,0.9,prozent,test,1.99,prozent,0.9
+790,789,< 50% o,0.5,prozent,test,,prozent,0.5
+805,804,54% off,0.54,prozent,test,68.0,prozent,0.54
+807,806,36% Off,0.36,prozent,test,88.99,prozent,0.36
+816,815,42% Off,0.42,prozent,test,22.98,prozent,0.42
+838,837,40% Off,0.4,prozent,test,26.99,prozent,0.4
+850,849,55,0.2340425531914893,reine_zahl,test,180.0,reine_zahl,0.23404255319148937
+865,864,81% off,0.81,prozent,test,4.0,prozent,0.81
+881,880,24%,0.24,prozent,test,74.0,prozent,0.24
+896,895,75%,0.75,prozent,test,9.99,prozent,0.75
+899,898,$400,0.2500015625097657,dollarbetrag,test,1199.99,dollarbetrag,0.2500015625097657
+922,921,55%,0.55,prozent,test,1899.0,prozent,0.55
+931,930,100%,1.0,prozent,test,,prozent,1.0
+938,937,$80 off,0.7273388489862715,dollarbetrag,test,29.99,dollarbetrag,0.7273388489862715
+942,941,$900 off,0.310345897744475,dollarbetrag,test,1999.99,dollarbetrag,0.310345897744475
+947,946,50%,0.5,prozent,test,,prozent,0.5
+958,957,12% off,0.12,prozent,test,179.99,prozent,0.12
+964,963,35% off,0.35,prozent,test,129.0,prozent,0.35
+966,965,50%,0.5,prozent,test,,prozent,0.5
+969,968,63% off,0.63,prozent,test,99.97,prozent,0.63
+974,973,4.70,0.5228031145717464,reine_zahl,test,4.29,sonstiges,0.5228031145717464
+983,982,25-30%+20%,0.3,prozent,test,,prozent,0.25
+987,986,94-99%,0.99,prozent,test,,prozent,0.94
+995,994,43%,0.43,prozent,test,57.1,prozent,0.43
+999,998,27%,0.27,prozent,test,11.99,prozent,0.27
+1003,1002,50%,0.5,prozent,test,12.49,prozent,0.5
+1011,1010,50% off,0.5,prozent,test,74.0,prozent,0.5
+1013,1012,$965,0.4204811349940523,dollarbetrag,test,1329.99,dollarbetrag,0.4204811349940523
+1016,1015,99.99,0.5882456759618778,reine_zahl,test,69.99,reine_zahl,0.5882456759618778
+1019,1018,45% off,0.45,prozent,test,59.99,prozent,0.45
+1028,1027,33%,0.33,prozent,test,99.99,prozent,0.33
+1037,1036,$100,0.1112347052280311,dollarbetrag,test,799.0,dollarbetrag,0.11123470522803114
+1041,1040,$190.00,0.4761904761904761,dollarbetrag,test,209.0,dollarbetrag,0.47619047619047616
+1049,1048,20% off,0.2,prozent,test,79.99,prozent,0.2
+1050,1049,$24 off,0.1263224380230538,dollarbetrag,test,165.99,dollarbetrag,0.12632243802305385
+1055,1054,30%+,0.3,prozent,test,,prozent,0.3
+1062,1061,50%,0.5,prozent,test,,prozent,0.5
+1067,1066,40% off,0.4,prozent,test,29.99,prozent,0.4
+1068,1067,$90,0.1956564273136372,dollarbetrag,test,369.99,dollarbetrag,0.19565642731363725
+1076,1075,22.3% - 26,0.223,prozent,test,,prozent,0.223
+1080,1079,100%,1.0,prozent,test,,prozent,1.0
+1086,1085,$6 off,0.2000666888962987,dollarbetrag,test,,dollarbetrag,
+1093,1092,30~60%,0.6,prozent,test,,prozent,0.3
+1102,1101,60% off,0.6,prozent,test,1.99,prozent,0.6
+1107,1106,45% off,0.45,prozent,test,11.99,prozent,0.45
+1114,1113,$40.00,0.7274049827241317,dollarbetrag,test,14.99,dollarbetrag,0.7274049827241317
+1115,1114,50% off,0.5,prozent,test,6.49,prozent,0.5
+1119,1118,50% off,0.5,prozent,test,,prozent,0.5
+1121,1120,25% off,0.25,prozent,test,,prozent,0.25
+1128,1127,24% off,0.24,prozent,test,242.1,prozent,0.24
+1130,1129,$10 OFF,0.111123458162018,dollarbetrag,test,79.99,dollarbetrag,0.111123458162018
+1140,1139,21,0.0138248847926267,reine_zahl,test,1498.0,reine_zahl,0.013824884792626729
+1149,1148,28%,0.28,prozent,test,252.64,prozent,0.28
+1152,1151,31%,0.31,prozent,test,400.0,prozent,0.31
+1166,1165,$10 off,0.2857142857142857,dollarbetrag,test,25.0,dollarbetrag,0.2857142857142857
+1167,1166,$5 off $25,0.1666666666666666,dollarbetrag,test,,dollarbetrag,
+1184,1183,10% off,0.1,prozent,test,289.0,prozent,0.1
+1185,1184,90%,0.9,prozent,test,1.14,prozent,0.9
+1187,1186,$75 off,0.6818801709246295,dollarbetrag,test,34.99,dollarbetrag,0.6818801709246295
+1198,1197,6 off,0.2501042100875364,wortkombination,test,17.99,wortkombination,0.25010421008753647
+1204,1203,$11 off,0.5502751375687843,dollarbetrag,test,8.99,dollarbetrag,0.5502751375687843
+1215,1214,55%,0.55,prozent,test,129.99,prozent,0.55
+1218,1217,29% off,0.29,prozent,test,35.0,prozent,0.29
+1227,1226,100%,1.0,prozent,test,,prozent,1.0
+1230,1229,30% off,0.3,prozent,test,,prozent,0.3
+1233,1232,50%,0.5,prozent,test,49.99,prozent,0.5
+1244,1243,$80 off,0.2105318561014763,dollarbetrag,test,299.99,dollarbetrag,0.21053185610147634
+1251,1250,$20,0.5001250312578145,dollarbetrag,test,19.99,dollarbetrag,0.5001250312578145
+1255,1254,20,0.3333888981496916,reine_zahl,test,39.99,reine_zahl,0.3333888981496916
+1266,1265,47% Off,0.47,prozent,test,12.99,prozent,0.47
+1272,1271,13% Off,0.13,prozent,test,199.97,prozent,0.13
+1281,1280,86%,0.86,prozent,test,2.0,prozent,0.86
+1289,1288,$91 Off,0.3791666666666666,dollarbetrag,test,149.0,dollarbetrag,0.37916666666666665
+1297,1296,38% off,0.38,prozent,test,14.97,prozent,0.38
+1304,1303,$5,0.2174858634188778,dollarbetrag,test,17.99,dollarbetrag,0.2174858634188778
+1306,1305,50% off,0.5,prozent,test,,prozent,0.5
+1323,1322,50% off,0.5,prozent,test,,prozent,0.5
+1324,1323,$5 off,0.2000800320128051,dollarbetrag,test,19.99,dollarbetrag,0.20008003201280514

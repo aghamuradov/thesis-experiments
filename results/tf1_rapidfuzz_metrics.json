@@ -1,0 +1,13 @@
+{
+  "experiment": "TF1_Duplikate",
+  "method": "Exact_RapidFuzz",
+  "n_test": 148,
+  "threshold": 51,
+  "f1_val_at_threshold": 1.0,
+  "precision": 0.9487179487179487,
+  "recall": 1.0,
+  "f1": 0.9736842105263158,
+  "compute_time_sec_all_pairs": 0.6247386932373047,
+  "n_false_positives": 2,
+  "n_false_negatives": 0
+}

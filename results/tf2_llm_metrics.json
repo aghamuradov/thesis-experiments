@@ -1,0 +1,18 @@
+{
+  "experiment": "TF2_FehlendeWerte",
+  "method": "Claude_LLM",
+  "model": "claude-sonnet-5",
+  "price_mae": 154.3014814814815,
+  "price_rmse": 292.39935909642486,
+  "price_n_valid": 162,
+  "parent_category_accuracy": 0.888,
+  "parent_category_macro_f1": 0.8533132530120482,
+  "parent_category_n_valid": 125,
+  "wall_time_price_sec": 511.55987095832825,
+  "wall_time_parent_category_sec": 314.3788695335388,
+  "input_tokens_price": 42935,
+  "output_tokens_price": 21281,
+  "input_tokens_parent_category": 53694,
+  "output_tokens_parent_category": 11249,
+  "estimated_cost_usd": 0.5185580000000001
+}

@@ -1,0 +1,10 @@
+{
+  "experiment": "TF4_Semantik",
+  "method": "SentenceTransformers_RandomForest",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "accuracy": 0.7096774193548387,
+  "macro_f1": 0.4484484654076684,
+  "n_test": 124,
+  "train_time_sec": 1.6503064632415771,
+  "n_application_rows": 500
+}

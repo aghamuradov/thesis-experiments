@@ -1,0 +1,12 @@
+{
+  "experiment": "TF2_FehlendeWerte",
+  "method": "Median_Modus",
+  "price_mae": 189.40100609756098,
+  "price_rmse": 362.30232022034124,
+  "price_n_test": 164,
+  "parent_category_accuracy": 0.912,
+  "parent_category_macro_f1": 0.8580003032354516,
+  "parent_category_n_test": 125,
+  "train_time_price_sec": 0.004415273666381836,
+  "train_time_parent_category_sec": 0.0036468505859375
+}

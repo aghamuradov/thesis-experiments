@@ -1,0 +1,826 @@
+row_id,split,true_parent_category
+6,train,Apparel
+8,train,Home & Garden
+10,train,Computers & Electronics
+11,test,Kids & Babies
+12,train,Computers & Electronics
+17,val,Home & Garden
+20,test,Financial Services
+21,train,Small Business
+22,test,Entertainment
+23,train,Beauty & Wellness
+24,train,Home & Garden
+25,train,Entertainment
+26,train,Financial Services
+27,train,Sports & Fitness
+28,train,Home & Garden
+29,train,Beauty & Wellness
+30,train,Home & Garden
+31,train,Entertainment
+32,train,Home & Garden
+33,train,Computers & Electronics
+34,val,Computers & Electronics
+36,train,Beauty & Wellness
+37,train,Home & Garden
+39,test,Computers & Electronics
+40,test,Home & Garden
+43,val,Computers & Electronics
+44,train,Entertainment
+45,train,Home & Garden
+46,train,Computers & Electronics
+47,train,Computers & Electronics
+49,test,Computers & Electronics
+50,train,Home & Garden
+53,train,Entertainment
+54,train,Computers & Electronics
+56,val,Home & Garden
+57,val,Home & Garden
+58,train,Home & Garden
+59,train,Home & Garden
+65,train,Home & Garden
+67,val,Financial Services
+68,train,Computers & Electronics
+69,test,Kids & Babies
+70,val,Computers & Electronics
+72,train,Home & Garden
+73,train,Financial Services
+74,val,Automotive
+75,test,Financial Services
+76,train,Beauty & Wellness
+77,train,Computers & Electronics
+78,val,Apparel
+83,train,Computers & Electronics
+84,test,Computers & Electronics
+85,val,Computers & Electronics
+91,train,Home & Garden
+92,train,Computers & Electronics
+94,val,Home & Garden
+95,train,Computers & Electronics
+96,train,Beauty & Wellness
+99,val,Apparel
+104,val,Financial Services
+105,train,Computers & Electronics
+106,train,Computers & Electronics
+109,train,Financial Services
+112,train,Home & Garden
+116,val,Computers & Electronics
+117,train,Home & Garden
+119,test,Home & Garden
+121,val,Computers & Electronics
+122,train,Financial Services
+123,train,Home & Garden
+125,train,Apparel
+126,train,Computers & Electronics
+128,train,Computers & Electronics
+129,train,Home & Garden
+132,val,Computers & Electronics
+133,train,Computers & Electronics
+134,train,Beauty & Wellness
+135,test,Beauty & Wellness
+136,train,Home & Garden
+138,train,Home & Garden
+139,val,Computers & Electronics
+142,test,Computers & Electronics
+143,train,Computers & Electronics
+145,train,Computers & Electronics
+148,train,Computers & Electronics
+149,test,Restaurants
+151,train,Computers & Electronics
+152,test,Computers & Electronics
+153,train,Automotive
+155,train,Home & Garden
+158,train,Computers & Electronics
+161,train,Home & Garden
+162,test,Computers & Electronics
+163,train,Computers & Electronics
+164,train,Financial Services
+165,train,Restaurants
+166,train,Computers & Electronics
+167,train,Automotive
+169,train,Entertainment
+172,val,Computers & Electronics
+178,train,Home & Garden
+179,train,Home & Garden
+180,test,Beauty & Wellness
+181,train,Computers & Electronics
+182,train,Computers & Electronics
+183,val,Financial Services
+184,train,Small Business
+185,test,Computers & Electronics
+188,train,Automotive
+189,test,Computers & Electronics
+191,val,Computers & Electronics
+195,train,Computers & Electronics
+197,train,Computers & Electronics
+198,train,Home & Garden
+201,train,Beauty & Wellness
+202,val,Home & Garden
+203,val,Computers & Electronics
+204,train,Computers & Electronics
+205,val,Home & Garden
+207,test,Computers & Electronics
+208,train,Entertainment
+209,train,Entertainment
+212,train,Home & Garden
+214,train,Computers & Electronics
+215,train,Home & Garden
+216,train,Kids & Babies
+218,train,Computers & Electronics
+219,train,Restaurants
+223,train,Financial Services
+224,train,Restaurants
+226,train,Financial Services
+230,val,Entertainment
+234,train,Computers & Electronics
+236,train,Financial Services
+237,train,Sports & Fitness
+241,train,Financial Services
+242,test,Home & Garden
+243,val,Sports & Fitness
+244,train,Computers & Electronics
+246,train,Financial Services
+247,test,Home & Garden
+248,train,Beauty & Wellness
+249,test,Computers & Electronics
+250,train,Home & Garden
+251,train,Computers & Electronics
+252,train,Entertainment
+255,train,Home & Garden
+258,train,Small Business
+260,train,Computers & Electronics
+262,val,Beauty & Wellness
+263,train,Home & Garden
+264,val,Computers & Electronics
+265,train,Financial Services
+267,train,Apparel
+269,train,Computers & Electronics
+270,train,Computers & Electronics
+271,train,Computers & Electronics
+272,train,Home & Garden
+273,val,Computers & Electronics
+274,train,Financial Services
+276,train,Computers & Electronics
+277,train,Home & Garden
+278,train,Home & Garden
+281,train,Home & Garden
+283,train,Home & Garden
+285,test,Computers & Electronics
+288,train,Restaurants
+291,train,Home & Garden
+292,test,Home & Garden
+293,train,Restaurants
+295,test,Computers & Electronics
+296,train,Restaurants
+297,train,Entertainment
+298,train,Computers & Electronics
+302,train,Entertainment
+303,test,Computers & Electronics
+306,train,Computers & Electronics
+307,train,Computers & Electronics
+312,train,Computers & Electronics
+313,train,Computers & Electronics
+316,train,Computers & Electronics
+317,val,Home & Garden
+319,val,Entertainment
+320,val,Entertainment
+321,train,Computers & Electronics
+325,train,Computers & Electronics
+326,train,Computers & Electronics
+327,train,Computers & Electronics
+329,train,Home & Garden
+331,train,Restaurants
+333,train,Computers & Electronics
+334,val,Computers & Electronics
+336,train,Financial Services
+339,val,Automotive
+340,train,Computers & Electronics
+342,train,Computers & Electronics
+345,train,Entertainment
+347,train,Computers & Electronics
+348,val,Computers & Electronics
+349,test,Computers & Electronics
+351,train,Automotive
+352,test,Financial Services
+354,train,Kids & Babies
+355,train,Computers & Electronics
+356,train,Computers & Electronics
+357,test,Entertainment
+358,train,Computers & Electronics
+360,train,Home & Garden
+361,val,Computers & Electronics
+363,train,Sports & Fitness
+364,train,Home & Garden
+365,train,Computers & Electronics
+366,train,Home & Garden
+367,val,Computers & Electronics
+368,train,Financial Services
+369,train,Computers & Electronics
+370,train,Computers & Electronics
+372,train,Sports & Fitness
+373,train,Computers & Electronics
+374,val,Kids & Babies
+375,train,Entertainment
+376,train,Financial Services
+377,train,Travel
+378,train,Computers & Electronics
+379,val,Home & Garden
+380,train,Computers & Electronics
+382,val,Computers & Electronics
+383,train,Home & Garden
+384,train,Home & Garden
+385,train,Entertainment
+386,train,Computers & Electronics
+389,train,Computers & Electronics
+391,train,Computers & Electronics
+392,test,Beauty & Wellness
+393,train,Computers & Electronics
+394,train,Computers & Electronics
+397,test,Computers & Electronics
+399,train,Computers & Electronics
+400,test,Computers & Electronics
+401,test,Restaurants
+403,val,Small Business
+404,train,Computers & Electronics
+405,train,Kids & Babies
+406,train,Entertainment
+407,train,Computers & Electronics
+408,train,Beauty & Wellness
+409,train,Home & Garden
+410,train,Sports & Fitness
+411,train,Kids & Babies
+412,train,Computers & Electronics
+413,train,Computers & Electronics
+414,train,Home & Garden
+415,val,Home & Garden
+416,train,Financial Services
+417,train,Sports & Fitness
+418,val,Computers & Electronics
+419,train,Computers & Electronics
+422,test,Home & Garden
+423,val,Computers & Electronics
+426,train,Home & Garden
+428,val,Computers & Electronics
+429,train,Small Business
+432,train,Entertainment
+433,train,Computers & Electronics
+435,train,Home & Garden
+437,train,Computers & Electronics
+438,train,Home & Garden
+440,train,Computers & Electronics
+441,train,Automotive
+442,val,Home & Garden
+444,train,Computers & Electronics
+446,train,Home & Garden
+447,train,Computers & Electronics
+448,train,Computers & Electronics
+450,train,Home & Garden
+451,train,Home & Garden
+452,train,Computers & Electronics
+454,val,Small Business
+455,train,Sports & Fitness
+456,train,Kids & Babies
+459,train,Computers & Electronics
+462,train,Computers & Electronics
+463,train,Computers & Electronics
+464,train,Home & Garden
+467,train,Home & Garden
+468,train,Computers & Electronics
+469,train,Automotive
+470,train,Computers & Electronics
+471,val,Computers & Electronics
+472,train,Home & Garden
+473,train,Home & Garden
+474,train,Home & Garden
+476,train,Home & Garden
+477,train,Computers & Electronics
+478,train,Computers & Electronics
+482,train,Home & Garden
+484,train,Computers & Electronics
+486,val,Entertainment
+488,train,Home & Garden
+489,train,Automotive
+490,train,Computers & Electronics
+491,train,Computers & Electronics
+493,train,Kids & Babies
+494,val,Kids & Babies
+495,val,Computers & Electronics
+496,test,Computers & Electronics
+497,train,Kids & Babies
+499,train,Home & Garden
+500,val,Computers & Electronics
+502,train,Apparel
+503,test,Computers & Electronics
+507,train,Small Business
+508,train,Computers & Electronics
+509,test,Home & Garden
+510,train,Home & Garden
+511,train,Computers & Electronics
+512,train,Kids & Babies
+513,train,Home & Garden
+514,train,Computers & Electronics
+515,test,Computers & Electronics
+518,train,Home & Garden
+519,val,Home & Garden
+521,train,Home & Garden
+522,test,Home & Garden
+523,test,Computers & Electronics
+524,train,Computers & Electronics
+526,train,Computers & Electronics
+527,test,Computers & Electronics
+529,train,Home & Garden
+531,train,Computers & Electronics
+532,val,Home & Garden
+535,val,Beauty & Wellness
+537,train,Home & Garden
+538,train,Home & Garden
+539,train,Home & Garden
+543,train,Restaurants
+544,train,Computers & Electronics
+546,train,Computers & Electronics
+551,val,Home & Garden
+552,train,Computers & Electronics
+563,train,Computers & Electronics
+564,train,Computers & Electronics
+565,train,Computers & Electronics
+566,train,Home & Garden
+567,val,Computers & Electronics
+570,val,Computers & Electronics
+571,val,Computers & Electronics
+572,test,Apparel
+573,train,Computers & Electronics
+577,train,Home & Garden
+579,train,Computers & Electronics
+580,train,Computers & Electronics
+582,train,Computers & Electronics
+583,train,Apparel
+584,train,Computers & Electronics
+585,train,Computers & Electronics
+586,train,Automotive
+587,test,Home & Garden
+588,train,Computers & Electronics
+589,test,Computers & Electronics
+590,train,Computers & Electronics
+592,train,Computers & Electronics
+593,train,Computers & Electronics
+594,train,Computers & Electronics
+595,val,Computers & Electronics
+596,val,Home & Garden
+599,test,Computers & Electronics
+600,val,Computers & Electronics
+601,train,Computers & Electronics
+602,train,Computers & Electronics
+603,val,Home & Garden
+604,train,Computers & Electronics
+605,train,Computers & Electronics
+606,train,Sports & Fitness
+607,train,Computers & Electronics
+609,val,Computers & Electronics
+612,test,Home & Garden
+614,train,Apparel
+615,val,Automotive
+616,train,Computers & Electronics
+619,test,Computers & Electronics
+621,train,Computers & Electronics
+622,val,Computers & Electronics
+623,val,Computers & Electronics
+624,val,Home & Garden
+625,train,Computers & Electronics
+627,train,Computers & Electronics
+628,test,Beauty & Wellness
+629,train,Beauty & Wellness
+630,train,Financial Services
+632,test,Home & Garden
+633,val,Computers & Electronics
+635,test,Home & Garden
+637,train,Entertainment
+643,test,Computers & Electronics
+647,train,Home & Garden
+648,val,Beauty & Wellness
+650,train,Computers & Electronics
+651,train,Apparel
+653,train,Computers & Electronics
+654,test,Automotive
+655,train,Home & Garden
+656,train,Computers & Electronics
+659,test,Financial Services
+660,train,Computers & Electronics
+661,train,Computers & Electronics
+664,train,Sports & Fitness
+667,val,Restaurants
+668,train,Entertainment
+669,train,Travel
+670,test,Home & Garden
+671,train,Sports & Fitness
+672,train,Travel
+675,test,Kids & Babies
+676,train,Kids & Babies
+677,train,Home & Garden
+678,train,Computers & Electronics
+681,train,Computers & Electronics
+682,train,Computers & Electronics
+683,test,Computers & Electronics
+684,val,Computers & Electronics
+687,train,Computers & Electronics
+688,train,Computers & Electronics
+689,train,Financial Services
+690,train,Computers & Electronics
+691,val,Computers & Electronics
+692,val,Computers & Electronics
+695,train,Financial Services
+697,train,Sports & Fitness
+698,train,Financial Services
+699,train,Computers & Electronics
+700,train,Restaurants
+701,train,Computers & Electronics
+702,test,Home & Garden
+704,train,Computers & Electronics
+707,train,Computers & Electronics
+709,train,Home & Garden
+710,train,Computers & Electronics
+711,train,Entertainment
+712,train,Restaurants
+714,train,Computers & Electronics
+717,test,Computers & Electronics
+718,train,Home & Garden
+719,test,Apparel
+720,test,Restaurants
+721,val,Computers & Electronics
+723,train,Kids & Babies
+724,val,Home & Garden
+725,train,Travel
+727,train,Computers & Electronics
+729,train,Computers & Electronics
+730,train,Computers & Electronics
+731,test,Home & Garden
+732,train,Small Business
+735,train,Automotive
+736,train,Computers & Electronics
+737,train,Home & Garden
+741,train,Home & Garden
+743,test,Computers & Electronics
+744,test,Computers & Electronics
+747,train,Computers & Electronics
+748,train,Home & Garden
+749,train,Home & Garden
+750,train,Home & Garden
+752,test,Small Business
+754,train,Sports & Fitness
+755,train,Restaurants
+757,val,Computers & Electronics
+759,train,Computers & Electronics
+760,train,Restaurants
+762,val,Restaurants
+763,train,Computers & Electronics
+764,test,Computers & Electronics
+765,test,Computers & Electronics
+766,train,Home & Garden
+767,train,Home & Garden
+768,train,Home & Garden
+770,test,Home & Garden
+771,test,Home & Garden
+772,train,Computers & Electronics
+775,train,Home & Garden
+776,val,Automotive
+778,train,Home & Garden
+779,train,Home & Garden
+780,train,Apparel
+781,test,Computers & Electronics
+785,test,Entertainment
+786,test,Computers & Electronics
+788,val,Restaurants
+790,train,Restaurants
+792,train,Kids & Babies
+793,train,Home & Garden
+796,train,Entertainment
+797,test,Kids & Babies
+798,test,Home & Garden
+799,train,Automotive
+800,train,Home & Garden
+801,train,Home & Garden
+805,val,Sports & Fitness
+806,train,Automotive
+809,train,Home & Garden
+810,test,Sports & Fitness
+811,train,Automotive
+812,test,Computers & Electronics
+813,train,Computers & Electronics
+814,train,Computers & Electronics
+815,val,Home & Garden
+818,train,Computers & Electronics
+819,val,Home & Garden
+821,train,Computers & Electronics
+822,train,Home & Garden
+824,train,Home & Garden
+827,train,Sports & Fitness
+829,train,Home & Garden
+830,train,Home & Garden
+833,train,Computers & Electronics
+836,train,Entertainment
+838,test,Home & Garden
+839,train,Computers & Electronics
+840,train,Computers & Electronics
+841,train,Home & Garden
+842,train,Home & Garden
+846,val,Computers & Electronics
+848,val,Home & Garden
+849,train,Financial Services
+852,train,Entertainment
+853,val,Automotive
+855,train,Apparel
+857,train,Home & Garden
+859,test,Home & Garden
+861,val,Home & Garden
+862,val,Beauty & Wellness
+863,val,Home & Garden
+864,train,Entertainment
+865,train,Beauty & Wellness
+869,test,Computers & Electronics
+870,train,Financial Services
+871,val,Sports & Fitness
+876,train,Small Business
+877,test,Home & Garden
+878,train,Computers & Electronics
+879,val,Home & Garden
+881,train,Home & Garden
+882,train,Home & Garden
+883,train,Beauty & Wellness
+885,train,Home & Garden
+886,train,Automotive
+888,train,Home & Garden
+890,train,Financial Services
+891,val,Financial Services
+892,train,Beauty & Wellness
+893,val,Restaurants
+894,train,Home & Garden
+896,train,Computers & Electronics
+897,train,Home & Garden
+898,train,Kids & Babies
+899,train,Home & Garden
+902,train,Computers & Electronics
+903,test,Computers & Electronics
+904,train,Computers & Electronics
+908,train,Home & Garden
+909,train,Computers & Electronics
+910,train,Home & Garden
+911,train,Home & Garden
+914,train,Travel
+915,train,Automotive
+916,train,Computers & Electronics
+917,train,Automotive
+918,train,Home & Garden
+919,train,Computers & Electronics
+920,test,Home & Garden
+922,train,Travel
+925,val,Computers & Electronics
+926,train,Restaurants
+927,train,Beauty & Wellness
+928,test,Home & Garden
+929,val,Home & Garden
+930,train,Beauty & Wellness
+932,train,Travel
+933,test,Sports & Fitness
+934,test,Financial Services
+936,test,Computers & Electronics
+940,train,Apparel
+942,test,Home & Garden
+948,train,Restaurants
+949,train,Beauty & Wellness
+950,train,Computers & Electronics
+953,train,Home & Garden
+956,train,Computers & Electronics
+959,val,Computers & Electronics
+961,train,Home & Garden
+962,val,Entertainment
+963,test,Home & Garden
+965,train,Computers & Electronics
+967,train,Computers & Electronics
+968,train,Home & Garden
+970,train,Computers & Electronics
+971,train,Home & Garden
+974,train,Computers & Electronics
+975,train,Home & Garden
+976,test,Automotive
+977,train,Computers & Electronics
+978,train,Computers & Electronics
+979,train,Computers & Electronics
+980,train,Computers & Electronics
+981,test,Sports & Fitness
+984,val,Sports & Fitness
+985,train,Computers & Electronics
+986,train,Home & Garden
+987,train,Computers & Electronics
+989,test,Home & Garden
+990,train,Automotive
+993,train,Computers & Electronics
+995,train,Kids & Babies
+996,test,Apparel
+997,test,Computers & Electronics
+999,train,Kids & Babies
+1003,train,Computers & Electronics
+1004,train,Computers & Electronics
+1007,train,Entertainment
+1009,test,Computers & Electronics
+1011,train,Home & Garden
+1012,train,Computers & Electronics
+1013,test,Computers & Electronics
+1015,train,Computers & Electronics
+1016,train,Sports & Fitness
+1017,train,Computers & Electronics
+1018,train,Apparel
+1019,train,Computers & Electronics
+1021,test,Computers & Electronics
+1023,train,Automotive
+1024,train,Financial Services
+1025,test,Entertainment
+1027,train,Entertainment
+1028,train,Computers & Electronics
+1030,test,Entertainment
+1033,test,Automotive
+1035,train,Restaurants
+1036,train,Computers & Electronics
+1037,train,Computers & Electronics
+1038,test,Home & Garden
+1040,train,Sports & Fitness
+1041,train,Computers & Electronics
+1042,val,Home & Garden
+1043,train,Computers & Electronics
+1045,val,Apparel
+1050,val,Computers & Electronics
+1055,train,Home & Garden
+1057,test,Computers & Electronics
+1058,val,Computers & Electronics
+1059,train,Computers & Electronics
+1063,train,Entertainment
+1065,train,Beauty & Wellness
+1066,train,Restaurants
+1067,train,Home & Garden
+1068,train,Computers & Electronics
+1070,train,Home & Garden
+1071,train,Computers & Electronics
+1072,val,Travel
+1074,train,Restaurants
+1077,train,Computers & Electronics
+1078,val,Travel
+1079,train,Computers & Electronics
+1081,train,Computers & Electronics
+1082,val,Computers & Electronics
+1084,train,Apparel
+1085,train,Home & Garden
+1087,train,Computers & Electronics
+1088,train,Computers & Electronics
+1090,val,Home & Garden
+1092,test,Automotive
+1093,train,Apparel
+1095,val,Computers & Electronics
+1096,train,Home & Garden
+1097,train,Home & Garden
+1099,train,Sports & Fitness
+1101,test,Computers & Electronics
+1103,train,Computers & Electronics
+1104,test,Apparel
+1106,train,Travel
+1109,train,Restaurants
+1110,val,Financial Services
+1112,train,Beauty & Wellness
+1113,val,Kids & Babies
+1115,train,Computers & Electronics
+1116,val,Home & Garden
+1119,val,Kids & Babies
+1120,train,Entertainment
+1121,train,Sports & Fitness
+1123,test,Computers & Electronics
+1124,train,Computers & Electronics
+1125,train,Home & Garden
+1127,train,Computers & Electronics
+1128,val,Home & Garden
+1129,train,Home & Garden
+1130,train,Computers & Electronics
+1131,test,Small Business
+1132,test,Home & Garden
+1133,train,Home & Garden
+1134,train,Computers & Electronics
+1135,test,Travel
+1139,train,Kids & Babies
+1140,train,Computers & Electronics
+1141,train,Sports & Fitness
+1142,train,Entertainment
+1143,test,Computers & Electronics
+1144,train,Travel
+1147,train,Computers & Electronics
+1148,train,Sports & Fitness
+1149,train,Home & Garden
+1150,train,Computers & Electronics
+1153,train,Home & Garden
+1154,train,Computers & Electronics
+1160,val,Beauty & Wellness
+1162,test,Sports & Fitness
+1163,train,Kids & Babies
+1164,test,Computers & Electronics
+1166,train,Computers & Electronics
+1170,train,Restaurants
+1171,val,Entertainment
+1173,train,Home & Garden
+1175,train,Home & Garden
+1177,train,Computers & Electronics
+1178,train,Sports & Fitness
+1179,train,Computers & Electronics
+1182,test,Home & Garden
+1183,train,Home & Garden
+1185,train,Computers & Electronics
+1186,train,Home & Garden
+1187,train,Computers & Electronics
+1188,train,Computers & Electronics
+1190,train,Automotive
+1192,train,Computers & Electronics
+1193,train,Home & Garden
+1194,train,Home & Garden
+1195,train,Apparel
+1196,test,Computers & Electronics
+1197,train,Computers & Electronics
+1198,val,Computers & Electronics
+1199,train,Computers & Electronics
+1200,train,Computers & Electronics
+1204,train,Automotive
+1206,val,Computers & Electronics
+1207,train,Computers & Electronics
+1209,train,Computers & Electronics
+1210,val,Computers & Electronics
+1211,train,Entertainment
+1212,test,Home & Garden
+1213,train,Automotive
+1214,train,Kids & Babies
+1216,train,Computers & Electronics
+1217,train,Computers & Electronics
+1218,train,Entertainment
+1219,train,Computers & Electronics
+1221,train,Apparel
+1224,train,Computers & Electronics
+1226,train,Home & Garden
+1227,train,Computers & Electronics
+1228,train,Sports & Fitness
+1229,train,Computers & Electronics
+1230,train,Computers & Electronics
+1231,test,Computers & Electronics
+1232,train,Computers & Electronics
+1233,test,Sports & Fitness
+1234,val,Home & Garden
+1235,train,Financial Services
+1236,train,Home & Garden
+1238,train,Beauty & Wellness
+1241,train,Sports & Fitness
+1242,train,Home & Garden
+1243,train,Computers & Electronics
+1244,train,Computers & Electronics
+1246,train,Computers & Electronics
+1249,val,Computers & Electronics
+1250,train,Home & Garden
+1251,test,Beauty & Wellness
+1252,test,Computers & Electronics
+1253,train,Apparel
+1254,train,Computers & Electronics
+1255,train,Beauty & Wellness
+1256,train,Computers & Electronics
+1258,train,Home & Garden
+1259,train,Home & Garden
+1260,train,Computers & Electronics
+1261,train,Entertainment
+1262,val,Apparel
+1263,train,Home & Garden
+1264,train,Sports & Fitness
+1266,train,Entertainment
+1267,train,Computers & Electronics
+1268,train,Automotive
+1269,train,Home & Garden
+1271,train,Computers & Electronics
+1272,test,Computers & Electronics
+1275,train,Restaurants
+1276,train,Home & Garden
+1277,train,Beauty & Wellness
+1281,train,Beauty & Wellness
+1282,train,Computers & Electronics
+1283,train,Home & Garden
+1284,train,Apparel
+1285,train,Home & Garden
+1288,train,Kids & Babies
+1290,test,Computers & Electronics
+1291,test,Entertainment
+1292,train,Computers & Electronics
+1294,train,Home & Garden
+1295,val,Computers & Electronics
+1297,test,Home & Garden
+1300,train,Computers & Electronics
+1301,train,Computers & Electronics
+1303,train,Home & Garden
+1305,train,Computers & Electronics
+1306,train,Home & Garden
+1308,test,Restaurants
+1310,val,Home & Garden
+1311,train,Home & Garden
+1313,val,Computers & Electronics
+1316,val,Home & Garden
+1317,train,Travel
+1318,train,Computers & Electronics
+1319,test,Travel
+1321,test,Automotive
+1322,val,Sports & Fitness
+1325,train,Computers & Electronics

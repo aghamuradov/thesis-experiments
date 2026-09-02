@@ -1,0 +1,125 @@
+row_id,thread_category,true_parent_category,parent_category_pred_dict,zuordnungsart
+11,Toys & Games,Kids & Babies,Kids & Babies,exakt
+20,Mortgages & Loans,Financial Services,Financial Services,exakt
+22,Other,Entertainment,Computers & Electronics,exakt
+39,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+40,Other,Home & Garden,Computers & Electronics,exakt
+49,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+69,Toys & Games,Kids & Babies,Kids & Babies,exakt
+75,Credit Cards,Financial Services,Financial Services,exakt
+84,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+119,Appliances,Home & Garden,Home & Garden,exakt
+135,Beauty Supplies & Personal Care,Beauty & Wellness,Beauty & Wellness,exakt
+142,Telecom,Computers & Electronics,Computers & Electronics,exakt
+149,Fast Food,Restaurants,Restaurants,exakt
+152,Televisions,Computers & Electronics,Computers & Electronics,exakt
+162,Telecom,Computers & Electronics,Computers & Electronics,exakt
+180,Other,Beauty & Wellness,Computers & Electronics,exakt
+185,Video Games,Computers & Electronics,Computers & Electronics,exakt
+189,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+207,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+242,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+247,Other,Home & Garden,Computers & Electronics,exakt
+249,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+285,Cell Phones,Computers & Electronics,Computers & Electronics,exakt
+292,Other,Home & Garden,Computers & Electronics,exakt
+295,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+303,Cell Phones,Computers & Electronics,Computers & Electronics,exakt
+349,Televisions,Computers & Electronics,Computers & Electronics,exakt
+352,Credit Cards,Financial Services,Financial Services,exakt
+357,"Books, Music, Movies, Magazines",Entertainment,Entertainment,exakt
+392,Beauty Supplies & Personal Care,Beauty & Wellness,Beauty & Wellness,exakt
+397,Televisions,Computers & Electronics,Computers & Electronics,exakt
+400,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+401,Fast Food,Restaurants,Restaurants,exakt
+422,Appliances,Home & Garden,Home & Garden,exakt
+496,Video Games,Computers & Electronics,Computers & Electronics,exakt
+503,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+509,Appliances,Home & Garden,Home & Garden,exakt
+515,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+522,Other,Home & Garden,Computers & Electronics,exakt
+523,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+527,Televisions,Computers & Electronics,Computers & Electronics,exakt
+572,Men's Shoes,Apparel,Apparel,exakt
+587,Other,Home & Garden,Computers & Electronics,exakt
+589,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+599,Telecom,Computers & Electronics,Computers & Electronics,exakt
+612,Pets,Home & Garden,Home & Garden,exakt
+619,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+628,Beauty Supplies & Personal Care,Beauty & Wellness,Beauty & Wellness,exakt
+632,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+635,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+643,Video Games,Computers & Electronics,Computers & Electronics,exakt
+654,Auto Parts & Accessories,Automotive,Automotive,exakt
+659,Banking & Investing,Financial Services,Financial Services,exakt
+670,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+675,Other,Kids & Babies,Computers & Electronics,exakt
+683,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+702,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+717,Televisions,Computers & Electronics,Computers & Electronics,exakt
+719,Men's Apparel,Apparel,Apparel,exakt
+720,Fast Food,Restaurants,Restaurants,exakt
+731,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+743,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+744,Video Games,Computers & Electronics,Computers & Electronics,exakt
+752,Office Supplies,Small Business,Small Business,exakt
+764,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+765,Televisions,Computers & Electronics,Computers & Electronics,exakt
+770,Appliances,Home & Garden,Home & Garden,exakt
+771,Appliances,Home & Garden,Home & Garden,exakt
+781,Cameras,Computers & Electronics,Computers & Electronics,exakt
+785,"Books, Music, Movies, Magazines",Entertainment,Entertainment,exakt
+786,Cell Phones,Computers & Electronics,Computers & Electronics,exakt
+797,Toys & Games,Kids & Babies,Kids & Babies,exakt
+798,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+810,Equipment,Sports & Fitness,Sports & Fitness,exakt
+812,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+838,Other,Home & Garden,Computers & Electronics,exakt
+859,Furniture,Home & Garden,Home & Garden,exakt
+869,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+877,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+903,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+920,Outdoors & Patio,Home & Garden,Home & Garden,exakt
+928,Outdoors & Patio,Home & Garden,Home & Garden,exakt
+933,Equipment,Sports & Fitness,Sports & Fitness,exakt
+934,Mortgages & Loans,Financial Services,Financial Services,exakt
+936,Televisions,Computers & Electronics,Computers & Electronics,exakt
+942,Appliances,Home & Garden,Home & Garden,exakt
+963,Appliances,Home & Garden,Home & Garden,exakt
+976,Other,Automotive,Computers & Electronics,exakt
+981,Equipment,Sports & Fitness,Sports & Fitness,exakt
+989,Home Improvement & Tools,Home & Garden,Home & Garden,exakt
+996,Men's Shoes,Apparel,Apparel,exakt
+997,Cell Phones,Computers & Electronics,Computers & Electronics,exakt
+1009,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+1013,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+1021,Televisions,Computers & Electronics,Computers & Electronics,exakt
+1025,Other,Entertainment,Computers & Electronics,exakt
+1030,"Books, Music, Movies, Magazines",Entertainment,Entertainment,exakt
+1033,Auto Parts & Accessories,Automotive,Automotive,exakt
+1038,Pets,Home & Garden,Home & Garden,exakt
+1057,Other,Computers & Electronics,Computers & Electronics,exakt
+1092,Auto Parts & Accessories,Automotive,Automotive,exakt
+1101,Telecom,Computers & Electronics,Computers & Electronics,exakt
+1104,Men's Apparel,Apparel,Apparel,exakt
+1123,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+1131,Office Supplies,Small Business,Small Business,exakt
+1132,Appliances,Home & Garden,Home & Garden,exakt
+1135,Hotels,Travel,Travel,exakt
+1143,Home Theatre & Audio,Computers & Electronics,Computers & Electronics,exakt
+1162,Equipment,Sports & Fitness,Sports & Fitness,exakt
+1164,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+1182,Outdoors & Patio,Home & Garden,Home & Garden,exakt
+1196,Other,Computers & Electronics,Computers & Electronics,exakt
+1212,Furniture,Home & Garden,Home & Garden,exakt
+1231,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+1233,Other,Sports & Fitness,Computers & Electronics,exakt
+1251,Beauty Supplies & Personal Care,Beauty & Wellness,Beauty & Wellness,exakt
+1252,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+1272,Peripherals & Accessories,Computers & Electronics,Computers & Electronics,exakt
+1290,Computers & Tablets/eReaders,Computers & Electronics,Computers & Electronics,exakt
+1291,"Books, Music, Movies, Magazines",Entertainment,Entertainment,exakt
+1297,Other,Home & Garden,Computers & Electronics,exakt
+1308,Restaurants & Bars,Restaurants,Restaurants,exakt
+1319,Hotels,Travel,Travel,exakt
+1321,Auto Parts & Accessories,Automotive,Automotive,exakt
