@@ -1,0 +1,43 @@
+thread_category,majority_parent_category,vote_share,is_ambiguous
+Appliances,Home & Garden,1.0,False
+Auto Parts & Accessories,Automotive,1.0,False
+Baby Needs,Kids & Babies,1.0,False
+Banking & Investing,Financial Services,1.0,False
+Beauty Supplies & Personal Care,Beauty & Wellness,1.0,False
+"Books, Music, Movies, Magazines",Entertainment,1.0,False
+Cameras,Computers & Electronics,1.0,False
+Cell Phones,Computers & Electronics,1.0,False
+Children's Apparel,Apparel,1.0,False
+Clothing & Accessories,Sports & Fitness,1.0,False
+Coffee & Desserts,Restaurants,1.0,False
+Computers & Tablets/eReaders,Computers & Electronics,1.0,False
+Credit Cards,Financial Services,1.0,False
+Equipment,Sports & Fitness,1.0,False
+Events & Attractions,Entertainment,1.0,False
+Fast Food,Restaurants,1.0,False
+Flights,Travel,1.0,False
+Furniture,Home & Garden,1.0,False
+Gyms & Related Services,Sports & Fitness,1.0,False
+Home Decor,Home & Garden,1.0,False
+Home Improvement & Tools,Home & Garden,1.0,False
+Home Services & Repairs,Home & Garden,1.0,False
+Home Theatre & Audio,Computers & Electronics,1.0,False
+Hotels,Travel,1.0,False
+Men's Apparel,Apparel,1.0,False
+Men's Clothing ,Sports & Fitness,1.0,False
+Men's Shoes,Apparel,1.0,False
+Mortgages & Loans,Financial Services,1.0,False
+Office Supplies,Small Business,1.0,False
+Other,Home & Garden,0.25806451612903225,True
+Outdoors & Patio,Home & Garden,1.0,False
+Peripherals & Accessories,Computers & Electronics,1.0,False
+Pets,Home & Garden,1.0,False
+Rail & Bus,Travel,1.0,False
+Restaurants & Bars,Restaurants,1.0,False
+School Supplies,Kids & Babies,1.0,False
+Telecom,Computers & Electronics,1.0,False
+Televisions,Computers & Electronics,1.0,False
+Toys & Games,Kids & Babies,1.0,False
+Video Games,Computers & Electronics,1.0,False
+Women's Apparel,Apparel,1.0,False
+Women's Shoes,Apparel,1.0,False
